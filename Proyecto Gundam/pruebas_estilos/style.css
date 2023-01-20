@@ -1,0 +1,51 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Trebuchet", sans-serif;
+}
+
+
+body{
+    background-color: #cccccc;
+}
+#header{
+    background-color: slateblue;
+    display: flex;
+    /* justify-content: center; */
+    width: 100vw;
+    height: 15vh;
+    align-items: center;
+}
+
+.headerButton{
+    border-radius: 1px;
+    border: solid 2px;
+    border-color: antiquewhite;
+    color: slateblue;
+    display: flex;
+    flex-direction: column;
+    margin-right: 2px;
+    height: 100%;
+    width: 100px;
+    align-items: center;
+    justify-content: center;
+    transition: 0.5s;
+
+}
+#header:active{
+    transition: 0.5s;
+
+    color: rgb(71, 62, 129);
+    
+}
+
+p{
+    display: flex;
+    justify-content: center;
+    font: TrebuChet;
+    font-size: 16;
+    color: aliceblue;
+}
+
