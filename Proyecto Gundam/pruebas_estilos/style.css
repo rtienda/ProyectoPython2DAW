@@ -6,12 +6,21 @@
     font-family: "Trebuchet", sans-serif;
 }
 
+@font-face {
+    font-family: myFirstFont;
+    src: url("../fuentes/Iori-1m1M.ttf");
+}
+@font-face {
+    font-family: myFirstFont;
+    src: url("../fuentes/IoriBold-RoMe.ttf");
+    font-weight: bold;
 
+}
 body{
     background-color: #cccccc;
 }
 #header{
-    background-color: slateblue;
+    background-color: #2c52b3;
     display: flex;
     /* justify-content: center; */
     width: 100vw;
@@ -20,10 +29,42 @@ body{
 }
 
 .headerButton{
-    border-radius: 1px;
-    border: solid 2px;
-    border-color: antiquewhite;
-    color: slateblue;
+    border-radius: 10px;
+    border: 0px;
+    /* border: solid 2px; */
+    /* border-color: antiquewhite; */
+    background-color: #2c52b3;
+    display: flex;
+    flex-direction: column;
+    /* margin-left: 2px; */
+    /* margin-right: 2px; */
+    margin: 2px;
+
+    height: 95%;
+    width: 100px;
+    align-items: center;
+    justify-content: center;
+    transition: 0.25s;
+    cursor:pointer
+}
+.headerButton:hover{
+    transition: 0.5s;
+    /* opacity: 0; */
+    background-color: #192e63;
+    
+}
+
+.Button{
+    display: flex;
+    justify-content: center;
+    font-family: myFirstFont;
+    /* font: TrebuChet; */
+    font-size:20px;
+    color: #fff867;
+}
+
+#logo{
+    display: flex;
     display: flex;
     flex-direction: column;
     margin-right: 2px;
@@ -31,21 +72,71 @@ body{
     width: 100px;
     align-items: center;
     justify-content: center;
-    transition: 0.5s;
-
-}
-#header:active{
-    transition: 0.5s;
-
-    color: rgb(71, 62, 129);
-    
 }
 
-p{
+#pageContainer{
+    /* background-color: #2c52b3; */
     display: flex;
-    justify-content: center;
-    font: TrebuChet;
-    font-size: 16;
-    color: aliceblue;
+    /* justify-content: center; */
+    width: 96vw;
+    height: auto;
+    align-items: flex-start;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-left: 2vw;
+    margin-right: 2vw;
+}
+.separator{
+    border-left: 3px solid #192e63;
+    height: 60%;
+}
+#separador_inicial{
+    margin-left: 10px;
+}
+#tablaPendientes{
+    border-collapse: collapse;
+    margin: 25px 0;
+    font-size: 0.9em;
+    font-family: sans-serif;
+    min-width: 400px;
+    /* background-color: #2c52b3; */
+    box-shadow: 0 0 20px #192e63;
+    /* display: flex; */
+    /* justify-content: space-between; */
+}
+.tableHeaderRow{
+    background-color: #2c52b3;
+}
+.tableHeader{
+    width: 100%;
+}
+table,th,td{
+    text-align: left;
+    width: 100%;
 }
 
+table{
+    border: 3px solid;
+    border-radius: 3px;
+    border-color: #192e63;
+    border-spacing: 0;
+}
+
+.headerText{
+    color: #fff867;
+    font-family: myFirstFont;
+    margin-left: 3px;
+    margin-right: 3px;
+}
+
+#tablaComprados{
+    border-collapse: collapse;
+    margin: 25px 0;
+    font-size: 0.9em;
+    font-family: sans-serif;
+    min-width: 400px;
+    /* background-color: #2c52b3; */
+    box-shadow: 0 0 20px #192e63;
+    /* display: flex; */
+    /* justify-content: space-between; */
+}
