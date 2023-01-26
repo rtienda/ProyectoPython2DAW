@@ -25,12 +25,16 @@ def process_ms_info(ms_link):
 	page = BeautifulSoup(response)
 	imageGunpla = "N/A"
 	manufacturer = "N/A"
+	imageUrl = "N/A"
 
 	if page.find("span", attrs = {"class": "smwtext"}) != None:
 		height = page.find("span", attrs = {"class": "smwtext"}).get_text()
 		height = float(height.split()[0])
 		try:
-			imageGunpla = page.find("img",attrs = {"class": "pi-image-thumbnail"}).get("src")
+			
+			imageUrl = page.find("img",attrs = {"class": "pi-image-thumbnail"}).get("src")
+			imageGunpla=jpgSeparator(imageUrl)
+			# imageGunpla
 		except:
 			print("No hay imagen")
 			imageGunpla="N/A"
@@ -96,9 +100,15 @@ def scrape_wiki(wiki_link):
 				process_kit_info(kit_info, index)
 				index += 1
 
+def jpgSeparator(imageUrl1):
+	urls=imageUrl1.split("/revision")
+	imageUrl1=urls[0]
+	print(imageUrl1)
+	return imageUrl1
+
 scrape_wiki(wiki_link)
 
 """Inserts scraped data from wiki into database table"""
-# c.executemany('''INSERT INTO gunpla VALUES (?,?,?,?,?,?,?,?)''', db_entries)
-# conn.commit()
+c.executemany('''INSERT INTO gunpla VALUES (?,?,?,?,?,?,?,?)''', db_entries)
+conn.commit()
 conn.close()

@@ -165,12 +165,23 @@ table{
 }
 .imagenes{
     max-width: 100%;
-    max-height: 100%;
+    max-height: 100px;
+    transition: 0.5s ease;
+}
+.imagenes:hover{
+    transition: 0.5 ease;
+    transform: translateX(30%);
+    scale:300%;
 }
 #tablaPrincipal{
     table-layout: fixed;
 }
 td{
     /* overflow: hidden; */
+    
+}
+#columnaImagen{
+    text-align: center;
 
 }
+
