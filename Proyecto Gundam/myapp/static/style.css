@@ -8,11 +8,11 @@
 
 @font-face {
     font-family: myFirstFont;
-    src: url("../fuentes/Iori-1m1M.ttf");
+    src: url("../static/fuentes/Iori-1m1M.ttf");
 }
 @font-face {
     font-family: myFirstFont;
-    src: url("../fuentes/IoriBold-RoMe.ttf");
+    src: url("../static/fuentes/IoriBold-RoMe.ttf");
     font-weight: bold;
 
 }
@@ -101,6 +101,7 @@ body{
     min-width: 400px;
     /* background-color: #2c52b3; */
     box-shadow: 0 0 5px #192e63;
+    /* table-layout: fixed; */
     /* display: flex; */
     /* justify-content: space-between; */
 }
@@ -161,4 +162,15 @@ table{
     width: 40px;
     height: 40px;
     background-color: #192e63;
+}
+.imagenes{
+    max-width: 100%;
+    max-height: 100%;
+}
+#tablaPrincipal{
+    table-layout: fixed;
+}
+td{
+    /* overflow: hidden; */
+
 }

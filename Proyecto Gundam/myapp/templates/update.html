@@ -1,0 +1,40 @@
+{% extends 'base.html' %} {% block content %}
+<h1>Update Gundam - {{ gundam.fullname }}</h1>
+<a href="/">Back</a><br /><br />
+
+<form action="/update/{{ gundam.uid }}" method="post">
+  <label for="name_input">Name</label>
+  <input
+    type="text"
+    name="name"
+    id="name_input"
+    value="{{ gundam.name }}"
+  /><br />
+
+  <!-- <label for="sex_input">Sex</label>
+  <input
+    type="text"
+    name="sex"
+    id="sex_input"
+    value="{{ mammal.sex }}"
+  /><br />
+
+  <label for="plot_type_input">Plot type</label>
+  <input
+    type="text"
+    name="plot_type"
+    id="plot_type_input"
+    value="{{ mammal.plot_type }}"
+  /><br />
+
+  <label for="hindfoot_length_input">Hindfoot Length</label>
+  <input
+    type="tel"
+    name="hindfoot_length"
+    id="hindfoot_length_input"
+    value="{{ mammal.hindfoot_length }}"
+  /><br /> -->
+
+  <input type="submit" value="Update" />
+</form>
+{% endblock %}
