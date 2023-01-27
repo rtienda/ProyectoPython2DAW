@@ -30,14 +30,14 @@ def process_ms_info(ms_link):
 	if page.find("span", attrs = {"class": "smwtext"}) != None:
 		height = page.find("span", attrs = {"class": "smwtext"}).get_text()
 		height = float(height.split()[0])
-		try:
+		# try:
 			
-			imageUrl = page.find("img",attrs = {"class": "pi-image-thumbnail"}).get("src")
-			imageGunpla=jpgSeparator(imageUrl)
-			# imageGunpla
-		except:
-			print("No hay imagen")
-			imageGunpla="N/A"
+		# 	imageUrl = page.find("img",attrs = {"class": "pi-image-thumbnail"}).get("src")
+		# 	imageGunpla=jpgSeparator(imageUrl)
+		# 	# imageGunpla
+		# except:
+		# 	print("No hay imagen")
+		# 	imageGunpla="N/A"
 
 	else:
 		height = 0
@@ -50,22 +50,45 @@ def process_ms_info(ms_link):
 		if manufacturer_section != None and manufacturer_section.find("a") != None:
 			manufacturer = manufacturer_section.find("a").get_text().strip()
 	
-	return [height, manufacturer,imageGunpla]
+	return [height, manufacturer]
 
 def process_kit_info(kit_info_list, index):
 	"""Scrapes information for an individual kit including data for its mobile suit on main wiki page"""
 	info_list = [index]
 	ms_info = [0, "N/A"]
+	try:
+			
+		imageUrl = kit_info_list[0].find("img").get("src")
+		# print(imageUrl)
+		if( "R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" not in imageUrl):
+			imageGunpla=jpgSeparator(imageUrl)
+			print(imageUrl)
+			print("imagen buena")
+
+		else:
+			imageUrl = kit_info_list[0].find("a",attrs = {"class": "image"}).get("href")
+			imageGunpla=jpgSeparator(imageUrl)
+			print(imageUrl)
+			print("imagen pocha")	
+
+
+		# imageGunpla
+	except:
+		print("No hay imagen")
+		imageGunpla="N/A"
+
 	for i in range(1, 3):
 		if kit_info_list[i].find("a") != None:
 			curr_link = kit_info_list[i].find("a")
 			info_list.append(curr_link.get("title"))
+
 			if i == 1:
 				ms_info = process_ms_info(wiki_root + curr_link.get("href"))
 				# print(ms_info)
 		else:
 			info_list.append("N/A")
 	info_list.extend(ms_info)
+	info_list.append(imageGunpla)
 	for i in range(3, 5):
 		info_list.append(kit_info_list[i].get_text().strip())
 		# print(info_list)
