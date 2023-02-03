@@ -165,8 +165,8 @@ table{
 }
 .imagenes{
     max-width: 100%;
-    max-height: 100px;
-    transition: 0.5s ease;
+    max-height: 100%;
+    transition: 0.5s ease;  
     /* image-rendering: auto ; */
     /* aspect-ratio: 1280 / 720; */
     /* intrinsicsize: 1920px 1080px; */
@@ -183,6 +183,8 @@ table{
 }
 td{
     /* overflow: hidden; */
+    height: 140px;
+    object-fit: contain;
     
 }
 #columnaImagen{
@@ -194,6 +196,6 @@ td{
 
 }
 .imagenesGrandes{
-    display: none;
+    /* display: none; */
     height: 300px;
 }

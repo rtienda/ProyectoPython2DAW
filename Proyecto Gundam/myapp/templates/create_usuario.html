@@ -1,0 +1,56 @@
+{% extends 'base.html' %} {% block content %}
+<h1>Add Usuario</h1>
+<a href="/">Back</a><br /><br />
+
+<form id="createForm" action="/create" method="post">
+  <table>
+    <tbody>
+      <tr>
+        <td class="campo">
+          <label for="name_input">Nick</label>
+        </td>
+        <td>
+          <input type="text" name="nick" id="nick_input" />
+        </td>
+      </tr>
+
+      <tr>
+        <td class="campo">
+          <label for="nombre_input">Nombre</label>
+        </td>
+        <td>
+          <input type="text" name="nombre" id="nombre_input" />
+        </td>
+      </tr>
+
+      <tr>
+        <td class="campo">
+          <label for="apellidos_input">Apellidos</label>
+        </td>
+        <td>
+          <input type="text" name="apellidos" id="apellidos_input" />
+        </td>
+      </tr>
+
+      
+      <tr>
+          <td class="fila-boton" colspan="2">
+          <button id="submitButton">Add</button>
+        </td>
+      </tr>
+    </tbody>
+    </tbody>
+  </table>
+
+</form>
+
+<!-- Botón fuera del formulario -->
+
+<!-- <button id="clearButton">Clear</button> -->
+<!-- <button id="hideButton">Hide</button> -->
+<!-- <button id="showButton">Show</button> -->
+{% endblock %}
+
+{% block js %}
+<script src="{{ url_for('static', filename='validation.js') }}"></script>
+{% endblock %}

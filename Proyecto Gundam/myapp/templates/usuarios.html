@@ -1,0 +1,36 @@
+{% extends 'base.html' %} {% block content %}
+<h1>Usuarios List</h1>
+
+<a href="/create">Add</a>
+
+<!-- <ul>
+  {% for gundam in gundams %}
+  <li>
+    {{ gundam.name }}
+    <a href="/update/{{ gundam.uid }}">Update</a>
+    <a href="/delete/{{ gundam.uid }}">Delete</a>
+  </li>
+  {% endfor %}
+</ul> -->
+<div>
+  <table id="tablaPrincipal">
+    <tr class="tableHeaderRow">
+        <th class="tableHeader"><p class="headerText">Nick</p></th>
+        <th class="tableHeader"><p class="headerText">Nombre</p></th>
+        <th class="tableHeader"><p class="headerText">Apellidos</p></th>
+        <th class="tableHeader"><p class="headerText">Actualizar</p></th>
+        <th class="tableHeader"><p class="headerText">Borrar</p></th>
+    </tr>
+    {% for usuario in usuarios %}
+    <tr>
+        <td><p>{{usuario.nick}}</p></td>
+        <td><p>{{usuario.nombre}}</p></td>
+        <td><p>{{usuario.apellidos}}</p></td> 
+        <td><a href="/update/{{ usuario.uid }}">Update</a></td>
+        <td><a href="/delete/{{ usuario.uid }}">Delete</a></td>
+    </tr>
+    {% endfor %}
+  </table>
+</div>
+
+{% endblock %}

@@ -1,0 +1,11 @@
+
+--FLASK
+base de datos
+3 tablas relacionadas y con campos unicos
+4 vistas
+para consultas usar objetos del ORM FLASK- ALCHEMY
+Alguna vista tiene que tener un procesamiento
+En los formularios de las vistas de la pagina debe incluir
+	:insercion, borrado, actualizacion y listado de los datos
+
+--CSS Y JAVASCRIPT

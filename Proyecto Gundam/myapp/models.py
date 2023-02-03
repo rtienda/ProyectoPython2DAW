@@ -59,16 +59,68 @@ def init_db(app) -> dict[str, Callable]:
         gundams = Gundams.query.all()
         return [gundam for gundam in gundams]
 
+
+    #Creacion de tablas usuarios y sus metodos
+    class Usuarios(db.Model):
+        __tablename__ = "Usuarios"
+
+        uid = db.Column("id",db.Integer, primary_key=True)
+        nick = db.Column(db.String(255))
+        nombre = db.Column(db.String(255))
+        apellidos = db.Column(db.String(255))
+
+        def __str__(self): 
+            return f"[{self.uid}] {self.nick} {self.nombre}"
+
+        # utilizar el decorador  property para crear una propiedad (atributo) de la clase
+        # al que es posible referirse para directamente obtener los atributos nombre y apellido de una vez 
+        @property
+        def fullname(self) -> str:
+            return f"{self.nick} {self.nombre}"
+
+    # ------------- métodos que operan sobre el contenido la tabla -----------
+    def create_usuario(nick: str, nombre: str, apellidos: str):
+        usuario = Usuarios(
+            nick=nick, nombre=nombre, apellidos=apellidos,
+        )
+        db.session.add(usuario)
+        db.session.commit()
+
+    def read_usuario(uid: int) -> Usuarios:
+        return Usuarios.query.get(uid)
+
+    def update_usuario(
+        uid: int, nick: str, nombre: str, apellidos: str
+    ):
+        usuario = Usuarios.query.get(uid)
+        usuario.nick = nick
+        usuario.nombre = nombre
+        usuario.apellidos = apellidos
+        db.session.commit()
+
+    def delete_usuario(uid: int):
+        usuario = Usuarios.query.get(uid)
+        db.session.delete(usuario)
+        db.session.commit()
+
+    def list_usuarios() -> list[Usuarios]:
+        usuarios = Usuarios.query.all()
+        return [usuario for usuario in usuarios]
+
+
+
     # create_all es un método de Flask-alchemy que crea la tabla con sus campos
     db.create_all()
 
     return {
     	# estos alias serán usados para llamar a los métodos de la clase, por ejemplo db_access["create"]
     	# invoca al método create_contact
-        "create": create_gundam,
-        "read": read_gundam,
-        "update": update_gundam,
-        "delete": delete_gundam,
-        "list": list_gundams,
+        "read_gundam": read_gundam,
+        "list_gundams": list_gundams,
+        "create_usuario": create_usuario,
+        "read_usuario": read_usuario,
+        "update_usuario": update_usuario,    
+        "delete_usuario": delete_usuario,
+        "list_usuarios": list_usuarios,
     }
 

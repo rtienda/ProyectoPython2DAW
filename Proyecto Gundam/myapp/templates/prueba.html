@@ -1,0 +1,38 @@
+{% extends 'base.html' %} {% block content %}
+<h1>Gunpla List</h1>
+
+<a href="/create">Add</a>
+
+<!-- <ul>
+  {% for gundam in gundams %}
+  <li>
+    {{ gundam.name }}
+    <a href="/update/{{ gundam.uid }}">Update</a>
+    <a href="/delete/{{ gundam.uid }}">Delete</a>
+  </li>
+  {% endfor %}
+</ul> -->
+<img src="https://static.wikia.nocookie.net/gundam/images/8/8f/Hguc-rx77.jpg" alt="" >
+
+<div>
+  <table id="tablaPrincipal">
+    <tr class="tableHeaderRow">
+        <th class="tableHeader" id="cabeceraImagen"><p class="headerText">Imagen</p></th>
+        <!-- <th class="tableHeader"><p class="headerText">Nombre</p></th>
+        <th class="tableHeader"><p class="headerText">Serie</p></th>
+        <th class="tableHeader"><p class="headerText">Precio</p></th>
+        <th class="tableHeader"><p class="headerText">Fecha de lanzamiento</p></th> -->
+
+    </tr>
+    <tr>
+        <td id="columnaImagen"><img src="{{gundams[0].imageUrl}}" alt="" class="imagenesGrandes"></td>
+    </tr>
+    <!-- {% for gundam in gundams %}
+    <tr>
+        <td id="columnaImagen"><img src="{{gundam.imageUrl}}" alt="" class="imagenesGrandes"></td>
+    </tr>
+    {% endfor %} -->
+  </table>
+</div>
+
+{% endblock %}
