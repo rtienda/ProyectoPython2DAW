@@ -6,8 +6,8 @@
 <form action="#">
     <label for="lang">Lenguaje</label>
     <select name="Serie" id="lang" style="width: 300px;">
-    {% for gundam in gundams %}
-      <option value="{{gundam.series}}">{{gundam.series}}</option>
+    {% for serie in series %}
+      <option value="{{serie}}">{{serie}}</option>
     {% endfor %}
 
     </select>

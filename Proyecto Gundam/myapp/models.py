@@ -106,8 +106,9 @@ def init_db(app) -> dict[str, Callable]:
     def list_usuarios() -> list[Usuarios]:
         usuarios = Usuarios.query.all()
         return [usuario for usuario in usuarios]
-
-
+    def list_gundams_filtro():
+        series = Gundams.query(series).group_by(series).all()
+        return [serie for serie in series]
 
     # create_all es un método de Flask-alchemy que crea la tabla con sus campos
     db.create_all()
@@ -122,5 +123,6 @@ def init_db(app) -> dict[str, Callable]:
         "update_usuario": update_usuario,    
         "delete_usuario": delete_usuario,
         "list_usuarios": list_usuarios,
+        "list_gundams_filtro":list_gundams_filtro,
     }
 
