@@ -3,11 +3,12 @@
 
 <!-- <a href="/create">Add</a> -->
 
-<form action="#">
+<form action="#" method="get">
     <label for="lang">Serie</label>
     <select name="Serie" id="lang" style="width: 300px;">
+      <option value="" selected disabled hidden >Filtra por serie</option>
     {% for serie in series1 %}
-      <option value="{{serie}}">{{serie[0]}}</option>
+      <option value="{{serie[0]}}">{{serie[0]}}</option>
     {% endfor %}
 
     </select>

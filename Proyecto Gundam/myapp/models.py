@@ -66,7 +66,10 @@ def init_db(app) -> dict[str, Callable]:
         return [gundam for gundam in gundams]
     def list_gundams_filtro() -> list[Gundams]:
         series1 = db.session.query(Gundams.series).group_by(Gundams.series).all()
-        return [serie for serie in series1] 
+        return [serie for serie in series1]
+    def list_gundams_filtro1(serieSeleccionada: str) -> list[Gundams]:
+        gundams = Gundams.query.order_by(desc(Gundams.release)).filter(Gundams.imageUrl!='N/A').filter(Gundams.series==serieSeleccionada).all()
+        return [gundam for gundam in gundams]
 
     #Creacion de tablas usuarios y sus metodos
     class Usuarios(db.Model):
@@ -130,5 +133,7 @@ def init_db(app) -> dict[str, Callable]:
         "delete_usuario": delete_usuario,
         "list_usuarios": list_usuarios,
         "list_gundams_filtro":list_gundams_filtro,
+        "list_gundams_filtro1":list_gundams_filtro1,
+
     }
 

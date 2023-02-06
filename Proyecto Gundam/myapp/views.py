@@ -14,8 +14,38 @@ def init_views(app, db_access: dict[str, Callable]):
     def gundams():
     	# invoca a la clase contact que está implementada en models.py con el método "list"
     	# y luego lanza la vista "index.html"
-        list_gundams = db_access["list_gundams"] 
-        gundams = list_gundams() # para mostrar al inicio los contactos que ya están en la BD
+        if  request.args.get("Serie") == None:
+            print("antiguo")
+            list_gundams = db_access["list_gundams"] 
+
+            gundams = list_gundams() # para mostrar al inicio los contactos que ya están en la BD
+            list_gundams_filtro = db_access["list_gundams_filtro"]
+            series1= list_gundams_filtro()
+            print(request.args.get("Serie"))
+
+        else:
+            print("entra")
+            list_gundams_filtro1 = db_access["list_gundams_filtro1"] 
+
+            # prueba=request.args.get("Serie")
+            print(request.args)
+            print(request.args.get("Serie"))
+            serieActual=request.args.get("Serie")
+            gundams = list_gundams_filtro1(serieActual)
+            # print(gundams[1].name)
+            # para mostrar al inicio los contactos que ya están en la BD
+            list_gundams_filtro = db_access["list_gundams_filtro"]
+            series1= list_gundams_filtro()            
+        return render_template("gundams.html", gundams=gundams,series1=series1)
+    @app.route("/gundams/<series2>", methods=["GET", "POST"])
+    def gundamsBusqueda(series2: str):
+    	# invoca a la clase contact que está implementada en models.py con el método "list"
+    	# y luego lanza la vista "index.html"
+        print("entra")
+        list_gundams_filtro1 = db_access["list_gundams_filtro1"] 
+        gundams = list_gundams_filtro1(series2)
+        print(gundams[1].name)
+        # para mostrar al inicio los contactos que ya están en la BD
         list_gundams_filtro = db_access["list_gundams_filtro"]
         series1= list_gundams_filtro()
         return render_template("gundams.html", gundams=gundams,series1=series1)
