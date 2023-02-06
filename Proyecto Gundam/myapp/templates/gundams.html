@@ -1,13 +1,13 @@
 {% extends 'base.html' %} {% block content %}
 <h1>Gunpla List</h1>
 
-<a href="/create">Add</a>
+<!-- <a href="/create">Add</a> -->
 
 <form action="#">
-    <label for="lang">Lenguaje</label>
+    <label for="lang">Serie</label>
     <select name="Serie" id="lang" style="width: 300px;">
-    {% for serie in series %}
-      <option value="{{serie}}">{{serie}}</option>
+    {% for serie in series1 %}
+      <option value="{{serie}}">{{serie[0]}}</option>
     {% endfor %}
 
     </select>

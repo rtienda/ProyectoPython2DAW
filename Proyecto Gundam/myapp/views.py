@@ -16,11 +16,13 @@ def init_views(app, db_access: dict[str, Callable]):
     	# y luego lanza la vista "index.html"
         list_gundams = db_access["list_gundams"] 
         gundams = list_gundams() # para mostrar al inicio los contactos que ya están en la BD
-        return render_template("gundams.html", gundams=gundams)
-    def filtro_series_gundams():
         list_gundams_filtro = db_access["list_gundams_filtro"]
-        series= list_gundams_filtro()
-        return render_template("gundams.html",series=series)
+        series1= list_gundams_filtro()
+        return render_template("gundams.html", gundams=gundams,series1=series1)
+    # def filtro_series_gundams():
+    #     list_gundams_filtro = db_access["list_gundams_filtro"]
+    #     series1= list_gundams_filtro()
+    #     return render_template("gundams.html",series1=series1)
 
    
     @app.route("/update/<int:uid>", methods=["GET", "POST"])

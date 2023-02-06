@@ -1,9 +1,15 @@
 from typing import Callable
 
 from flask_sqlalchemy import SQLAlchemy
-
+from sqlalchemy.sql.expression import desc
 def init_db(app) -> dict[str, Callable]:
     db = SQLAlchemy(app)
+    # class Series1(db.):
+    #     __view__ = "v_series"
+    #     series = db.Column(db.String(255))
+    # def list_gundams_filtro() -> list[Series1]:
+    #     series1 = Series1.query.all()
+    #     return [serie for serie in series1]
 
     class Gundams(db.Model):
         __tablename__ = "gunpla"
@@ -56,9 +62,11 @@ def init_db(app) -> dict[str, Callable]:
         db.session.commit()
 
     def list_gundams() -> list[Gundams]:
-        gundams = Gundams.query.all()
+        gundams = Gundams.query.order_by(desc(Gundams.release)).filter(Gundams.imageUrl!='N/A').all()
         return [gundam for gundam in gundams]
-
+    def list_gundams_filtro() -> list[Gundams]:
+        series1 = db.session.query(Gundams.series).group_by(Gundams.series).all()
+        return [serie for serie in series1] 
 
     #Creacion de tablas usuarios y sus metodos
     class Usuarios(db.Model):
@@ -106,9 +114,7 @@ def init_db(app) -> dict[str, Callable]:
     def list_usuarios() -> list[Usuarios]:
         usuarios = Usuarios.query.all()
         return [usuario for usuario in usuarios]
-    def list_gundams_filtro():
-        series = Gundams.query(series).group_by(series).all()
-        return [serie for serie in series]
+
 
     # create_all es un método de Flask-alchemy que crea la tabla con sus campos
     db.create_all()
