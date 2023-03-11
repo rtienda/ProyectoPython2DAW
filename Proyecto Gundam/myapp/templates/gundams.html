@@ -35,7 +35,7 @@
     </tr>
     {% for gundam in gundams %}
     <tr>
-        <td id="columnaImagen"><a href="{{gundam.imageUrl}}" target=”_blank”><img src="{{gundam.imageUrl}}" alt="" class="imagenes"></a></td>
+        <td id="columnaImagen"><a class="enlace" href="{{gundam.imageUrl}}" target=”_blank”><img src="{{gundam.imageUrl}}" alt="" class="imagenes"></a></td>
         <td><p>{{gundam.name}}</p></td>
         <td><p>{{gundam.series}}</p></td>
         <td><p>{{gundam.price}}</p></td> 
