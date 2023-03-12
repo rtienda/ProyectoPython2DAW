@@ -1,0 +1,59 @@
+{% extends 'base.html' %} {% block content %}
+<h1>Actualiza el Gundam - {{ gundam.fullname }}</h1>
+<a href="/gundams.html">Atras</a><br /><br />
+
+<form action="/update_gundam/{{ gundam.uid }}" method="post">
+  <label for="name_input">Nombre</label>
+  <input
+    type="text"
+    name="name"
+    id="name_input"
+    value="{{ gundam.name }}"
+  /><br />
+  <label for="series_input">Serie</label>
+  <input
+    type="text"
+    name="series"
+    id="series_input"
+    value="{{ gundam.series }}"
+  /><br />
+  <label for="height_input">Altura</label>
+  <input
+    type="number"
+    name="height"
+    id="height_input"
+    value="{{ gundam.height }}"
+  /><br />
+  <label for="manufacturer_input">Manufacturador</label>
+  <input
+    type="text"
+    name="manufacturer"
+    id="manufacturer_input"
+    value="{{ gundam.manufacturer }}"
+  /><br />
+  <label for="imageUrl_input">Link de la Imagen</label>
+  <input
+    type="text"
+    name="imageUrl"
+    id="imageUrl_input"
+    value="{{ gundam.imageUrl }}"
+  /><br />
+  <label for="price_input">Precio</label>
+  <input
+    type="text"
+    name="price"
+    id="price_input"
+    value="{{ gundam.price }}"
+  /><br />
+  <label for="release_input">Fecha de salida</label>
+  <input
+    type="text"
+    name="release"
+    id="release_input"
+    value="{{ gundam.release }}"
+  /><br />
+
+ 
+  <button id="submitButton1">Actualizar</button>
+</form>
+{% endblock %}

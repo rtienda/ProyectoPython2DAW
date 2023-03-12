@@ -1,7 +1,7 @@
 {% extends 'base.html' %} {% block content %}
-<h1>Gunpla List</h1>
+<h1>Listado de Gundams</h1>
 
-<!-- <a href="/create">Add</a> -->
+<a href="/create_gundam">Crear Gunpla</a>
 
 <form action="#" method="get">
     <label for="lang">Serie</label>
@@ -31,7 +31,8 @@
         <th class="tableHeader"><p class="headerText">Serie</p></th>
         <th class="tableHeader"><p class="headerText">Precio</p></th>
         <th class="tableHeader"><p class="headerText">Fecha de lanzamiento</p></th>
-
+        <th class="tableHeader"><p class="headerText">Actualizar</p></th>
+        <th class="tableHeader"><p class="headerText">Borrar</p></th>
     </tr>
     {% for gundam in gundams %}
     <tr>
@@ -40,6 +41,8 @@
         <td><p>{{gundam.series}}</p></td>
         <td><p>{{gundam.price}}</p></td> 
         <td><p>{{gundam.release}}</p></td>
+        <td><a href="/update_gundam/{{ gundam.uid }}">Actualizar Gundam</a></td>
+        <td><a href="/delete_gundam/{{ gundam.uid }}">Borrar Gundam</a></td>
     </tr>
     {% endfor %}
   </table>

@@ -55,15 +55,32 @@ def init_views(app, db_access: dict[str, Callable]):
     #     return render_template("gundams.html",series1=series1)
 
    
-    @app.route("/update/<int:uid>", methods=["GET", "POST"])
-    def update(uid: int):
+    @app.route("/update_usuario/<int:uid>", methods=["GET", "POST"])
+    def update_usuario(uid: int):
         if request.method == "GET":
-            read_gundam = db_access["read"]
-            gundam = read_gundam(uid)
-            return render_template("update.html", gundam=gundam)
+            read_usuario = db_access["read_usuario"]
+            usuario = read_usuario(uid)
+            return render_template("update_usuario.html", usuario=usuario)
 
         if request.method == "POST":
-            update_gundam = db_access["update"]
+            update_usuario = db_access["update_usuario"]
+            update_usuario(
+                uid=uid,
+                nick=request.form["nick"],
+                nombre=request.form["nombre"],
+                apellidos=request.form["apellidos"],
+            )
+            return redirect("/usuarios.html")
+        
+    @app.route("/update_gundam/<int:uid>", methods=["GET", "POST"])
+    def update_gundam(uid: int):
+        if request.method == "GET":
+            read_gundam = db_access["read_gundam"]
+            gundam = read_gundam(uid)
+            return render_template("update_gundam.html", gundam=gundam)
+
+        if request.method == "POST":
+            update_gundam = db_access["update_gundam"]
             update_gundam(
                 uid=uid,
                 name=request.form["name"],
@@ -74,7 +91,7 @@ def init_views(app, db_access: dict[str, Callable]):
                 price=request.form["price"],
                 release=request.form["release"],
             )
-            return redirect("/")
+            return redirect("/gundams.html")
 
 
         
@@ -100,6 +117,24 @@ def init_views(app, db_access: dict[str, Callable]):
                 apellidos=request.form["apellidos"],
             )
             return redirect("/usuarios.html")
+    @app.route("/create_gundam", methods=["GET", "POST"])
+    def create_gundam():
+        if request.method == "GET":
+            return render_template("create_gundam.html")
+
+        if request.method == "POST":
+            create_gundam = db_access["create_gundam"]
+            create_gundam(
+                name=request.form["name"],
+                series=request.form["series"],
+                height=int(request.form["height"]),
+                manufacturer=request.form["manufacturer"],
+                imageUrl=request.form["imageUrl"],
+                price=request.form["price"],
+                release=request.form["release"],
+            )
+            return redirect("/gundams.html")
+
 
     @app.route("/delete/<int:uid>", methods=["GET", "POST"])
     def delete_usuario(uid: int):
@@ -114,3 +149,17 @@ def init_views(app, db_access: dict[str, Callable]):
                 uid=uid,
             )
             return redirect("/usuarios.html")
+
+    @app.route("/delete_gundam/<int:uid>", methods=["GET", "POST"])
+    def delete_gundam(uid: int):
+        if request.method == "GET":
+            read_gundam = db_access["read_gundam"]
+            gundam = read_gundam(uid)
+            return render_template("delete_gundam.html", gundam=gundam)
+
+        if request.method == "POST":
+            delete_gundam = db_access["delete_gundam"]
+            delete_gundam(
+                uid=uid,
+            )
+            return redirect("/gundams.html")

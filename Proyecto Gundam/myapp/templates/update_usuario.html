@@ -1,0 +1,30 @@
+{% extends 'base.html' %} {% block content %}
+<h1>Actualiza Usuario - {{ usuario.nick }}</h1>
+<a href="/">Atras</a><br /><br />
+
+<form action="/update_usuario/{{ usuario.uid }}" method="post">
+  <label for="nick_input">Nick</label>
+  <input
+    type="text"
+    name="nick"
+    id="nick_input"
+    value="{{ usuario.nick }}"
+  /><br />
+  <label for="nombre_input">Nombre</label>
+  <input
+    type="text"
+    name="nombre"
+    id="nombre_input"
+    value="{{ usuario.nombre }}"
+  /><br />
+  <label for="apellidos_input">Apellidos</label>
+  <input
+    type="text"
+    name="apellidos"
+    id="apellidos_input"
+    value="{{ usuario.apellidos }}"
+  /><br />
+
+  <button id="submitButton2">Actualizar</button>
+</form>
+{% endblock %}

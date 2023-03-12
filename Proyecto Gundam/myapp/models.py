@@ -14,7 +14,7 @@ def init_db(app) -> dict[str, Callable]:
     class Gundams(db.Model):
         __tablename__ = "gunpla"
 
-        uid = db.Column("id",db.Integer, primary_key=True)
+        uid = db.Column("id",db.Integer, primary_key=True, autoincrement=True)
         name = db.Column(db.String(255))
         series = db.Column(db.String(255))
         height = db.Column(db.Integer())
@@ -134,6 +134,9 @@ def init_db(app) -> dict[str, Callable]:
         "list_usuarios": list_usuarios,
         "list_gundams_filtro":list_gundams_filtro,
         "list_gundams_filtro1":list_gundams_filtro1,
+        "create_gundam":create_gundam,
+        "delete_gundam":delete_gundam,
+        "update_gundam":update_gundam,
 
     }
 

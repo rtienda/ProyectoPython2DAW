@@ -1,0 +1,10 @@
+{% extends 'base.html' %} {% block content %}
+<h1>Borrar Gundam - {{ gundam.name }}</h1>
+<a class="enlace" href="{{gundam.imageUrl}}" target=”_blank”><img src="{{gundam.imageUrl}}" alt="" class="imagenes"></a>
+<a href="/gundams.html">Back</a><br /><br />
+
+<p>Estas seguro?</p>
+<form action="/delete_gundam/{{ gundam.uid }}" method="post">
+  <input type="submit" value="Delete_gundam" />
+</form>
+{% endblock %}

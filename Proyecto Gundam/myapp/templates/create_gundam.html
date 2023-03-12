@@ -1,0 +1,87 @@
+{% extends 'base.html' %} {% block content %}
+<h1>Crea un Gundam</h1>
+<a href="/">Back</a><br /><br />
+
+<form id="createForm" action="/create_gundam" method="post">
+  <table>
+    <tbody>
+      <tr>
+        <td class="campo">
+          <label for="name_input">Nombre</label>
+        </td>
+        <td>
+          <input type="text" name="name" id="name_input" />
+        </td>
+      </tr>
+
+      <tr>
+        <td class="campo">
+          <label for="series_input">Serie</label>
+        </td>
+        <td>
+          <input type="text" name="series" id="series_input" />
+        </td>
+      </tr>
+
+      <tr>
+        <td class="campo">
+          <label for="height_input">Altura</label>
+        </td>
+        <td>
+          <input type="number" name="height" id="height_input" />
+        </td>
+      </tr>
+      <tr>
+        <td class="campo">
+          <label for="manufacturer_input">Manufacturador</label>
+        </td>
+        <td>
+          <input type="text" name="manufacturer" id="manufacturer_input" />
+        </td>
+      </tr>
+      <tr>
+        <td class="campo">
+          <label for="imageUrl_input">Link de la Imagen</label>
+        </td>
+        <td>
+          <input type="text" name="imageUrl" id="imageUrl_input" />
+        </td>
+      </tr>
+      <tr>
+        <td class="campo">
+          <label for="price_input">Precio</label>
+        </td>
+        <td>
+          <input type="text" name="price" id="price_input" />
+        </td>
+      </tr>
+      <tr>
+        <td class="campo">
+          <label for="release_input">Fecha de salida</label>
+        </td>
+        <td>
+          <input type="text" name="release" id="release_input" />
+        </td>
+      </tr>
+      
+      <tr>
+          <td class="fila-boton" colspan="2">
+          <button id="submitButton">Añadir</button>
+        </td>
+      </tr>
+    </tbody>
+    </tbody>
+  </table>
+
+</form>
+
+<!-- Botón fuera del formulario -->
+
+<!-- <button id="clearButton">Clear</button> -->
+<!-- <button id="hideButton">Hide</button> -->
+<!-- <button id="showButton">Show</button> -->
+{% endblock %}
+
+{% block js %}
+<script src="{{ url_for('static', filename='validation.js') }}"></script>
+{% endblock %}

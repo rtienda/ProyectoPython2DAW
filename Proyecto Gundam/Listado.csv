@@ -1,0 +1,710 @@
+;Pepe;AAA;24.0;PEPOLAND;http://pm1.narvii.com/6466/42d8d18401ad173aaa35178380a157d0aefa96f6_00.jpg;20 â;2022
+;Pepe;AAA;25.0;PEPOLAND;http://pm1.narvii.com/6466/42d8d18401ad173aaa35178380a157d0aefa96f6_00.jpg;20 â;2022
+;Pepe;AAA;25.0;PEPOLAND;http://pm1.narvii.com/6466/42d8d18401ad173aaa35178380a157d0aefa96f6_00.jpg;20 â;2022
+0;RX-77-2 Guncannon;Mobile Suit Gundam;17.5;RX-75 Guntank;https://static.wikia.nocookie.net/gundam/images/8/8f/Hguc-rx77.jpg;¥800;1999 May
+1;YMS-15 Gyan;Mobile Suit Gundam;19.9;AMX-104 R-Jarja;https://static.wikia.nocookie.net/gundam/images/b/b4/Hguc-yms15.jpg;¥800;1999 July
+2;AMX-011S Zaku III Custom;Mobile Suit Gundam ZZ;25.3;AMX-011 Zaku III;https://static.wikia.nocookie.net/gundam/images/6/60/Zaku_III_custom.jpg;¥1,500;1999 August
+3;AMX-004 Qubeley;Mobile Suit Zeta Gundam;18.9;AMX-001 Prototype Qubeley;https://static.wikia.nocookie.net/gundam/images/8/80/AMX-004_Qubeley_HG.jpg;¥1,500;1999 September
+4;MSN-00100 Hyaku Shiki;Mobile Suit Zeta Gundam;21.4;MSN-001 Delta Gundam;https://static.wikia.nocookie.net/gundam/images/d/d3/MSN-00100_Hyaku_Shiki_HG.jpg;¥1,500;1999 October
+5;MSM-07 Z'Gok;Mobile Suit Gundam;18.4;MS-13 Gasshia;https://static.wikia.nocookie.net/gundam/images/6/61/Hguc-msm-07.jpg;¥700;1999 November
+6;RX-75-4 Guntank;Mobile Suit Gundam;15.6;N/A;https://static.wikia.nocookie.net/gundam/images/a/a6/Hguc-rx75-4.jpg;¥800;2000 January
+7;MSM-03 Gogg;Mobile Suit Gundam;18.3;MSM-03-1 Prototype Gogg;https://static.wikia.nocookie.net/gundam/images/1/1a/Hguc-msm-03.jpg;¥800;2000 March
+8;MS-07B Gouf;Mobile Suit Gundam;18.7;YMS-07A Prototype Gouf;https://static.wikia.nocookie.net/gundam/images/5/55/Hguc-ms-07b.jpg;¥800;2000 April
+9;RMS-099 Rick Dias;Mobile Suit Zeta Gundam;21.6;RX-098 Prototype Rick Dias;https://static.wikia.nocookie.net/gundam/images/0/0d/Hguc-rms-099.jpg;¥1,200;2000 June
+10;AMX-004 Qubeley Mk-II;Mobile Suit Gundam ZZ;18.9;AMX-004 Qubeley;https://static.wikia.nocookie.net/gundam/images/c/c6/Hguc-amx-004ii.jpg;¥1,500;2000 June
+11;RMS-106 Hizack;Mobile Suit Zeta Gundam;20.6;YRMS-106 Hizack Pre-Production Type;https://static.wikia.nocookie.net/gundam/images/c/c9/10011964.jpg;¥1,000;2000 July
+12;"RX-78GP01 Gundam ""Zephyranthes""";Mobile Suit Gundam 0083: Stardust Memory;18.5;"RX-78GP00 Gundam ""Blossom""";https://static.wikia.nocookie.net/gundam/images/4/47/Hguc-rx78gp01.jpg;¥1,200;2000 August
+13;AMX-011 Zaku III;Mobile Suit Gundam ZZ;23.9;AMX-011C Zaku III Late Type;https://static.wikia.nocookie.net/gundam/images/3/3d/Zaku_III.jpg;¥1,500;2000 September
+14;AMX-107 Bawoo;Mobile Suit Gundam ZZ;22.05;AMX-107L-2 Gundam Lindwurm;https://static.wikia.nocookie.net/gundam/images/8/88/015.jpg;¥1,200;2000 September
+15;MS-14F Gelgoog Marine;Mobile Suit Gundam 0083: Stardust Memory;19.2;MS-14B Gelgoog High Mobility Type;https://static.wikia.nocookie.net/gundam/images/b/b1/Gelgoog_Marine.jpg;¥1,200;2000 October
+16;MS-09F/trop Dom Tropen;Mobile Suit Gundam 0083: Stardust Memory;18.5;MS-09F Dom Funf;https://static.wikia.nocookie.net/gundam/images/0/03/Dom_tropen.jpg;¥1,500;2000 November
+17;"RX-78GP01-Fb Gundam Full Burnern ""Zephyranthes""";Mobile Suit Gundam 0083: Stardust Memory;19.5;"RX-78GP01 Gundam ""Zephyranthes""";https://static.wikia.nocookie.net/gundam/images/3/30/Gundam_GP01Fb.jpg;¥1,500;2000 December
+18;MSM-07S Z'Gok Commander Type;Mobile Suit Gundam;18.4;MSM-07 Z'Gok;https://static.wikia.nocookie.net/gundam/images/5/55/Z%27Gok_Char.jpg;¥700;2001 February
+19;RGM-79 GM;Mobile Suit Gundam;18.5;RX-78-2 Gundam;https://static.wikia.nocookie.net/gundam/images/2/2e/GM.jpeg;¥700;2001 April
+20;RX-78-2 Gundam;Mobile Suit Gundam;18.0;RX-78-1 Prototype Gundam;https://static.wikia.nocookie.net/gundam/images/e/e2/Hguc-rx-78-2.jpg;¥1,000;2001 May
+21;MSN-02 Zeong;Mobile Suit Gundam;17.3;MSN-01 Psycommu Test High Mobility Type Zaku;https://static.wikia.nocookie.net/gundam/images/7/73/Zeong.jpg;¥1,800;2001 June
+22;MSA-0011 S Gundam;Gundam Sentinel;25.18;N/A;https://static.wikia.nocookie.net/gundam/images/6/6e/Hguc-s-gundam.jpg;¥1,800;2001 August
+23;RMS-141 Xeku Eins;Gundam Sentinel;19.2;RMS-142 Xeku Zwei;https://static.wikia.nocookie.net/gundam/images/c/c0/024.jpg;¥1,600;2001 October
+24;"RX-78GP03S Gundam ""Dendrobium Stamen""";Mobile Suit Gundam 0083: Stardust Memory;18.2;"RX-78GP00 Gundam ""Blossom""";https://static.wikia.nocookie.net/gundam/images/c/c3/RX-78GP03S_Gundam_G0P3S.jpg;¥1,600;2001 December
+25;MS-14Fs Gelgoog Marine Commander Type;Mobile Suit Gundam 0083: Stardust Memory;19.2;MS-14F Gelgoog Marine;https://static.wikia.nocookie.net/gundam/images/a/a5/026.jpg;¥1,500;2002 January
+26;MS-09F/trop Dom Tropen;Mobile Suit Gundam 0083: Stardust Memory;18.5;MS-09F Dom Funf;https://static.wikia.nocookie.net/gundam/images/0/0f/027.jpg;¥1,600;2002 February
+27;"RX-78GP03D Gundam ""Dendrobium Orchis""";Mobile Suit Gundam 0083: Stardust Memory;38.5;"RX-78GP00 Gundam ""Blossom""";https://static.wikia.nocookie.net/gundam/images/1/12/Hguc-orchis.jpg;¥28,000;2002 March
+28;MSA-0011ï¼»Extï¼½ Ex-S Gu;Gundam Sentinel;25.9;MSA-0011 S Gundam;https://static.wikia.nocookie.net/gundam/images/7/7f/Hguc-ex-s.jpg;¥2,500;2002 April
+29;RX-178 Gundam Mk-II;Mobile Suit Zeta Gundam;19.6;RGM-79Q GM Quel;https://static.wikia.nocookie.net/gundam/images/a/ab/Hguc-rx-178t.jpg;¥1,000;2002 May
+30;AMX-107 Bawoo;Mobile Suit Gundam ZZ;22.05;AMX-107L-2 Gundam Lindwurm;https://static.wikia.nocookie.net/gundam/images/4/49/Hguc-amx-107-mp.jpg;¥1,200;2002 June
+31;MS-06S Zaku II Commander Type;Mobile Suit Gundam;18.0;MS-06F Zaku II;https://static.wikia.nocookie.net/gundam/images/c/c5/Hguc-ms-06s.jpg;¥1,000;2002 July
+32;RMS-099 Rick Dias;Mobile Suit Zeta Gundam;21.6;RX-098 Prototype Rick Dias;https://static.wikia.nocookie.net/gundam/images/1/1a/Hguc-rms-099-2.jpg;¥1,200;2002 August
+33;MS-06Fs Zaku II Garma Zabi Custom;Mobile Suit Variations;17.5;MS-06F Zaku II;https://static.wikia.nocookie.net/gundam/images/0/0a/Hguc-ms-06fs.jpg;¥1,000;2002 September
+34;RX-178+FXA-05D Super Gundam;Mobile Suit Zeta Gundam;18.5;RX-178 Gundam Mk-II;https://static.wikia.nocookie.net/gundam/images/f/fb/Hguc-super-gundam.jpg;¥2,000;2002 November
+35;PMX-003 The-O;Mobile Suit Zeta Gundam;28.4;PMX-004 Titania;https://static.wikia.nocookie.net/gundam/images/4/41/Hguc-pmx-003.jpg;¥2,400;2002 December
+36;MSM-03C Hygogg;Mobile Suit Gundam 0080: War in the Pocket;15.4;MSM-03 Gogg;https://static.wikia.nocookie.net/gundam/images/2/22/HGUC-MSM03C_101.jpg;¥1,200;2003 June
+37;RGM-79D GM Cold Districts Type;Mobile Suit Gundam 0080: War in the Pocket;18.0;RGM-79 GM;https://static.wikia.nocookie.net/gundam/images/9/95/Hguc-rgm-79d.jpg;¥800;2003 July
+38;MSM-07E Z'Gok-E;Mobile Suit Gundam 0080: War in the Pocket;18.4;N/A;https://static.wikia.nocookie.net/gundam/images/9/92/MSM-07E_Z%27Gok_Experiment_-_Boxart0.jpg;¥1,200;2003 August
+39;MS-06F Zaku II;Mobile Suit Gundam;17.5;MS-06C Zaku II Early Production Type;https://static.wikia.nocookie.net/gundam/images/9/95/Zaku_2.png;¥1,000;2003 September
+40;MSZ-006 Zeta Gundam;Mobile Suit Zeta Gundam;19.85;MSZ-006-X Prototype Î– Gunda;https://static.wikia.nocookie.net/gundam/images/8/8c/Hguc-msz-006.jpg;¥1,600;2003 October
+41;ORX-005 Gaplant;Mobile Suit Zeta Gundam;25.2;ORX-003 Domingo;https://static.wikia.nocookie.net/gundam/images/6/66/Hguc-orx-005.jpg;¥2,200;2003 November
+42;MS-09RII Rick Dom II;Mobile Suit Gundam 0080: War in the Pocket;18.6;MS-09R Rick Dom;https://static.wikia.nocookie.net/gundam/images/1/10/Hguc-ms-09rii-sp.jpg;¥1,500;2004 January
+43;RX-77D Guncannon Mass Production Type;Mobile Suit Gundam 0080: War in the Pocket;18.1;RX-77-2 Guncannon;https://static.wikia.nocookie.net/gundam/images/4/40/Hguc-rx-77d.jpg;¥1,000;2004 February
+44;MS-14Jg Gelgoog JÃ¤ge;Mobile Suit Gundam 0080: War in the Pocket;19.2;N/A;https://static.wikia.nocookie.net/gundam/images/d/d3/Gelgoog-J_HGUC_1-144_01.jpg;¥1,200;2004 April
+45;RGM-79G GM Command;Mobile Suit Gundam 0080: War in the Pocket;18.0;RGM-79D GM Cold Districts Type;https://static.wikia.nocookie.net/gundam/images/4/41/Hguc-rgm-79s.jpg;¥800;2004 May
+46;"RX-78NT-1 Gundam ""Alex""";Mobile Suit Gundam 0080: War in the Pocket;18.5;RX-78-2 Gundam;https://static.wikia.nocookie.net/gundam/images/1/10/Hguc-rx-78nt-1.jpg;¥1,500;2004 May
+47;MSN-00100 Hyaku Shiki;Mobile Suit Zeta Gundam;21.4;MSN-001 Delta Gundam;https://static.wikia.nocookie.net/gundam/images/1/15/Hguc-msn0100-mbl.jpg;¥1,800;2004 July
+48;MRX-009 Psyco Gundam;Mobile Suit Zeta Gundam;40.0;MRX-008 Prototype Psycho Gundam;https://static.wikia.nocookie.net/gundam/images/a/a1/HGUC_-_MRX-009_Psycho_Gundam_-_Boxart.jpg;¥5,000;2004 August
+49;G-Armor;Mobile Suit Gundam;18.0;RX-78-2 Gundam;https://static.wikia.nocookie.net/gundam/images/c/c9/Hguc-g-armor.jpg;¥2,800;2004 October
+50;RGM-79GS GM Command Space Type;Mobile Suit Gundam 0080: War in the Pocket;18.0;RGM-79D GM Cold Districts Type;https://static.wikia.nocookie.net/gundam/images/b/b3/Hguc-rgm78gs.jpg;¥800;2004 October
+51;RMS-108 Marasai;Mobile Suit Zeta Gundam;20.5;RMS-106 Hizack;https://static.wikia.nocookie.net/gundam/images/d/d5/Marasai.jpg;¥1,400;2005 January
+52;RX-178 Gundam Mk-II;Mobile Suit Zeta Gundam;19.6;RGM-79Q GM Quel;https://static.wikia.nocookie.net/gundam/images/7/7c/Hguc-gundam-mk-ii-fa.jpg;¥2,000;2005 January
+53;NRX-044 Asshimar;Mobile Suit Zeta Gundam;23.1;RX-78E Gundam GT-FOUR;https://static.wikia.nocookie.net/gundam/images/7/78/054.jpg;¥2,000;2005 June
+54;RMS-106 Hizack;Mobile Suit Zeta Gundam;20.6;YRMS-106 Hizack Pre-Production Type;https://static.wikia.nocookie.net/gundam/images/5/5b/Hizack_boxart.jpg;¥1,000;2005 June
+55;RX-121-1 Gundam TR-1 ï¼»Hazel Custo;Advance of Zeta: The Flag of Titans;18.1;RX-121 Gundam TR-1 [Hazel];https://static.wikia.nocookie.net/gundam/images/4/4b/HGUC_RX-121-1_Gundam_TR-1_Hazel.jpg;¥1,300;2005 September
+56;RX-121-2A Gundam TR-1 ï¼»Advanced Haze;Advance of Zeta: The Flag of Titans;18.1;RX-121-2 Gundam TR-1 ï¼»Hazel I;https://static.wikia.nocookie.net/gundam/images/5/5f/HGUC_RX-121-2A_Gundam_TR-1_Advanced_Hazel.jpg;¥1,600;2005 November
+57;RX-110 Gabthley;Mobile Suit Zeta Gundam;18.5;RX-110C Gabthley ï¼»Hugi;https://static.wikia.nocookie.net/gundam/images/a/a9/G0139596.jpg.png;¥1,600;2005 December
+58;MS-09 Dom;Mobile Suit Gundam;18.6;MS-07C-5 Gouf Test Prototype;https://static.wikia.nocookie.net/gundam/images/c/ca/Hguc-ms-09r.jpg;¥1,700;2006 January
+59;PMX-001 Palace Athene;Mobile Suit Zeta Gundam;27.4;PMX-004 Titania;https://static.wikia.nocookie.net/gundam/images/c/c1/060.jpg;¥1,800;2006 February
+60;MSA-005 Methuss;Mobile Suit Zeta Gundam;26.0;MSA-005X-1 Methuss X-1;https://static.wikia.nocookie.net/gundam/images/4/4d/Hguc-msa-005.jpg;¥1,400;2006 March
+61;AMX-003 Gaza-C;Mobile Suit Zeta Gundam;22.5;AMX-002 Gaza-B;https://static.wikia.nocookie.net/gundam/images/6/62/Hguc-amx-003gazac.jpg;¥1,400;2006 April
+62;AMX-003 Gaza-C;Mobile Suit Zeta Gundam;22.5;AMX-002 Gaza-B;https://static.wikia.nocookie.net/gundam/images/8/85/Hguc-amx-003gazac-2.jpg;¥1,400;2006 April
+63;MS-05B Zaku I;Mobile Suit Gundam;17.5;MS-05A Zaku I Early Type;https://static.wikia.nocookie.net/gundam/images/4/46/Hguc-ms-05b.jpg;¥1,000;2006 May
+64;EMS-10 Zudah;Mobile Suit Gundam MS IGLOO;17.3;N/A;https://static.wikia.nocookie.net/gundam/images/7/73/Hguc-ems10.jpg;¥1,400;2006 June
+65;"RX-78GP02A Gundam ""Physalis""";Mobile Suit Gundam 0083: Stardust Memory;19.5;"RX-78GP00 Gundam ""Blossom""";https://static.wikia.nocookie.net/gundam/images/9/9c/HGUC_RX-78-2GP02A_Gundam_Physalis_Boxart.jpg;¥2,000;2006 July
+66;RGM-79 Powered GM;Mobile Suit Gundam 0083: Stardust Memory;18.5;RGM-79C GM Type C;https://static.wikia.nocookie.net/gundam/images/8/84/Powered-gm-hguc.jpg;¥1,200;2006 August
+67;MS-05B Zaku I;Mobile Suit Variations;17.5;MS-05A Zaku I Early Type;https://static.wikia.nocookie.net/gundam/images/0/03/Hguc-ms-05b-bt.jpg;¥1,000;2006 August
+68;RX-121-2 Gundam TR-1 ï¼»Hazel I;Advance of Zeta: The Flag of Titans;18.1;RGM-79Q GM Quel;https://static.wikia.nocookie.net/gundam/images/6/6c/Gundam_TR-1_Hazel_II.jpg;¥1,500;2006 September
+69;MS-14S Gelgoog Commander Type;Mobile Suit Gundam;19.2;MS-06R-3S High Mobility Type Zaku;https://static.wikia.nocookie.net/gundam/images/3/36/Hguc-ms-14s.jpg;¥1,500;2006 October
+70;MS-05L Zaku I Sniper Type;Harmony of Gundam;17.5;MS-05B Zaku I;https://static.wikia.nocookie.net/gundam/images/9/90/Hguc-ms-05l.jpg;¥1,400;2006 November
+71;RGM-79FP GM Striker;Harmony of Gundam;18.0;RGM-79C GM Type C;https://static.wikia.nocookie.net/gundam/images/9/9d/Hguc-rgm79fp.jpg;¥1,200;2006 December
+72;ORX-005 Gaplant TR-5 ï¼»Hrairo;Advance of Zeta: The Flag of Titans;25.2;ORX-005 Gaplant TR-5;https://static.wikia.nocookie.net/gundam/images/9/95/Hguc-Gaplant-TR-5.jpg;¥2,400;2006 December
+73;RGM-79Q GM Quel;Mobile Suit Gundam 0083: Stardust Memory;18.1;RGM-79N GM Custom;https://static.wikia.nocookie.net/gundam/images/4/48/HGUC_RGM-79Q_GM_Quel_Boxart.jpg;¥1,200;2007 January
+74;RX-78GP02A Gundam GP02A (Type-MLRS);Harmony of Gundam;18.5;"RX-78GP02A Gundam ""Physalis""";https://static.wikia.nocookie.net/gundam/images/7/7c/Hguc-rx-78gp02-mlrs.jpg;¥2,200;2007 February
+75;MS-14A Gelgoog;Mobile Suit Gundam;19.2;MS-14S Gelgoog Commander Type;https://static.wikia.nocookie.net/gundam/images/5/55/Hguc-ms-14a.jpg;¥1,500;2007 March
+76;RX-79BD-2 Blue Destiny Unit 2;Mobile Suit Gundam Side Story: The Blue Destiny;18.0;RX-79[G] Gundam Ground Type;https://static.wikia.nocookie.net/gundam/images/3/37/Hguc-rx79bd-2.jpg;¥1,500;2007 April
+77;MSM-04 Acguy;Mobile Suit Gundam;19.2;MSM-04-1 Prototype Acguy;https://static.wikia.nocookie.net/gundam/images/d/de/HGUC_MSM-04_Acguy_Boxart.jpg;¥1,400;2007 April
+78;RX-79ï¼»Gï¼½ Gundam Ground ;Mobile Suit Gundam: The 08th MS Team;18.2;RX-78-1 Prototype Gundam;https://static.wikia.nocookie.net/gundam/images/b/b4/HGUC_RX-79_G_Gundam_Ground_Type_Boxart.jpg;¥1,500;2007 June
+79;RX-79BD-1 Blue Destiny Unit 1;Mobile Suit Gundam Side Story: The Blue Destiny;18.5;RGM-79BD-0 Blue Destiny Unit 0;https://static.wikia.nocookie.net/gundam/images/5/5a/Hguc-rx79bd-1.jpg;¥1,500;2007 July
+80;MSM-10 Zock;Mobile Suit Gundam;23.9;MSM-103 Zock III;https://static.wikia.nocookie.net/gundam/images/1/14/Hguc-zock.jpg;¥2,500;2007 July
+81;RX-79BD-3 Blue Destiny Unit 3;Mobile Suit Gundam Side Story: The Blue Destiny;18.0;RX-79[G] Gundam Ground Type;https://static.wikia.nocookie.net/gundam/images/0/09/Hguc-rx79bd-3.jpg;¥1,500;2007 July
+82;MSN-03 Jagd Doga;Mobile Suit Gundam: Char's Counterattack;21.0;AMS-120X Geara Doga Psycommu System Test Type;https://static.wikia.nocookie.net/gundam/images/c/ca/083.jpg;¥2,200;2007 October
+83;MSN-03 Jagd Doga;Mobile Suit Gundam: Char's Counterattack;21.0;AMS-120X Geara Doga Psycommu System Test Type;https://static.wikia.nocookie.net/gundam/images/2/2c/084.jpg;¥2,200;2007 October
+84;RGZ-91 Re-GZ;Mobile Suit Gundam: Char's Counterattack;21.5;MSZ-006R Zeta Plus R;https://static.wikia.nocookie.net/gundam/images/7/78/Re-GZ.jpg;¥2,800;2008 January
+85;RX-93 Î½ Gunda;Mobile Suit Gundam: Char's Counterattack;23.0;YRA-90A Î¼ Gunda;https://static.wikia.nocookie.net/gundam/images/4/42/Nu-gundam-hg.jpg;¥2,500;2008 March
+86;MS-06FZ Zaku II Kai;Mobile Suit Gundam 0080: War in the Pocket;17.5;MS-06F Zaku II;https://static.wikia.nocookie.net/gundam/images/4/4b/Zaku-ii-fz-hguc.jpg;¥1,200;2008 May
+87;MSN-04 Sazabi;Mobile Suit Gundam: Char's Counterattack;25.6;MSN-04X2 Sazabi Prototype (Terrain Mode);https://static.wikia.nocookie.net/gundam/images/2/2a/Sazabi-hg.jpg;¥2,800;2008 June
+88;MS-18E KÃ¤mpfe;Mobile Suit Gundam 0080: War in the Pocket;18.2;YMS-18 KÃ¤mpfer Prototyp;https://static.wikia.nocookie.net/gundam/images/0/09/MS-14E.jpg;¥1,800;2008 August
+89;MS-09RII Rick Dom II;Mobile Suit Gundam 0080: War in the Pocket;18.6;MS-09R Rick Dom;https://static.wikia.nocookie.net/gundam/images/0/09/Hguc-ms-09r2-colony.jpg;¥1,500;2008 August
+90;AMS-119 Geara Doga;Mobile Suit Gundam: Char's Counterattack;20.0;AMX-011C Zaku III Late Type;https://static.wikia.nocookie.net/gundam/images/1/11/AMS-119_Geara_Doga.jpg;¥1,800;2008 November
+91;AMS-119 Geara Doga;Mobile Suit Gundam: Char's Counterattack;20.0;AMX-011C Zaku III Late Type;https://static.wikia.nocookie.net/gundam/images/c/cc/Hguc-ams119-rezin.jpg;¥1,800;2009 January
+92;FA-93HWS Î½ Gundam Heavy Weapons System Typ;Char's Counterattack Mobile Suit Variations;23.0;RX-93 Î½ Gunda;https://static.wikia.nocookie.net/gundam/images/8/8f/Srwhotnews_hg_nuhwsbox.jpg;¥2,800;2009 April
+93;RMS-099B Schuzrum Dias;Mobile Suit Gundam ZZ;28.0;RMS-099 Rick Dias;https://static.wikia.nocookie.net/gundam/images/d/de/Rms-0099b-hguc.jpeg;¥1,700;2009 April
+94;RX-93-Î½2 Hi-Î½ Gund;Mobile Suit Gundam: Char's Counterattack - Beltorchika's Children;20.0;RX-93-Î½2V Hi-Î½ Gundam Vra;https://static.wikia.nocookie.net/gundam/images/a/a3/Hinu-hguc.jpg;¥2,200;2009 June
+95;RMS-119 EWAC Zack;Mobile Suit Gundam ZZ;18.5;RMS-106 Hizack;https://static.wikia.nocookie.net/gundam/images/3/3b/Hguc-rms-119.jpg;¥1,600;2009 June
+96;RGM-89 Jegan;Mobile Suit Gundam: Char's Counterattack;20.4;RGM-86R GM III;https://static.wikia.nocookie.net/gundam/images/6/67/097.jpg;¥1,500;2009 August
+97;FA-78-3 Full Armor 7th Gundam;Mobile Suit Gundam: Battlefield Record U.C. 0081;18.3;RX-78-7 7th Gundam;https://static.wikia.nocookie.net/gundam/images/5/51/Srwhotnews_pla8_hgucfa787box.jpg;¥1,500;2009 August
+98;NZ-666 Kshatriya;Mobile Suit Gundam Unicorn;22.3;NZ-000 Queen Mansa;https://static.wikia.nocookie.net/gundam/images/0/0f/099.jpg;¥4,500;2009 October
+99;RX-0 Unicorn Gundam;Mobile Suit Gundam Unicorn;19.7;MSN-06S Sinanju Stein;https://static.wikia.nocookie.net/gundam/images/1/1a/100.jpg;¥1,800;2009 November
+100;RX-0 Unicorn Gundam;Mobile Suit Gundam Unicorn;19.7;MSN-06S Sinanju Stein;https://static.wikia.nocookie.net/gundam/images/0/04/RX-0_Unicorn_Gundam_HG.jpg;¥1,500;2009 November
+101;AMS-129 Geara Zulu;Mobile Suit Gundam Unicorn;20.0;AMS-119 Geara Doga;https://static.wikia.nocookie.net/gundam/images/c/cf/Geara_zulu_mp.jpg;¥1,800;2009 December
+102;RGZ-95 ReZEL;Mobile Suit Gundam Unicorn;20.5;MSA-005 Methuss;https://static.wikia.nocookie.net/gundam/images/b/b5/HGUC-ReZEL.jpg;¥2,000;2010 January
+103;RGM-89S Stark Jegan;Mobile Suit Gundam Unicorn;19.2;RGM-89S Prototype Stark Jegan;https://static.wikia.nocookie.net/gundam/images/f/f6/Stark-jegan-hguc.jpg;¥2,000;2010 February
+104;MS-06F2 Zaku II F2 Type;Mobile Suit Gundam 0083: Stardust Memory;17.5;MS-06F Zaku II;https://static.wikia.nocookie.net/gundam/images/9/97/10106697.jpg;¥1,500;2010 February
+105;D-50C Loto;Mobile Suit Gundam Unicorn;12.2;F-50D Guntank R-44;https://static.wikia.nocookie.net/gundam/images/1/12/BAN620491.jpg;¥1,600;2010 March
+106;MS-06F2 Zaku II F2 Type;Mobile Suit Gundam 0083: Stardust Memory;17.5;MS-06F Zaku II;https://static.wikia.nocookie.net/gundam/images/7/7d/Hguc-ms-06f2-efsf.jpg;¥1,500;2010 March
+107;RGZ-95C ReZEL Commander Type;Mobile Suit Gundam Unicorn;20.5;RGZ-95 ReZEL;https://static.wikia.nocookie.net/gundam/images/a/ab/Rgz-95c-hguc.jpg;¥2,200;2010 March
+108;GX-9900 Gundam X;After War Gundam X;17.1;GX-9901-DX Gundam Double X;https://static.wikia.nocookie.net/gundam/images/f/f6/10111319.jpg;¥1,800;2010 April
+109;GF13-017NJII God Gundam;Mobile Fighter G Gundam;16.6;;https://static.wikia.nocookie.net/gundam/images/d/d1/Hgfc-g-gundam.jpg;¥1,800;2010 May
+110;MSZ-010 Î–Î– Gund;Mobile Suit Gundam ZZ;22.11;MSZ-009 Prototype ZZ Gundam;https://static.wikia.nocookie.net/gundam/images/e/ed/HG_MSZ-010_ZZ_Gundam_Boxart.jpg;¥2,300;2010 June
+111;AMS-129 Geara Zulu (Angelo Sauper Use);Mobile Suit Gundam Unicorn;20.0;AMS-129 Geara Zulu (Guards Type);https://static.wikia.nocookie.net/gundam/images/f/f0/Gd_hguc_geara_zulu_angelo_a.jpg;¥2,200;2010 July
+112;RGM-79C GM Type C;Mobile Suit Gundam 0083: Stardust Memory;18.5;RGM-79[E] GM Early Type;https://static.wikia.nocookie.net/gundam/images/f/f8/Hguc-rgm-79c.jpg;¥1,200;2010 August
+113;RB-79 Ball;Mobile Suit Gundam;12.8;SP-W03 Space Pod;https://static.wikia.nocookie.net/gundam/images/b/b5/Hguc-ball.jpg;¥1,300;2010 September
+114;MSN-001A1 Delta Plus;Mobile Suit Gundam Unicorn;19.6;MSN-001 Delta Gundam;https://static.wikia.nocookie.net/gundam/images/0/0f/Delta-plus-hguc.jpg;¥2,200;2010 September
+115;MSN-06S Sinanju;Mobile Suit Gundam Unicorn;22.6;MSN-06S Sinanju Stein;https://static.wikia.nocookie.net/gundam/images/1/1b/HGUC-Sinanju.jpg;¥2,600;2010 October
+116;MS-07B-3 Gouf Custom;Mobile Suit Gundam: The 08th MS Team;18.7;MS-07B Gouf;https://static.wikia.nocookie.net/gundam/images/4/45/Hguc-ms-07b3.jpg;¥1,600;2010 November
+117;GX-9900-DV Gundam X Divider;After War Gundam X;17.1;GX-9900 Gundam X;https://static.wikia.nocookie.net/gundam/images/5/5a/Hgaw-x-divider.jpg;¥1,800;2010 December
+118;GF13-050NSW Nobel Gundam;Mobile Fighter G Gundam;16.2;"GF13-050NSW Nobel Gundam GPB-D Color ""Cardinal""";https://static.wikia.nocookie.net/gundam/images/e/ec/HG_-_GF13-050NSW_Nobel_Gundam_-_Boxart.jpg;¥1,500;2011 January
+119;RGM-79N GM Custom;Mobile Suit Gundam 0083: Stardust Memory;19.0;RGM-79SC GM Sniper Custom;https://static.wikia.nocookie.net/gundam/images/2/27/Rgm-79n-hguc.jpg;¥1,300;2011 January
+120;Extreme Gundam;Mobile Suit Gundam: Extreme Vs.;18.9;Extreme Gundam Mk-II AXE;https://static.wikia.nocookie.net/gundam/images/4/40/HG_-_Extreme_Gundam_-_Boxart.jpg;¥1,600;2011 February
+121;AMS-129 Geara Zulu (Guards Type);Mobile Suit Gundam Unicorn;20.0;AMS-129 Geara Zulu;https://static.wikia.nocookie.net/gundam/images/a/ae/Geara_zulu_guard.jpg;¥2,000;2011 March
+122;RGM-89De Jegan (ECOAS Type);Mobile Suit Gundam Unicorn;19.0;RGM-89D Jegan D Type;https://static.wikia.nocookie.net/gundam/images/d/d9/Jegan_ecoas.jpg;¥1,600;2011 April
+123;AMX-009 Dreissen;Mobile Suit Gundam Unicorn;23.4;MS-09R-2 Rick Dom II;https://static.wikia.nocookie.net/gundam/images/7/7a/Hguc_dreissen_boxart.jpg;¥2,000;2011 May
+124;RGC-83 GM Cannon II;Mobile Suit Gundam 0083: Stardust Memory;20.0;RGC-80 GM Cannon;https://static.wikia.nocookie.net/gundam/images/c/c0/Hguc_gm_cannon_boxart.jpg;¥1,400;2011 June
+125;RGM-86R GM III;Mobile Suit Gundam ZZ;18.6;RMS-179 GM II;https://static.wikia.nocookie.net/gundam/images/1/15/Rgm-86r_gm_3_boxart.jpg;¥1,500;2011 July
+126;GF13-017NJ Shining Gundam;Mobile Fighter G Gundam;16.2;;https://static.wikia.nocookie.net/gundam/images/1/16/Hgfc_shining_gundam_boxart.jpg;¥1,500;2011 August
+127;GF13-001NHII Master Gundam;Mobile Fighter G Gundam;16.7;;https://static.wikia.nocookie.net/gundam/images/e/e3/Hgfc_master_gundam_boxart.jpg;¥2,400;2011 August
+128;GF13-050NSW Nobel Gundam;Mobile Fighter G Gundam;16.2;"GF13-050NSW Nobel Gundam GPB-D Color ""Cardinal""";https://static.wikia.nocookie.net/gundam/images/b/b5/Hgfc-nobel-1.jpg;¥1,500;2011 September
+129;RGM-96X Jesta;Mobile Suit Gundam Unicorn;19.3;RGM-89 Jegan;https://static.wikia.nocookie.net/gundam/images/7/79/Hguc-jesta-11.jpg;¥1,600;2011 September
+130;RMS-179 GM II;Mobile Suit Zeta Gundam;19.1;RGM-79 GM;https://static.wikia.nocookie.net/gundam/images/3/3b/Hguc-gm-ii.jpg;¥1,400;2011 October
+131;AMS-129M Zee Zulu;Mobile Suit Gundam Unicorn;20.3;AMS-129 Geara Zulu;https://static.wikia.nocookie.net/gundam/images/0/0e/Hguc-ams-129m.jpg;¥1,400;2011 November
+132;MS-21C Dra-C;Mobile Suit Gundam 0083: Stardust Memory;29.8;MS-06F-2 Zaku II F2 Type;https://static.wikia.nocookie.net/gundam/images/7/70/Hguc83-dra-c.jpg;¥2,000;2011 November
+133;RX-0 Unicorn Gundam 02 Banshee;Mobile Suit Gundam Unicorn;19.7;MSN-06S Sinanju Stein;https://static.wikia.nocookie.net/gundam/images/0/05/Rx-hguc2.jpg;¥1,800;2012 January
+134;RX-0 Unicorn Gundam 02 Banshee;Mobile Suit Gundam Unicorn;19.7;MSN-06S Sinanju Stein;https://static.wikia.nocookie.net/gundam/images/5/56/Rx-0hguc1.jpg;¥1,600;2012 January
+135;MSN-001 Delta Gundam;UC-MSV;0.0;RMS-099 Rick Dias;https://static.wikia.nocookie.net/gundam/images/f/f1/Hguc_delta_gundam_box.jpg;¥4,200;2012 March
+136;MS-05L Zaku I Sniper Type;Mobile Suit Gundam Unicorn;17.5;MS-05B Zaku I;https://static.wikia.nocookie.net/gundam/images/0/01/Hguc_zaku_1_sniper_type_yonem_kirks_custom_boxart.jpg;¥1,600;2012 March
+137;RMS-108 Marasai;Mobile Suit Gundam Unicorn;20.5;RMS-106 Hizack;https://static.wikia.nocookie.net/gundam/images/e/e7/Hguc_marasia_unicorn_ver.jpg;¥1,600;2012 March
+138;MSM-04G Juaggu;Mobile Suit Gundam Unicorn;17.4;MSM-04 Acguy;https://static.wikia.nocookie.net/gundam/images/8/86/Hguc_juaggu_boxart.jpg;¥1,700;2012 March
+139;MSA-003 Nemo;Mobile Suit Gundam Unicorn;19.5;RMS-179 GM II;https://static.wikia.nocookie.net/gundam/images/9/93/Hguc_nemo_unicorn_boxart.jpg;¥1,500;2012 April
+140;RAS-96 Anksha;Mobile Suit Gundam Unicorn;22.3;NRX-044 Asshimar;https://static.wikia.nocookie.net/gundam/images/b/b9/Hguc-ankusha.jpg;¥2,600;2012 May
+141;RGZ-95C ReZEL Type C (Defenser B-Unit) (GR);Mobile Suit Gundam Unicorn;20.5;RGZ-95C ReZEL Type-C (GR);https://static.wikia.nocookie.net/gundam/images/a/a3/12865RZGR.jpg;¥2,200;2012 June
+142;RMS-192M Zaku Mariner;Mobile Suit Gundam ZZ;19.4;MSM-01 Zaku Marine Type;https://static.wikia.nocookie.net/gundam/images/3/3a/Zalu_mariner_boxart.jpg;¥1,400;2012 July
+143;Base Jabber;Mobile Suit Gundam Unicorn;0.0;U.C.;https://static.wikia.nocookie.net/gundam/images/3/33/Base_Jabber_%28Unicorn_Ver.%29.jpg;¥1,000;2012 July
+144;RX-139 Hambrabi;Mobile Suit Zeta Gundam;19.9;CRX-139 Hambra-B;https://static.wikia.nocookie.net/gundam/images/a/ac/High_Grade_Hambrabi.jpg;¥1,700;2012 August
+145;RGM-79SP GM Sniper II;Mobile Suit Gundam 0080: War in the Pocket;18.5;RGM-79G GM Command;https://static.wikia.nocookie.net/gundam/images/3/38/Rgm-79sp_gm_sniper-ii_hguc.jpg;¥1,500;2012 September
+146;RX-160S Byarlant Custom;Mobile Suit Gundam Unicorn;20.6;RX-160 Byarlant;https://static.wikia.nocookie.net/gundam/images/6/6d/Hguc_byarlant_custom_boxart.jpg;¥2,600;2012 November
+147;MSN-001X Gundam Delta Kai;UC-MSV;19.6;MSN-001A1 Delta Plus;https://static.wikia.nocookie.net/gundam/images/f/f9/HGUC_DELTA_KAI.jpg;¥2,600;2012 December
+148;YAMS-132 Rozen Zulu;Mobile Suit Gundam Unicorn;25.2;AMX-103 Hamma Hamma;https://static.wikia.nocookie.net/gundam/images/0/0e/12311.jpg;¥2,800;2012 December
+149;MSA-003 Nemo;Mobile Suit Zeta Gundam;19.5;RMS-179 GM II;https://static.wikia.nocookie.net/gundam/images/e/e1/20121228194232ab8.jpg;¥1,500;2013 January
+150;MS-06R-1A Zaku II High Mobility Type;Mobile Suit Variations;17.5;MS-06R-1 Zaku II High Mobility Test Type;https://static.wikia.nocookie.net/gundam/images/9/91/HGUC_MS-06R-1A_Zaku_II_High_Mobility_Type_-_Box_Art.jpg;¥1,600;2013 February
+151;RGM-96X Jesta Cannon;Mobile Suit Gundam Unicorn;19.3;RGM-96X Jesta;https://static.wikia.nocookie.net/gundam/images/f/f5/HGUC_-_RGM-96X_Jesta_Cannon.jpg;¥2,000;2013 February
+152;RX-0ï¼»Nï¼½ Unicorn Gundam 02 Banshee ;Mobile Suit Gundam Unicorn;19.7;RX-0 Unicorn Gundam 02 Banshee;https://static.wikia.nocookie.net/gundam/images/a/a7/Unicorn_Gundam_02_Banshee_Norn_%28Unicorn_Mode%29.jpg;¥1,700;2013 March
+153;MS-06R-1A Zaku II High Mobility Type;Mobile Suit Variations;17.5;MS-06R-1 Zaku II High Mobility Test Type;https://static.wikia.nocookie.net/gundam/images/4/4a/HGUC_MS-06R1A_-_Matsunaga_Custom.jpg;¥1,600;2013 March
+154;RX-79(G)Ez-8 Gundam Ez8;Mobile Suit Gundam: The 08th MS Team;18.0;RX-79[G] Gundam Ground Type;https://static.wikia.nocookie.net/gundam/images/b/b7/811moZTY8KL._AA1500_.jpg;¥1,600;2013 April
+155;RX-0 Full Armor Unicorn Gundam;Mobile Suit Gundam Unicorn;19.7;RX-0 Unicorn Gundam;https://static.wikia.nocookie.net/gundam/images/a/a3/HG_Full_Armor_Unicorn_Unicorn_Mode_Boxart.jpg;¥3,000;2013 May
+156;PMX-000 Messala;Mobile Suit Zeta Gundam;30.3;ABFS-RR-01S Messala Dinofaust Jupiter;https://static.wikia.nocookie.net/gundam/images/d/d6/HGUC-Messala_-_box_art.jpg;¥3,000;2013 June
+157;Base Jabber;Mobile Suit Gundam Unicorn;0.0;U.C.;https://static.wikia.nocookie.net/gundam/images/9/97/HGUC-_Base_Jabber_89_-_box_art.jpg;¥1,200;2013 June
+158;AGX-04 Gerbera Tetra;Mobile Suit Gundam 0083: Stardust Memory;18.0;"RX-78GP04G Gundam ""Gerbera""";https://static.wikia.nocookie.net/gundam/images/a/ae/HGUC_Box_-_Gerbera_Tetra.jpg;¥1,800;2013 July
+159;AMX-014 DÃ¶ven Wol;UC-MSV;25.9;ORX-013 Gundam Mk-V;https://static.wikia.nocookie.net/gundam/images/e/e8/HGUC_D%C3%B6ven_Wolf_-_Box_Art.jpg;¥2,200;2013 August
+160;MSM-08 Zogok;Mobile Suit Gundam Unicorn;18.8;MSM-07 Z'Gok;https://static.wikia.nocookie.net/gundam/images/3/39/HGUC-Zogok-Box_Art.jpg;¥1,700;2013 September
+161;XXXG-01W Wing Gundam;Mobile Suit Gundam Wing;16.3;XXXG-00W0 Wing Gundam Zero;https://static.wikia.nocookie.net/gundam/images/4/4c/130px-HGUC-Gundam-Wing-Box_Art.jpg;¥1,500;2013 September
+162;GX-9901-DX Gundam Double X;After War Gundam X;17.0;GX-9900 Gundam Xâ;https://static.wikia.nocookie.net/gundam/images/1/1c/Hguc_163.jpg;¥1,700;2013 October
+163;MSA-003 Nemo;Mobile Suit Gundam Unicorn;19.5;RMS-179 GM II;https://static.wikia.nocookie.net/gundam/images/c/c7/Hguc_164.jpg;¥1,500;2013 November
+164;LM312V04 Victory Gundam;Mobile Suit Victory Gundam;15.2;LM314V21 Victory 2 Gundam;https://static.wikia.nocookie.net/gundam/images/7/77/Hguc_165.jpg;¥1,200;2013 November
+165;MS-06R-2 Zaku II High Mobility Type;Mobile Suit Variations;18.0;MS-06R-2P Zaku II High Mobility Test Type;https://static.wikia.nocookie.net/gundam/images/a/a7/Hguc_ZakuII_Johnny_Rider.jpg;¥1,800;2013 November
+166;F91 Gundam F91;Mobile Suit Gundam F91;15.2;[1];https://static.wikia.nocookie.net/gundam/images/4/47/BANM131236.jpg;¥1,200;2013 December
+167;F91 Gundam F91;Mobile Suit Crossbone Gundam;15.2;[1];https://static.wikia.nocookie.net/gundam/images/1/15/F91MassProduce.jpg;¥1,200;2014 January
+168;LM314V21 Victory 2 Gundam;Mobile Suit Victory Gundam;15.5;LM312V04 Victory Gundam;https://static.wikia.nocookie.net/gundam/images/1/1a/Hguc_169.jpg;¥1,300;2014 January
+169;ARX-014 Silver Bullet;Mobile Suit Gundam Unicorn - Bande Dessinee;22.2;AMX-014 DÃ¶ven Wol;https://static.wikia.nocookie.net/gundam/images/c/cc/Hguc-arx-014-silver-bullet-pa.jpg;¥2,200;2014 February
+170;GAT-X105+AQM/E-X01 Aile Strike Gundam;Mobile Suit Gundam SEED;17.72;GAT-X105 Strike Gundam;https://static.wikia.nocookie.net/gundam/images/a/a5/Hguc_171.jpg;¥1,400;2014 February
+171;AMX-009 Dreissen;Mobile Suit Gundam ZZ;23.4;MS-09R-2 Rick Dom II;https://static.wikia.nocookie.net/gundam/images/e/e3/Hguc_172.jpg;¥2,100;February 2014
+172;AMX-014 DÃ¶ven Wol;Mobile Suit Gundam ZZ;25.9;ORX-013 Gundam Mk-V;https://static.wikia.nocookie.net/gundam/images/2/21/Hguc_173.jpg;¥2,400;February 2014
+173;XXXG-00W0 Wing Gundam Zero;Mobile Suit Gundam Wing;16.7;N/A;https://static.wikia.nocookie.net/gundam/images/0/00/HG_Wing_Zero_Boxart.jpg;¥1,700;2014 March
+174;RX-0ï¼»Nï¼½ Unicorn Gundam 02 Banshee ;Mobile Suit Gundam Unicorn;19.7;RX-0 Unicorn Gundam 02 Banshee;https://static.wikia.nocookie.net/gundam/images/e/ec/HG_Unicorn_Banshee_Destroy_Mode_Boxart.jpg;¥1,450;2014 March
+175;MBF-02+AQM/E-X01 Aile Strike Rouge;Mobile Suit Gundam SEED;17.72;MBF-02 Strike Rouge;https://static.wikia.nocookie.net/gundam/images/7/7e/HG_Aile_Strike_Rouge_Boxart.jpg;¥1,500;2014 March
+176;SYSTEM âˆ€-99 âˆ€ Gu;  Gundam;20.0;Concept-X 6-1-2 Turn X;https://static.wikia.nocookie.net/gundam/images/e/e1/HG_Turn_A_Boxart.jpg;¥1,500;2014 April
+177;RX-0 Full Armor Unicorn Gundam;Mobile Suit Gundam Unicorn;19.7;RX-0 Unicorn Gundam;https://static.wikia.nocookie.net/gundam/images/a/ab/HG_Full_Armor_Unicorn_Destroy_Mode_Boxart.jpg;¥3,200;2014 April
+178;NZ-666 Kshatriya Repaired;Mobile Suit Gundam Unicorn;22.3;NZ-666 Kshatriya Besserung;https://static.wikia.nocookie.net/gundam/images/9/9a/HG_Kshatriya_Repaired_Boxart.jpg;¥6,500;2014 May
+179;AMX-102 Zssa;Mobile Suit Gundam Unicorn;15.85;AMX-102IKO Lavender Zssa;https://static.wikia.nocookie.net/gundam/images/c/cb/HG_Zssa_Unicorn_ver._Boxart.jpg;¥2,400;2014 June
+180;NZ-999 Neo Zeong;Mobile Suit Gundam Unicorn;116.0;MSN-06S Sinanju;https://static.wikia.nocookie.net/gundam/images/9/9b/Hguc181.jpg;¥27,000;2014 June
+181;MSZ-006A1 Zeta Plus A1;Mobile Suit Gundam Unicorn;22.11;MSZ-006 Zeta Gundam;https://static.wikia.nocookie.net/gundam/images/e/ef/HGUC_Z_Plus_-Unicorn_Ver.-.jpg;¥2,400;2014 July
+182;AMX-101E Schuzrum-Galluss;Mobile Suit Gundam Unicorn;19.5;AMX-101 Galluss-J;https://static.wikia.nocookie.net/gundam/images/d/db/Hguc183.jpg;¥2,400;2014 July
+183;GW-9800 Gundam Airmaster;After War Gundam X;17.2;AX Oberon;https://static.wikia.nocookie.net/gundam/images/1/14/Hguc184.jpg;¥1,700;2014 July
+184;YAMS-132 Rozen Zulu;Mobile Suit Gundam Unicorn;25.2;AMX-103 Hamma Hamma;https://static.wikia.nocookie.net/gundam/images/f/f9/Hguc185.jpg;¥1,700;2014 August
+185;MSZ-008 ZII;Mobile Suit Variations;18.3;MSZ-006 Zeta Gundam;https://static.wikia.nocookie.net/gundam/images/3/36/HGUC_Z_II.jpg;¥2,400;2014 September
+186;XM-X1 Crossbone Gundam X-1;Mobile Suit Crossbone Gundam;15.9;N/A;https://static.wikia.nocookie.net/gundam/images/f/fb/Hguc_crossbone_x1.jpg;¥1,800;2014 November
+187;LM312V04+SD-VB03A V-Dash Gundam;Mobile Suit Victory Gundam;15.2;LM312V04 Victory Gundam;https://static.wikia.nocookie.net/gundam/images/7/7a/HGUC_V-Dash_Gundam.jpg;¥1,800;2015 March
+188;LM314V23/24 V2 Assault-Buster Gundam;Mobile Suit Victory Gundam;15.5;LM314V21 Victory 2 Gundam;https://static.wikia.nocookie.net/gundam/images/7/74/HGUC_Victory_Two_Assault_Buster_Gundam.jpg;¥2,000;2015 May
+189;RX-77-2 Guncannon;Mobile Suit Gundam;17.5;RX-75 Guntank;https://static.wikia.nocookie.net/gundam/images/9/97/HGUC_Guncannon.jpg;¥1,000;2015 June
+190;RX-78-2 Gundam;Mobile Suit Gundam;18.0;RX-78-1 Prototype Gundam;https://static.wikia.nocookie.net/gundam/images/6/61/HGUC_Gundam.jpg;¥1,000;2015 July
+191;ZGMF-X10A Freedom Gundam;Mobile Suit Gundam SEED;18.03;YFX-600R GuAIZ Experimental Firearms Type;https://static.wikia.nocookie.net/gundam/images/9/98/HG_Freedom_Gundam_Boxart.jpg;¥1,700;2015 August
+192;RX-178 Gundam Mk-II;Mobile Suit Zeta Gundam;19.6;RGM-79Q GM Quel;https://static.wikia.nocookie.net/gundam/images/3/33/HGUC_Gundam_Mk-II.jpg;¥1,500;2015 November
+193;RX-178 Gundam Mk-II;Mobile Suit Zeta Gundam;19.6;RGM-79Q GM Quel;https://static.wikia.nocookie.net/gundam/images/c/cb/HGUC_Gundam_Mk-II_Titan.jpg;¥1,500;2015 November
+194;AMX-004 Qubeley;Mobile Suit Zeta Gundam;18.9;AMX-001 Prototype Qubeley;https://static.wikia.nocookie.net/gundam/images/e/e0/HGUC_Qubeley_Revive.jpg;¥1,800;2015 December
+195;MS-07B Gouf;Mobile Suit Gundam;18.7;YMS-07A Prototype Gouf;https://static.wikia.nocookie.net/gundam/images/5/5a/HGUC-Gouf-Revive.jpg;¥1,500;2016 April
+196;YMS-15 Gyan;Mobile Suit Gundam;19.9;AMX-104 R-Jarja;https://static.wikia.nocookie.net/gundam/images/6/6e/HGUC-Gyan-Revive.jpg;¥1,200;2016 May
+197;ZGMF-X56S/Î± Force Impulse Gunda;Mobile Suit Gundam SEED Destiny;18.41;ZGMF-X56S Impulse Gundam;https://static.wikia.nocookie.net/gundam/images/c/cd/HGCE_Force_Impulse_Gundam-Revive.jpg;¥1,800;2016 June
+198;RX-0 Full Armor Unicorn Gundam;Mobile Suit Gundam Unicorn RE:0096;19.7;RX-0 Unicorn Gundam;https://static.wikia.nocookie.net/gundam/images/f/fa/HGUC-FullArmorUnicornGundam-DestroyRed.png;¥3,500;2016 June
+199;MSN-00100 Hyaku Shiki;Mobile Suit Zeta Gundam;21.4;MSN-001 Delta Gundam;https://static.wikia.nocookie.net/gundam/images/a/a7/HGUC-HyakuShiki-Revive.jpg;¥1,800;2016 August
+200;ZGMF-X20A Strike Freedom Gundam;Mobile Suit Gundam SEED Destiny;18.88;ZGMF-X10A Freedom Gundam;https://static.wikia.nocookie.net/gundam/images/8/8b/HGCE_Strike_Freedom_Gundam_Revive.jpg;¥2,000;2016 November
+201;RGM-79ï¼»Gï¼½ GM Ground ;Mobile Suit Gundam: The 08th MS Team;18.0;RX-79[G] Gundam Ground Type;https://static.wikia.nocookie.net/gundam/images/f/f2/HGUC-GMGroundType.jpg;¥1,500;2017 January
+202;MSZ-006 Zeta Gundam;Mobile Suit Zeta Gundam;19.85;MSZ-006-X Prototype Î– Gunda;https://static.wikia.nocookie.net/gundam/images/f/f7/Hguc-zeta-gundam-gunpla-evolution-project-2017_%281%29.jpg;¥1,800;2017 April
+203;RMS-154 Barzam;Mobile Suit Zeta Gundam;24.2;RX-178 Gundam Mk-II;https://static.wikia.nocookie.net/gundam/images/3/32/HGUC-Barzam.jpg;¥1,600;2017 May
+204;"RX-78AN-01 Gundam AN-01 ""Tristan""";Mobile Suit Gundam Twilight Axis;18.0;RX-78NT-1 Gundam NT-1;https://static.wikia.nocookie.net/gundam/images/6/66/HGUC_Gundam_AN-01_Tristan.jpg;¥1,600;2017 June
+205;MS-08TX/S Efreet Schneid;Mobile Suit Gundam Unicorn;17.2;MS-08TX Efreet;https://static.wikia.nocookie.net/gundam/images/3/38/HGUC-Efreet-Schneid.jpg;¥1,800;2017 July
+206;RX-79BD-1 Blue Destiny Unit 1;Mobile Suit Gundam Side Story: The Blue Destiny;18.5;RGM-79BD-0 Blue Destiny Unit 0;https://static.wikia.nocookie.net/gundam/images/c/cc/HGUC_Blue_Destiny_Unit_1_Exam.jpg;¥1,600;2017 August
+207;RX-79BD-2 Blue Destiny Unit 2;Mobile Suit Gundam Side Story: The Blue Destiny;18.0;RX-79[G] Gundam Ground Type;https://static.wikia.nocookie.net/gundam/images/1/13/HGUC-BlueDestinyUnit2EXAM.jpg;¥1,600;2017 December
+208;RX-79BD-3 Blue Destiny Unit 3;Mobile Suit Gundam Side Story: The Blue Destiny;18.0;RX-79[G] Gundam Ground Type;https://static.wikia.nocookie.net/gundam/images/5/56/HGUC_Blue_Destiny_Unit_3_EXAM.jpg;¥1,600;2018 March
+209;RX-79ï¼»Gï¼½ Gundam Ground ;Mobile Suit Gundam: The 08th MS Team;18.2;RX-78-1 Prototype Gundam;https://static.wikia.nocookie.net/gundam/images/9/99/HGUC_Gundam_Ground_Type.jpg;¥1,600;2018 April
+210;OZ-06MS Leo;Mobile Suit Gundam Wing;16.2;OZ-00MS Tallgeese;https://static.wikia.nocookie.net/gundam/images/3/3f/HGAC_Leo.jpg;¥1,000;2018 May
+211;RMS-117 Galbaldy Î;Mobile Suit Zeta Gundam;19.0;MS-17 Galbaldy Î;https://static.wikia.nocookie.net/gundam/images/e/ef/HGUC_Galbaldy_%CE%B2.jpg;¥1,500;2018 June
+212;RX-0 Unicorn Gundam 03 Phenex;Mobile Suit Gundam Narrative;19.7;RX-0 Unicorn Gundam;https://static.wikia.nocookie.net/gundam/images/1/1d/HGUC_Unicorn_Gundam_03_Phenex_%28Destroy_Mode%29_%28Narrative_Ver.%29.jpg;¥2,800;2018 June
+213;RX-160 Byarlant;Mobile Suit Zeta Gundam;23.1;RX-121-1 Gundam TR-1 (Hazel Custom) w/Icarus Unit;https://static.wikia.nocookie.net/gundam/images/f/f6/HGUC_Byarlant.jpg;¥2,600;2018 July
+214;AMS-123X-X Moon Gundam;Mobile Suit Moon Gundam;21.7;AMS-123X Varguil;https://static.wikia.nocookie.net/gundam/images/f/f9/HGUC_Moon_Gundam.jpg;¥3,000;2018 September
+215;RX-0 Unicorn Gundam 03 Phenex;Mobile Suit Gundam Narrative;19.7;RX-0 Unicorn Gundam;https://static.wikia.nocookie.net/gundam/images/d/d0/HGUC_Unicorn_Gundam_03_Phenex_%28Destroy_Mode%29_%28Narrative_Ver.%29_-Gold_Coating-.jpg;¥5,000;2018 October
+216;MSN-06S-2 Sinanju Stein;Mobile Suit Gundam Narrative;22.6;MSN-06S Sinanju Stein;https://static.wikia.nocookie.net/gundam/images/6/67/HGUC_Sinanju_Stein_%28Narrative_Ver.%29.jpg;¥2,600;2018 October
+217;RX-9/A Narrative Gundam A-Packs;Mobile Suit Gundam Narrative;27.0;RX-9 Narrative Gundam;https://static.wikia.nocookie.net/gundam/images/a/a2/HG_Narrative_Gundam_A-Packs.jpg;¥5,500;2018 November
+218;MSK-008 Dijeh;Mobile Suit Zeta Gundam;23.0;RMS-099 Rick Dias;https://static.wikia.nocookie.net/gundam/images/8/84/HGUC_Dijeh.jpg;¥1,900;2018 December
+219;AMX-104 R-Jarja;Mobile Suit Gundam ZZ;23.55;YMS-15 Gyan;https://static.wikia.nocookie.net/gundam/images/e/e5/HGUC_R-Jarja.jpg;¥1,900;2019 January
+220;FD-03 Gustav Karl;Mobile Suit Gundam Unicorn;22.0;FD-03-00 Gustav Karl Type-00;https://static.wikia.nocookie.net/gundam/images/a/a6/HGUC_Gustav_Karl_%28Unicorn_Ver.%29.jpg;¥2,400;2019 February
+221;RX-9/C Narrative Gundam C-Packs;Mobile Suit Gundam Narrative;21.0;RX-9 Narrative Gundam;https://static.wikia.nocookie.net/gundam/images/1/11/HGUC_Narrative_Gundam_C-Packs.jpg;¥2,300;2019 March
+222;WMS-03 Maganac;Mobile Suit Gundam Wing;16.4;N/A;https://static.wikia.nocookie.net/gundam/images/1/1b/HGAC_Maganac.jpg;¥1,200;2019 April
+223;ZGMF-X42S Destiny Gundam;Mobile Suit Gundam SEED Destiny;18.08;ZGMF-X56S Impulse Gundam;https://static.wikia.nocookie.net/gundam/images/3/35/HGCE_Destiny_Gundam.jpg;¥2,200;2019 May
+224;ARX-014S Silver Bullet Suppressor;Mobile Suit Gundam Narrative;23.4;ARX-014 Silver Bullet;https://static.wikia.nocookie.net/gundam/images/c/ca/HGUC_Silver_Bullet_Suppressor.jpg;¥2,700;2019 June
+225;RX-0 Unicorn Gundam 03 Phenex;Mobile Suit Gundam Narrative;19.7;RX-0 Unicorn Gundam;https://static.wikia.nocookie.net/gundam/images/9/9f/HGUC_Unicorn_Gundam_03_Phenex_%28Unicorn_Mode%29_%28Narrative_Ver.%29_-Gold_Coating-.jpg;¥5,000;2019 August
+226;XXXG-01SR Gundam Sandrock;Mobile Suit Gundam Wing;16.5;XXXG-00W0 Wing Gundam Zero;https://static.wikia.nocookie.net/gundam/images/1/12/HGAC_Gundam_Sandrock.jpg;¥1,500;2019 September
+227;RX-104FF Penelope;Mobile Suit Gundam Hathaway;26.0;;https://static.wikia.nocookie.net/gundam/images/d/d9/HGUC_Penelope.jpg;¥6,800;2019 October
+228;JDG-009X Death Army;Mobile Fighter G Gundam;0.0;Death Dragon;https://static.wikia.nocookie.net/gundam/images/a/a6/HGFC_Death_Army.jpg;¥1,200;2019 November
+229;Gundam G40 (Industrial Design Ver.);Mobile Suit Gundam G40;0.0;Kamaria Ray;https://static.wikia.nocookie.net/gundam/images/e/ea/HG_Gundam_G40_Industrial_Design_Ver.jpg;¥3,000;2019 December
+230;ZGMF-X19A âˆž Justice Gund;Mobile Suit Gundam SEED Destiny;18.9;ZGMF-X09A Justice Gundam;https://static.wikia.nocookie.net/gundam/images/1/1b/HGCE_Infinite_Justice_Gundam.jpg;¥2,200;2020 May
+231;GAT-04 Windam;Mobile Suit Gundam SEED Destiny;18.67;GAT-02L2 Dagger L;https://static.wikia.nocookie.net/gundam/images/5/57/HGCE_Windam.jpg;¥1,400;2020 May
+232;RX-78-2 Gundam;Mobile Suit Gundam;18.0;RX-78-1 Prototype Gundam;https://static.wikia.nocookie.net/gundam/images/e/e4/HG_Gundam_-BEYOND_GLOBAL-.jpg;¥2,000;2020 June
+233;Me02R-F01 Messer Type-F01;Mobile Suit Gundam Hathaway;23.0;AMS-119 Geara Doga;https://static.wikia.nocookie.net/gundam/images/9/9a/HGUC_Messer_Type-F01.jpg;¥2,500;2020 July
+234;MS-06S Zaku II Commander Type;Mobile Suit Gundam;18.0;MS-06F Zaku II;https://static.wikia.nocookie.net/gundam/images/f/fb/HGUC_MS-06S_Zaku_II.jpg;¥1,600;2020 July
+235;NRX-055 Baund Doc;Mobile Suit Zeta Gundam;29.7;RX-107 TR-4 (Dandelion);https://static.wikia.nocookie.net/gundam/images/7/74/HGUC_Baund_Doc_%28box_art%29.jpg;¥5,000;2020 October
+236;XXXG-01H Gundam Heavyarms;Mobile Suit Gundam Wing;16.7;XXXG-00W0 Wing Gundam Zero;https://static.wikia.nocookie.net/gundam/images/5/5f/HGAC_Gundam_Heavyarms.jpg;¥1,500;2020 October
+237;GAT-02L2 Dagger L;Mobile Suit Gundam SEED Destiny;18.4;GAT-01A1 Dagger;https://static.wikia.nocookie.net/gundam/images/0/05/HGCE_Dagger_L.jpg;¥1,200;2021 April
+238;RX-105 Îž Gunda;Mobile Suit Gundam Hathaway;26.0;;https://static.wikia.nocookie.net/gundam/images/7/78/HGUC_Xi_Gundam.jpg;¥6,000;2021 April
+239;XXXG-01D Gundam Deathscythe;Mobile Suit Gundam Wing;16.3;XXXG-00W0 Wing Gundam Zero;https://static.wikia.nocookie.net/gundam/images/0/02/HGAC_Gundam_Deathscythe.jpg;¥1,500;2021 May
+240;MSN-04II Nightingale;Mobile Suit Gundam: Char's Counterattack - Beltorchika's Children;27.8;Newborn Neo Zeon;https://static.wikia.nocookie.net/gundam/images/9/91/HGUC_Nightingale.jpg;¥7,000;2021 July
+241;MS-06 Zaku II;Mobile Suit Gundam;0.0;MS-05 Zaku I;https://static.wikia.nocookie.net/gundam/images/a/a7/HGUC_Zaku_II.jpg;¥1,600;2021 December
+242;XXXG-01S Shenlong Gundam;Mobile Suit Gundam Wing;16.4;XXXG-00W0 Wing Gundam Zero;https://static.wikia.nocookie.net/gundam/images/9/9b/HGAC_Shenlong_Gundam.jpg;¥1,500;2022 September
+243;MS-15C Gyan Cannon;Mobile Suit Gundam Gihren's Greed;0.0;YMS-15 Gyan;N/A;¥3,800;2000
+244;YMS-15 Gyan;Mobile Suit Gundam;19.9;AMX-104 R-Jarja;N/A;¥4,800;2001 February
+245;RMS-106CS Hizack Custom;Zeta Gundam Mobile Suit Variations;19.9;RMS-106 Hizack;N/A;¥7,800;2001
+246;RGC-80 GM Cannon;Mobile Suit Variations;18.4;RGC-80 Prototype GM Cannon;N/A;¥4,800;2001 July
+247;RMS-099B Schuzrum Dias;Mobile Suit Gundam ZZ;28.0;RMS-099 Rick Dias;N/A;¥12,800;2001 August
+248;RGM-79SC GM Sniper Custom;Mobile Suit Variations;18.5;RGM-79 GM;N/A;¥4,800;2001 October
+249;RGM-86R GM III;Mobile Suit Gundam ZZ;18.6;RMS-179 GM II;N/A;¥7,800;2002 January
+250;MSR-00100 Hyaku Shiki Kai;Zeta Gundam Mobile Suit Variations;19.2;MSN-00100 Hyaku Shiki;N/A;¥4,800;2002 February
+251;RX-77-3 Guncannon Heavy Custom;Mobile Suit Variations;18.1;RX-77-2 Guncannon;N/A;¥6,800;2002 February
+252;RMS-119 EWAC Zack;Mobile Suit Gundam ZZ;18.5;RMS-106 Hizack;N/A;¥7,800;2002 March
+253;RMS-179 GM II;Mobile Suit Zeta Gundam;19.1;RGM-79 GM;N/A;¥4,800;2002 April
+254;RX-78-2 Gundam;Mobile Suit Gundam;18.0;RX-78-1 Prototype Gundam;N/A;¥4,800;2002 April
+255;MSN-00100 Hyaku Shiki;Mobile Suit Zeta Gundam;21.4;MSN-001 Delta Gundam;N/A;¥9,800;2002 June
+256;"RX-78GP03S Gundam ""Dendrobium Stamen""";Mobile Suit Gundam 0083: Stardust Memory;18.2;"RX-78GP00 Gundam ""Blossom""";N/A;¥5,800;2002 August
+257;MS-15F Gyan Marine;Mobile Suit Gundam Gihren's Greed;0.0;YMS-15 Gyan;N/A;¥7,800;2003 January
+258;PF-78-1 Perfect Gundam;Plamo-Kyoshiro;0.0;RX-78-2 Gundam;N/A;¥9,800;2003 June
+259;FXA-00 Flying Armor;Mobile Suit Zeta Gundam;0.0;U.C.;N/A;¥7,800;2003 July
+260;RX-78-1 Prototype Gundam;Mobile Suit Variations;18.0;RX-77-2 Guncannon;N/A;¥2,800;2003 July
+261;Musha Gundam;Plamo-Kyoshiro;18.18;RX-78-2 Gundam;N/A;¥13,800;2003 September
+262;N/A;Plamo-Kyoshiro;0.0;N/A;N/A;¥13,800;2004 March
+263;RMS-106 Hizack;Mobile Suit Zeta Gundam;20.6;YRMS-106 Hizack Pre-Production Type;N/A;¥9,800;2004 June
+264;PF-78-3 Perfect Gundam III;Plamo-Kyoshiro;0.0;GPB-X78-30-2 Forever Gundam Mk-II;N/A;¥12,800;2004 July
+265;MSZ-006 Zeta Gundam;Mobile Suit Zeta Gundam;19.85;MSZ-006-X Prototype Î– Gunda;N/A;¥2,420;2005
+266;EMS-10 Zudah;Mobile Suit Gundam MS IGLOO 603;17.3;N/A;N/A;¥7,480;2006
+267;MSZ-006 Zeta Gundam;Mobile Suit Zeta Gundam;19.85;MSZ-006-X Prototype Î– Gunda;N/A;¥2,420;2007
+268;RX-178 Gundam Mk-II;Mobile Suit Zeta Gundam;19.6;RGM-79Q GM Quel;N/A;¥4,950;2007
+269;MSN-00100 Hyaku Shiki;Mobile Suit Zeta Gundam;21.4;MSN-001 Delta Gundam;N/A;¥5,280;2008
+270;MS-14 Gelgoog;Mobile Suit Gundam MS IGLOO: Apocalypse 0079;0.0;N/A;N/A;¥5,280;2008
+271;RX-93 Î½ Gunda;Mobile Suit Gundam: Char's Counterattack;23.0;YRA-90A Î¼ Gunda;N/A;¥8,500;2008
+272;"RX-78NT-1 Gundam ""Alex""";Mobile Suit Gundam 0080: War in the Pocket;18.5;RX-78-2 Gundam;N/A;¥7,480;2008
+273;MS-09R Rick Dom ï¼»Stutze;Advance of Zeta: The Flag of Titans;18.6;MS-09R Rick Dom;N/A;¥26,400;2009
+274;AMX-004 Qubeley;Mobile Suit Zeta Gundam;18.9;AMX-001 Prototype Qubeley;N/A;¥2,500;2000 September
+275;MS-07B Gouf;Mobile Suit Gundam;18.7;YMS-07A Prototype Gouf;N/A;¥1,300;2000 September
+276;AMX-004 Qubeley Mk-II;Mobile Suit Gundam ZZ;18.9;AMX-004 Qubeley;N/A;¥2,500;2000 September
+277;AMX-004 Qubeley Mk-II;Mobile Suit Gundam ZZ;18.9;AMX-004 Qubeley;N/A;¥2,500;2000 September
+278;N/A;Mobile Suit Gundam;0.0;N/A;https://static.wikia.nocookie.net/gundam/images/c/c6/OperationV.jpg;¥2,600;2001 May
+279;RX-78-2 Gundam;Mobile Suit Gundam;18.0;RX-78-1 Prototype Gundam;N/A;US$;2001
+280;RX-178 Gundam Mk-II;Mobile Suit Zeta Gundam;19.6;RGM-79Q GM Quel;N/A;¥2,000;2005 May
+281;RMS-108 Marasai;Mobile Suit Zeta Gundam;20.5;RMS-106 Hizack;N/A;¥2,000;2005 May
+282;MSZ-006 Zeta Gundam;Mobile Suit Zeta Gundam;19.85;MSZ-006-X Prototype Î– Gunda;N/A;¥3,200;2005 October
+283;AMX-004 Qubeley;Mobile Suit Zeta Gundam;18.9;AMX-001 Prototype Qubeley;N/A;¥3,000;2006 March
+284;MS-09B Dom;Mobile Suit Gundam;18.6;MS-07C-5 Gouf Test Prototype;https://static.wikia.nocookie.net/gundam/images/b/b6/TripleDom.jpg;¥4,000;2006 January
+285;N/A;Mobile Suit Zeta Gundam;0.0;N/A;https://static.wikia.nocookie.net/gundam/images/6/65/GryphiosWar.jpg;¥4,200;2006 March
+286;RX-77-2 Guncannon;Mobile Suit Gundam;17.5;RX-75 Guntank;N/A;¥800;2006 November
+287;RX-75-4 Guntank;Mobile Suit Gundam;15.6;N/A;N/A;¥800;2006 November
+288;MS-07B Gouf;Mobile Suit Gundam;18.7;YMS-07A Prototype Gouf;N/A;¥800;2006 November
+289;MSM-07S Z'Gok Commander Type;Mobile Suit Gundam;18.4;MSM-07 Z'Gok;N/A;¥700;2006 November
+290;RGM-79 GM;Mobile Suit Gundam;18.5;RX-78-2 Gundam;N/A;¥700;2006 November
+291;RX-78-2 Gundam;Mobile Suit Gundam;18.0;RX-78-1 Prototype Gundam;N/A;¥1,000;2006 November
+292;MS-06S Zaku II Commander Type;Mobile Suit Gundam;18.0;MS-06F Zaku II;N/A;¥1,000;2006 November
+293;MS-09 Dom;Mobile Suit Gundam;18.6;MS-07C-5 Gouf Test Prototype;N/A;¥1,700;2006 November
+294;N/A;Mobile Suit Gundam;0.0;N/A;https://static.wikia.nocookie.net/gundam/images/2/22/OperationCaptureofJaburo.jpg;¥3,000;2007 July
+295;"RX-78-3 Gundam ""G-3""";Mobile Suit Gundam (Novel);18.5;RX-78-2 Gundam;https://static.wikia.nocookie.net/gundam/images/2/23/GundamG3VsCharRickDom.jpg;¥2,500;2008 February
+296;RX-93 Î½ Gunda;Mobile Suit Gundam: Char's Counterattack;23.0;YRA-90A Î¼ Gunda;https://static.wikia.nocookie.net/gundam/images/f/f7/Gunpla_HGUC_nuGundam-MetallicCoating_box.jpg;¥5,000;2010 January
+297;MSN-04 Sazabi;Mobile Suit Gundam: Char's Counterattack;25.6;MSN-04X2 Sazabi Prototype (Terrain Mode);https://static.wikia.nocookie.net/gundam/images/1/15/Gunpla_HGUC_Sazabi-MetallicCoating_box.jpg;¥5,500;2010 January
+298;RX-78-2 Gundam;Mobile Suit Gundam;18.0;RX-78-1 Prototype Gundam;https://static.wikia.nocookie.net/gundam/images/8/8b/GunplaStarterSet.jpg;¥2,000;2010 July
+299;"RX-78GP01-Fb Gundam Full Burnern ""Zephyranthes""";Mobile Suit Gundam: Extreme Vs.;19.5;"RX-78GP01 Gundam ""Zephyranthes""";https://static.wikia.nocookie.net/gundam/images/4/45/GundamGP01LinkinPark.jpg;¥5,500;2010 November
+300;RX-0 Unicorn Gundam;Mobile Suit Gundam Unicorn;19.7;MSN-06S Sinanju Stein;https://static.wikia.nocookie.net/gundam/images/e/ef/Hguc_unicorn_titanium_finish.jpg;¥4,200;2011 March
+301;MSN-06S Sinanju;Mobile Suit Gundam Unicorn;22.6;MSN-06S Sinanju Stein;https://static.wikia.nocookie.net/gundam/images/2/26/Hguc-sinanju-titanium.jpg;¥5,200;2011 March
+302;RX-78-2 Gundam;Gundam Breaker;18.0;RX-78-1 Prototype Gundam;https://static.wikia.nocookie.net/gundam/images/b/b8/HG_Gundam_%26_Zaku_II_Gundam_Breaker_Ver.jpg;¥28,076;2013 October
+303;RX-80PR Pale Rider;Mobile Suit Gundam Side Story: Missing Link;18.0;RX-80RR Red Rider;https://static.wikia.nocookie.net/gundam/images/1/1c/RX-80PRMetallic.jpg;¥14,893;2014 May
+304;ZGMF-X42S Destiny Gundam;Mobile Suit Gundam SEED Destiny;18.08;ZGMF-X56S Impulse Gundam;https://static.wikia.nocookie.net/gundam/images/a/a9/HGCE_Destiny_Gundam_%28Heine_Westenfluss_Custom%29.jpg;¥2,200;2019 July
+305;XXXG-01SR Gundam Sandrock;Mobile Suit Gundam Wing;16.5;XXXG-00W0 Wing Gundam Zero;https://static.wikia.nocookie.net/gundam/images/1/1b/HGAC_Gundam_Sandrock_%26_Gundam_Breaker_Mobile_Product_Code_Set.jpg;¥1,500;2019 September
+306;RX-78-2 Gundam;Mobile Suit Gundam;18.0;RX-78-1 Prototype Gundam;https://static.wikia.nocookie.net/gundam/images/d/d4/HG_RX-78-2_Gundam_%28Tokyo_2020_Olympic_Emblem%29.jpg;¥1,200;2020 June
+307;RX-78-2 Gundam;Mobile Suit Gundam;18.0;RX-78-1 Prototype Gundam;https://static.wikia.nocookie.net/gundam/images/b/bd/HG_RX-78-2_Gundam_%28Tokyo_2020_Paralympic_Emblem%29.jpg;¥1,200;2020 June
+308;Extreme Gundam;Mobile Suit Gundam Extreme Vs. Maxi Boost ON;18.9;Extreme Gundam Mk-II AXE;https://static.wikia.nocookie.net/gundam/images/6/6d/HG_Extreme_Gundam_%26_Eclipse-F_Parts_%28EXVS._10th_ANNIVERSARY_COLOR_Ver.%29.jpg;N/A;2020 July
+309;RX-105 Îž Gunda;Mobile Suit Gundam Hathaway;26.0;;https://static.wikia.nocookie.net/gundam/images/6/61/HGUC_Xi_Gundam_VS_Penelope_Funnel_Missile_Effect_Set.jpg;¥15,800;2021 April
+310;RX-78-2 Gundam;Mobile Suit Gundam;18.0;RX-78-1 Prototype Gundam;https://static.wikia.nocookie.net/gundam/images/c/cc/HGUC_RX-78-2_Gudam_Ver_Alexandros.jpg;¥5,000;2021 May
+311;MSZ-006 Zeta Gundam;Mobile Suit Zeta Gundam;19.85;MSZ-006-X Prototype Î– Gunda;https://static.wikia.nocookie.net/gundam/images/1/11/HGUC_Zeta_Gundam_Ver._Hiroko_Moriguchi.jpg;¥8,800;2022 March
+312;MS-09 Dom;Mobile Suit Gundam;18.6;MS-07C-5 Gouf Test Prototype;N/A;N/A;2015 July
+313;RX-78-2 Gundam;Mobile Suit Gundam;18.0;RX-78-1 Prototype Gundam;N/A;N/A;2021 October
+314;F91 Gundam F91;Mobile Suit Gundam F91;15.2;[1];N/A;N/A;2021 October
+315;RGM-79 GM;Gundam the Ride: A Baoa Qu;18.5;RX-78-2 Gundam;https://static.wikia.nocookie.net/gundam/images/1/14/Gunpla_HGUC_RGM79-GundamTheRide_box.jpg;¥1,890;2001
+316;"RX-78-3 Gundam ""G-3""";Mobile Suit Variations;18.5;RX-78-2 Gundam;https://static.wikia.nocookie.net/gundam/images/c/cb/Gunpla_HGUC_G3Gundam-Zeong_box.jpg;¥3,000;2002
+317;RX-78/C.A. Casval's Gundam;Mobile Suit Gundam Gihren's Greed;18.0;RX-78-2 Gundam;N/A;N/A;2003
+318;MSN-02 Zeong;Mobile Suit Gundam;17.3;MSN-01 Psycommu Test High Mobility Type Zaku;https://static.wikia.nocookie.net/gundam/images/e/e6/Gunpla_HGUC_Zeong_BandaiMuseum_box.jpg;¥2,000;2004 April
+319;MSN-00100 Hyaku Shiki;Mobile Suit Zeta Gundam;21.4;MSN-001 Delta Gundam;https://static.wikia.nocookie.net/gundam/images/c/ca/Gunpla_HGUC_HyakuShiki_BandaiMuseum_box.jpg;¥1,800;2004 April
+320;MS-06F Zaku II;Mobile Suit Gundam MS IGLOO: The Hidden One Year War;17.5;MS-06C Zaku II Early Production Type;https://static.wikia.nocookie.net/gundam/images/1/16/ZakuII-Igloo.jpg;¥1,400;2004 June
+321;MS-06F Zaku II;Mobile Suit Gundam MS IGLOO: The Hidden One Year War;17.5;MS-06C Zaku II Early Production Type;https://static.wikia.nocookie.net/gundam/images/f/f1/ZakuII-Semovente.jpg;¥1,800;2004 July
+322;N/A;Mobile Suit Zeta Gundam;0.0;N/A;https://static.wikia.nocookie.net/gundam/images/c/c8/ZGundamMetallicSet.jpg;¥11,000;2004 August
+323;RX-178 Gundam Mk-II;Mobile Suit Zeta Gundam;19.6;RGM-79Q GM Quel;https://static.wikia.nocookie.net/gundam/images/a/af/HG_Gundam_Mk-II_A.E.U.G._colors_Theatrical_Clear_Color_Ver.jpg;¥1,000;2005 May
+324;MSN-00100 Hyaku Shiki;Mobile Suit Zeta Gundam;21.4;MSN-001 Delta Gundam;https://static.wikia.nocookie.net/gundam/images/d/dc/HG_Hyaku-Shiki_Theatrical_Clear_Color_Ver.jpg;¥1,000;2005 October
+325;MSZ-006 Zeta Gundam;Mobile Suit Zeta Gundam;19.85;MSZ-006-X Prototype Î– Gunda;https://static.wikia.nocookie.net/gundam/images/b/b5/HG_Zeta_Gundam_Theatrical_Clear_Color_Ver.jpg;¥1,700;2006 March
+326;MS-09RS Rick Dom C.A. Custom;Mobile Suit Gundam (Novel);18.6;MS-09R Rick Dom;https://static.wikia.nocookie.net/gundam/images/b/b2/Gunpla_HGUC_CharsRickDom_C3Hobby2007_box.jpg;¥;2007 August
+327;RX-78-2 Gundam;Mobile Suit Gundam;18.0;RX-78-1 Prototype Gundam;https://static.wikia.nocookie.net/gundam/images/2/27/HG_RX-78_Gundam_Ecopla_Ver.jpg;¥1,000;2008 May
+328;RX-77-2 Guncannon;Mobile Suit Gundam;17.5;RX-75 Guntank;https://static.wikia.nocookie.net/gundam/images/3/38/HG_Guncannon_Ecopla_Ver.jpg;¥800;2009 May
+329;RX-75-4 Guntank;Mobile Suit Gundam;15.6;N/A;https://static.wikia.nocookie.net/gundam/images/0/05/HG_Guntank_Ecopla.JPG;¥800;2009 May
+330;RGM-79 GM;Mobile Suit Gundam;18.5;RX-78-2 Gundam;https://static.wikia.nocookie.net/gundam/images/f/f7/HG_GM_Ecopla_Ver.jpg;¥700;2009 May
+331;MS-06F Zaku II;Mobile Suit Gundam;17.5;MS-06C Zaku II Early Production Type;https://static.wikia.nocookie.net/gundam/images/b/bf/HG_Zaku_II_Ecopla.jpg;¥1,000;2009 May
+332;MS-07B Gouf;Mobile Suit Gundam;18.7;YMS-07A Prototype Gouf;https://static.wikia.nocookie.net/gundam/images/a/a7/HG_Gouf_Ecopla.jpg;¥800;2009 May
+333;RX-0 Unicorn Gundam;Mobile Suit Gundam Unicorn;19.7;MSN-06S Sinanju Stein;https://static.wikia.nocookie.net/gundam/images/a/a3/HG_Unicorn_Gundam_Head_Display_Base.jpg;¥1,229;2009 November
+334;RX-178 Gundam Mk-II;Mobile Suit Zeta Gundam;19.6;RGM-79Q GM Quel;https://static.wikia.nocookie.net/gundam/images/c/c9/HG_Gundam_Mk-II_Titans_Ecopla_Ver.jpg;¥1,000;2010 May
+335;MSZ-010 Î–Î– Gund;Mobile Suit Gundam ZZ;22.11;MSZ-009 Prototype ZZ Gundam;https://static.wikia.nocookie.net/gundam/images/1/14/HG_ZZ_Gundam_Clear_Color.jpg;¥2,300;2010 August
+336;RX-0 Unicorn Gundam;Mobile Suit Gundam Unicorn;19.7;MSN-06S Sinanju Stein;https://static.wikia.nocookie.net/gundam/images/9/98/HG_Unicorn_Gundam_Destroy_Mode_%2B_Head_Display_Base.jpg;¥N/A;2010 August
+337;RX-0 Unicorn Gundam;Mobile Suit Gundam Unicorn;19.7;MSN-06S Sinanju Stein;https://static.wikia.nocookie.net/gundam/images/8/83/HG_Unicorn_Gundam_Unicorn_Mode_%2B_Head_Display_Base.jpg;¥N/A;2010 August
+338;MSZ-006 Zeta Gundam;Mobile Suit Zeta Gundam;19.85;MSZ-006-X Prototype Î– Gunda;https://static.wikia.nocookie.net/gundam/images/0/05/HG_Zeta_Gundam_Clear_Color_Ver.jpg;¥1,600;2010 September
+339;RX-0 Unicorn Gundam;Mobile Suit Gundam Unicorn;19.7;MSN-06S Sinanju Stein;https://static.wikia.nocookie.net/gundam/images/b/b1/HG_Unicorn_Gundam_Destroy_Mode_Theatrical_NT-D_Pearl_Clear_Ver.jpg;¥1,900;2010 October
+340;MSN-06S Sinanju;Mobile Suit Gundam Unicorn;22.6;MSN-06S Sinanju Stein;https://static.wikia.nocookie.net/gundam/images/d/d4/HG_Sinanju_Head_Display_Base.jpg;¥905;2010 November
+341;RX-0 Unicorn Gundam;Mobile Suit Gundam Unicorn;19.7;MSN-06S Sinanju Stein;https://static.wikia.nocookie.net/gundam/images/2/2b/488a179360cc894f870cd53c9a6f6e0b_210x129.jpg;¥1,944;2011 March
+342;RGM-79C GM Type C;Mobile Suit Gundam 0083: Stardust Memory;18.5;RGM-79[E] GM Early Type;https://static.wikia.nocookie.net/gundam/images/7/7f/Gunpla_HGUC_GMKai_Ball_box.jpg;¥2,000;2011 December
+343;RMS-179 GM II;Mobile Suit Gundam Unicorn;19.1;RGM-79 GM;https://static.wikia.nocookie.net/gundam/images/2/2d/GMII-Desert.jpg;¥1,400;2012 January
+344;MSN-06S Sinanju;Mobile Suit Gundam Unicorn;22.6;MSN-06S Sinanju Stein;https://static.wikia.nocookie.net/gundam/images/6/6f/Gunpla_1-144_HGUC_msn-06s-RedCometSparkle_p01_front.jpg;¥2,800;2012 January
+345;NZ-666 Kshatriya;Mobile Suit Gundam Unicorn;22.3;NZ-000 Queen Mansa;https://static.wikia.nocookie.net/gundam/images/f/f9/Gunpla_HGUC_Kshatriya-PearlClearBinder_box.jpg;¥4,500;2012 January
+346;RB-79K Ball Type K;Mobile Suit Gundam: The 08th MS Team;12.8;RB-79 Ball;https://static.wikia.nocookie.net/gundam/images/6/66/PBandai-Ball.jpg;¥1,500;2012 February
+347;MS-21C Dra-C;Mobile Suit Gundam Unicorn;29.8;MS-06F-2 Zaku II F2 Type;https://static.wikia.nocookie.net/gundam/images/4/44/DraC-Unicorn.jpg;¥2,000;2012 February
+348;RX-93 Î½ Gunda;Mobile Suit Gundam: Char's Counterattack;23.0;YRA-90A Î¼ Gunda;https://static.wikia.nocookie.net/gundam/images/4/4d/HGUC-NuGundam-GFT.jpg;¥2,571;2012 April
+349;Extreme Gundam Type Leos;Mobile Suit Gundam: Extreme Vs.;18.9;Extreme Gundam;https://static.wikia.nocookie.net/gundam/images/a/ab/HG_Extreme_Gundam_Type_Leos.jpg;¥1,600;2012 May
+350;MSM-04G Juaggu;Mobile Suit Variations;17.4;MSM-04 Acguy;https://static.wikia.nocookie.net/gundam/images/9/9b/Gunpla_HGUC_Juaggu_MSV_box.jpg;¥1,700;2012 May
+351;FXA-05D G-Defenser;Mobile Suit Zeta Gundam;27.1;MSA-003+FXA-05D Nemo-Defenser;https://static.wikia.nocookie.net/gundam/images/9/9f/Gunpla_HGUC_GDfenz-FlyArmor_box.jpg;¥1,800;2012 May
+352;RGM-96X Jesta;Mobile Suit Gundam Unicorn;19.3;RGM-89 Jegan;https://static.wikia.nocookie.net/gundam/images/0/00/HG_Jesta_Tristar_Clear_Ver.jpg;¥1,600;2012 June
+353;MSN-001A1 Delta Plus;Mobile Suit Gundam Unicorn;19.6;MSN-001 Delta Gundam;https://static.wikia.nocookie.net/gundam/images/7/76/HG_Delta_Plus_Inner_Space_Clear_Ver.jpg;¥2,400;2012 June
+354;RGM-86R GM III;Mobile Suit Gundam Unicorn;18.6;RMS-179 GM II;https://static.wikia.nocookie.net/gundam/images/1/15/HG_GM_III_Desert_Color_Ver.jpg;¥1,500;2012 July
+355;AMS-119C Geara Doga (Full Frontal Use);UC-MSV;20.0;AMS-119 Geara Doga;https://static.wikia.nocookie.net/gundam/images/3/36/Gunpla_HGUC_FullFrontalGearaDoga_box.jpg;¥2,000;2012 July
+356;RX-79BD-2 Blue Destiny Unit 2;Mobile Suit Gundam Katana;18.0;RX-79[G] Gundam Ground Type;https://static.wikia.nocookie.net/gundam/images/e/e6/Gunpla_HGUC_BlueDestinyUnit2Omega_box.jpg;¥1,500;2012 July
+357;RGZ-95C ReZEL Type-C (GR);Mobile Suit Gundam Unicorn;20.5;RGZ-95C ReZEL Commander Type;https://static.wikia.nocookie.net/gundam/images/2/28/HG_ReZEL_Type-C_GR.jpg;¥2,200;2012 August
+358;RGM-79SP GM Sniper II;Mobile Suit Gundam Side Story 0079: Rise From The Ashes;18.5;RGM-79G GM Command;https://static.wikia.nocookie.net/gundam/images/a/a4/Gunpla_HGUC_GMSniperII-WD_box.jpg;¥1,800;2012 September
+359;RMS-179 GM II;Mobile Suit Zeta Gundam;19.1;RGM-79 GM;https://static.wikia.nocookie.net/gundam/images/1/12/HG_GM_II_A.E.U.G._Color_Ver.jpg;¥1,400;2012 November
+360;Base Jabber;Mobile Suit Gundam Unicorn;0.0;U.C.;https://static.wikia.nocookie.net/gundam/images/4/4c/HG_Base_Jabber_Zeon_Remnants_Ver.jpg;¥1,000;2012 November
+361;RX-0 Unicorn Gundam;Mobile Suit Gundam Unicorn;19.7;MSN-06S Sinanju Stein;https://static.wikia.nocookie.net/gundam/images/b/b1/HGUC_Gundam_Unicorn_Destroy_Mode_Green_Frame_Ver_Box_90516.1374078311.1280.1280.jpg;¥1,944;2012 November
+362;RGZ-95 ReZEL (Defenser b-Unit);Mobile Suit Gundam Unicorn - Bande Dessinee;20.5;RGZ-95 ReZEL;https://static.wikia.nocookie.net/gundam/images/1/14/HG_ReZEL_Defenser_b-Unit.jpg;¥2,600;2013 January
+363;RGM-79 GM;Mobile Suit Gundam Side Story 0079: Rise From The Ashes;18.5;RX-78-2 Gundam;https://static.wikia.nocookie.net/gundam/images/2/24/Gunpla_HGUC_RGM79_RX77D-WhiteDingo_box.jpg;¥2,400;2013 February
+364;MS-07B Gouf;Mobile Suit Gundam Side Story 0079: Rise From The Ashes;18.7;YMS-07A Prototype Gouf;https://static.wikia.nocookie.net/gundam/images/5/5c/Gunpla_HGUC_MS07B_MS14G_box.jpg;¥2,400;2013 February
+365;RX-0 Unicorn Gundam 02 Banshee;Mobile Suit Gundam Unicorn;19.7;MSN-06S Sinanju Stein;https://static.wikia.nocookie.net/gundam/images/6/6d/HG_Unicorn_Gundam_02_Banshee_Destroy_Mode_NT-D_Clear_Ver.jpg;¥1,900;2013 March
+366;RX-0 Unicorn Gundam 02 Banshee;Mobile Suit Gundam Unicorn;19.7;MSN-06S Sinanju Stein;https://static.wikia.nocookie.net/gundam/images/9/95/HG_Unicorn_Gundam_02_Banshee_Unicorn_Mode_Dark_Clear_Ver.jpg;¥1,600;2013 March
+367;RX-0 Unicorn Gundam 02 Banshee;Mobile Suit Gundam Unicorn;19.7;MSN-06S Sinanju Stein;https://static.wikia.nocookie.net/gundam/images/2/2c/HG_Unicorn_02_Banshee_Gundam_Head_Display_Base.jpg;¥1,143;2013 March
+368;MSN-04 Sazabi;Mobile Suit Gundam: Char's Counterattack;25.6;MSN-04X2 Sazabi Prototype (Terrain Mode);https://static.wikia.nocookie.net/gundam/images/1/17/HGUC-Sazabi-GFT.jpg;¥2,880;2013 April
+369;MSM-04 Acguy;Gundam Stand at Jaburo;19.2;MSM-04-1 Prototype Acguy;https://static.wikia.nocookie.net/gundam/images/6/66/HGUC-Acguy-GFT.jpg;¥1,749;2013 April
+370;Base Jabber;Mobile Suit Zeta Gundam;0.0;U.C.;https://static.wikia.nocookie.net/gundam/images/a/ab/HG_Base_Jabber_Zeta_Gundam_Ver.jpg;¥1,000;2013 June
+371;MS-14A Gelgoog;Mobile Suit Gundam 0083: Stardust Memory;19.2;MS-14S Gelgoog Commander Type;https://static.wikia.nocookie.net/gundam/images/c/ce/HG_Gato%27s_Gelgoog.jpg;¥1,800;2013 July
+372;MSM-07S Z'Gok Commander Type;Mobile Suit Gundam;18.4;MSM-07 Z'Gok;https://static.wikia.nocookie.net/gundam/images/c/ce/HGUC-Z%27Gok-GM-GFT.jpg;¥1,543;2013 July
+373;RX-0 Unicorn Gundam 03 Phenex;Mobile Suit Gundam UC: One of Seventy Two;19.7;RX-0 Unicorn Gundam;https://static.wikia.nocookie.net/gundam/images/0/02/HGUC-Phenex.jpg;¥2,500;2013 August
+374;MS-06S Zaku II Commander Type;Mobile Suit Gundam;18.0;MS-06F Zaku II;https://static.wikia.nocookie.net/gundam/images/5/55/HG_Char%27s_Zaku_Ver.Zeonic_Toyota.jpg;¥;2013 August
+375;Base Jabber;Mobile Suit Gundam Unicorn;0.0;U.C.;https://static.wikia.nocookie.net/gundam/images/8/8f/HG_Type_94_Base_Jabber.jpg;¥1,000;2013 September
+376;MSM-08 Zogok;Mobile Suit Variations;18.8;MSM-07 Z'Gok;https://static.wikia.nocookie.net/gundam/images/0/01/Gunpla_HGUC_Zogok_JaburoCapture_box.jpg;¥1,900;2013 October
+377;MSM-04 Acguy;Mobile Suit Gundam;19.2;MSM-04-1 Prototype Acguy;https://static.wikia.nocookie.net/gundam/images/5/56/Gunpla_HGUC_Acguy_7-11_box.jpg;¥1,749;2013 October
+378;RMS-119 EWAC Zack;Mobile Suit Gundam Unicorn;18.5;RMS-106 Hizack;https://static.wikia.nocookie.net/gundam/images/b/b5/HGUC-EwacZack-GazaC-GearaDoga-UC.jpg;¥4,900;2013 November
+379;AMX-107R Rebawoo;UC-MSV;19.6;AMX-107 Bawoo;https://static.wikia.nocookie.net/gundam/images/4/40/Gunpla_HGUC_Rebawoo_box.jpg;¥2,400;2013 December
+380;RX-0 Unicorn Gundam 02 Banshee;Mobile Suit Gundam Unicorn;19.7;MSN-06S Sinanju Stein;https://static.wikia.nocookie.net/gundam/images/d/da/HGUC-Banshee-GFT.jpg;¥2,571;2013 December
+381;RX-93 Î½ Gunda;Mobile Suit Gundam: Char's Counterattack;23.0;YRA-90A Î¼ Gunda;https://static.wikia.nocookie.net/gundam/images/6/68/HGUC-NuGundam-711.jpg;¥2,625;2014 January
+382;RX-160S-2 Byarlant Custom 02;UC-MSV;20.6;RX-160S Byarlant Custom;https://static.wikia.nocookie.net/gundam/images/a/af/Gunpla_HGUC_ByCus02_Blue_box.jpg;¥3,200;2014 February
+383;RX-160S-2 Byarlant Custom 02;Mobile Suit Gundam Unicorn - Bande Dessinee;20.6;RX-160S Byarlant Custom;https://static.wikia.nocookie.net/gundam/images/9/94/Gunpla_HGUC_ByCus02_Grey_box.jpg;¥3,200;2014 February
+384;ARX-014P Silver Bullet (Funnel Test Type);UC-MSV;22.2;ARX-014 Silver Bullet;https://static.wikia.nocookie.net/gundam/images/d/d0/Gunpla_HGUC_ARX014-funnel_box.jpg;¥2,400;2014 March
+385;SYSTEM âˆ€-99 âˆ€ Gu;  Gundam;20.0;Concept-X 6-1-2 Turn X;https://static.wikia.nocookie.net/gundam/images/2/2e/HG_%E2%88%80_Gundam_Moonlight_Butterfly_Effect_Part.jpg;¥1,700;2014 April
+386;RX-0 Unicorn Gundam 03 Phenex;Mobile Suit Gundam UC: One of Seventy Two;19.7;RX-0 Unicorn Gundam;https://static.wikia.nocookie.net/gundam/images/2/26/HGUC-Phenex-ColorClear.jpg;¥2,571;2014 April
+387;RX-0 Unicorn Gundam;Mobile Suit Gundam Unicorn;19.7;MSN-06S Sinanju Stein;https://static.wikia.nocookie.net/gundam/images/a/a2/HGUC-UnicornGundam-711.jpg;¥1,944;2014 May
+388;RGM-89D Jegan D Type;Mobile Suit Gundam Unicorn;20.4;RGM-89 Jegan;https://static.wikia.nocookie.net/gundam/images/1/10/HG_Jegan_D_Type.jpg;¥1,600;2014 May
+389;MSM-04G Juaggu;Mobile Suit Gundam Unicorn;17.4;MSM-04 Acguy;https://static.wikia.nocookie.net/gundam/images/a/a9/Gunpla_HGUC_Juaggu_Limited_Clear_box.jpg;¥1,900;2014 May
+390;AMS-129 Geara Zulu (Guards Type);Mobile Suit Gundam Unicorn;20.0;AMS-129 Geara Zulu;https://static.wikia.nocookie.net/gundam/images/7/7c/HGUC_HGUC_Geara_Zulu_%28Cuaron_Use%29.jpg;¥1,800;2014 June
+391;AMS-129 Geara Zulu;Mobile Suit Gundam Unicorn;20.0;AMS-119 Geara Doga;https://static.wikia.nocookie.net/gundam/images/e/e9/HGUC_Geara_Zulu_%28Gilboa_Sant_Use%29.jpg;¥1,800;2014 June
+392;YAMS-132 Rozen Zulu;Mobile Suit Gundam Unicorn;25.2;AMX-103 Hamma Hamma;https://static.wikia.nocookie.net/gundam/images/e/e0/HG_Rozen_Zulu_Elite_Rose_Guard_Clear_Ver.jpg;¥2,762;2014 June
+393;RGM-96X Jesta Cannon;Mobile Suit Gundam Unicorn;19.3;RGM-96X Jesta;https://static.wikia.nocookie.net/gundam/images/2/2d/HG_Jesta_Cannon_Tristar_Clear_Ver.jpg;¥2,000;2014 June
+394;NRX-044 Asshimar;Gundam Neo Experience 0087: Green Divers;23.1;RX-78E Gundam GT-FOUR;https://static.wikia.nocookie.net/gundam/images/8/87/Gunpla_1-144_HGUC_nrx044-GreenDivers_p01_front.jpg;¥2,000;2014 July
+395;GF13-017NJII God Gundam;Mobile Fighter G Gundam;16.6;;https://static.wikia.nocookie.net/gundam/images/4/44/HGFC-TohoFuhaiHyperModeSet.jpg;¥6,000;2014 August
+396;MS-09RS Rick Dom Anavel Gato Custom;Mobile Suit Gundam 0083 Rebellion;0.0;MS-09R Rick Dom;https://static.wikia.nocookie.net/gundam/images/b/bd/RickDom-Gato.jpg;¥1,700;2014 August
+397;NZ-999 Neo Zeong;Mobile Suit Gundam Unicorn;116.0;MSN-06S Sinanju;https://static.wikia.nocookie.net/gundam/images/a/a7/HGUC_Expansion_Effect_Unit_for_Neo_Zeong_Psycho_Shard.jpg;¥2,700;2014 August
+398;RX-0 Full Armor Unicorn Gundam;Mobile Suit Gundam UC: Neo Zeong Strikes Odaiba!;19.7;RX-0 Unicorn Gundam;https://static.wikia.nocookie.net/gundam/images/0/0c/Unicorn-Odaiba-GFT.jpg;¥6,480;2014 August
+399;RB-79 Ball;Mobile Suit Gundam;12.8;SP-W03 Space Pod;https://static.wikia.nocookie.net/gundam/images/a/af/Gunpla_HGUC_Ball_7-11_box.jpg;¥1,512;2014 October
+400;MSM-04 Acguy;Mobile Suit Gundam;19.2;MSM-04-1 Prototype Acguy;https://static.wikia.nocookie.net/gundam/images/2/28/HGUC_Acguy_Gold_Injection_Color.jpg;N/A;2014 October
+401;MSZ-006A1 Zeta Plus A1;Gundam Sentinel;22.11;MSZ-006 Zeta Gundam;https://static.wikia.nocookie.net/gundam/images/7/7f/HGUC_Zeta_Plus_A1_-Test_Color_Ver.-.jpg;¥2,399;2014 November
+402;F91 Gundam F91;Mobile Suit Gundam F91;15.2;[1];https://static.wikia.nocookie.net/gundam/images/2/20/HGUC_Gundam_F91_%28Afterimage_Image_Clear_Ver%29.jpg;¥1,195;2014 November
+403;RX-0 Full Armor Unicorn Gundam;Mobile Suit Gundam Unicorn;19.7;RX-0 Unicorn Gundam;https://static.wikia.nocookie.net/gundam/images/f/fc/HGUC_Full_Armor_Unicorn_Gundam_%28Destroy_Mode%29_Red_Plated_Frame_Mechanical_Clear_Ver.jpg;¥4,000;2014 November
+404;RGM-89J Jegan Normal Type;Mobile Suit Gundam F91;19.0;RGM-89 Jegan;https://static.wikia.nocookie.net/gundam/images/2/25/HGUC_Jegan_Normal_Type.jpg;¥1,700;2014 November
+405;RGM-89M Jegan B-Type;Mobile Suit Gundam F91;19.0;RGM-89J Jegan Normal Type;https://static.wikia.nocookie.net/gundam/images/1/10/HGUC_Jegan_B-Type_%28F91_Ver.%29.jpg;¥1,700;2015 February
+406;MSZ-008 ZII;Mobile Suit Gundam Side Story: Missing Link;18.3;MSZ-006 Zeta Gundam;https://static.wikia.nocookie.net/gundam/images/5/55/ZII-TravisKirkland.jpg;¥2,400;2015 April
+407;RX-80PR Pale Rider;Mobile Suit Gundam Side Story: Missing Link;18.0;RX-80RR Red Rider;https://static.wikia.nocookie.net/gundam/images/1/1c/HGUC_Pale_Rider_-Ground_Heavy_Equipment_Type-.jpg;¥1,800;2015 April
+408;RX-0 Unicorn Gundam 03 Phenex;Gundam Reconguista in G: From the Past to the Future;19.7;RX-0 Unicorn Gundam;https://static.wikia.nocookie.net/gundam/images/8/88/HGUC-Phenex-TypeRC.jpg;¥2,571;2015 April
+409;XM-X1 Crossbone Gundam X-1 Kai;Mobile Suit Crossbone Gundam;15.9;XM-X1 Crossbone Gundam X-1;https://static.wikia.nocookie.net/gundam/images/d/d3/HGUC_Crossbone_Gundam_X-1_Kai.jpg;¥2,000;2015 May
+410;RGM-89R Jegan A-Type;Mobile Suit Gundam F91;19.0;RGM-89J Jegan Normal Type;https://static.wikia.nocookie.net/gundam/images/5/59/HGUC_Jegan_A-Type_%28F91_Ver.%29.jpg;¥1,700;2015 May
+411;LM314V21 Victory 2 Gundam;Mobile Suit Victory Gundam;15.5;LM312V04 Victory Gundam;https://static.wikia.nocookie.net/gundam/images/d/de/HGUC_Victory_Two_Gundam_Wings_of_Light_Set.jpg;¥1,500;2015 May
+412;RGM-89S Stark Jegan;Char's Counterattack Mobile Suit Variations;19.2;RGM-89S Prototype Stark Jegan;https://static.wikia.nocookie.net/gundam/images/6/69/HGUC_Stark_Jegan_CCA-MSV_Ver..jpg;¥2,300;2015 June
+413;XM-X2ex Crossbone Gundam X-2 Kai;Mobile Suit Crossbone Gundam;15.9;XM-X2 Crossbone Gundam X-2;https://static.wikia.nocookie.net/gundam/images/3/34/HGUC_Crossbone_Gundam_X-2_Kai.jpg;¥2,000;2015 June
+414;AMX-102 Zssa;Mobile Suit Gundam ZZ;15.85;AMX-102IKO Lavender Zssa;https://static.wikia.nocookie.net/gundam/images/c/cd/Gunpla_HGUC_Zssa-ZZ_box.jpg;¥2,400;2015 June
+415;RX-78-2 Gundam;Mobile Suit Gundam;18.0;RX-78-1 Prototype Gundam;https://static.wikia.nocookie.net/gundam/images/9/97/HGUC_Gundam_Ver.G35th.jpg;¥1,300;2015 July
+416;RX-0 Unicorn Gundam 03 Phenex;Gundam Reconguista in G: From the Past to the Future;19.7;RX-0 Unicorn Gundam;https://static.wikia.nocookie.net/gundam/images/0/08/HG_Unicorn_Gundam_03_Phenex_Type_RC_Destroy_Mode_Ver._GFT_Limited_Silver_Coating.JPG;¥7,560;2015 July
+417;LM312V04+SD-VB03A V-Dash Gundam;Mobile Suit Victory Gundam;15.2;LM312V04 Victory Gundam;https://static.wikia.nocookie.net/gundam/images/4/45/HGUC_V-Dash_Gundam_Clear_Color_Ver..jpg;¥1,940;2015 August
+418;RX-0 Unicorn Gundam;Mobile Suit Gundam Unicorn;19.7;MSN-06S Sinanju Stein;https://static.wikia.nocookie.net/gundam/images/0/07/Hguc_unicorn_hong_kong_%281%29.jpg;HK$175;2015 August
+419;ARX-014 Silver Bullet;Mobile Suit Gundam Unicorn;22.2;AMX-014 DÃ¶ven Wol;https://static.wikia.nocookie.net/gundam/images/9/93/Gunpla_HGUC_ARX014-Gael_box.jpg;¥2,300;2015 September
+420;RGM-89A2 Jegan Type-A2 (GR);Mobile Suit Gundam Unicorn;22.3;RGM-89 Jegan;https://static.wikia.nocookie.net/gundam/images/c/c3/Jegan-Type-A2-GR.jpg;¥1,700;2015 September
+421;"RX-78-3 Gundam ""G-3""";Mobile Suit Variations;18.5;RX-78-2 Gundam;https://static.wikia.nocookie.net/gundam/images/b/bc/HGUC_G-3_Gundam_Revive_Ver..jpg;¥1,200;2015 September
+422;RMS-179 GM II Semi-Striker;Mobile Suit Gundam Unicorn;18.1;RMS-179 GM II;https://static.wikia.nocookie.net/gundam/images/c/c5/HGUC_GM_II_Semi-Striker.jpg;¥1,600;2015 October
+423;LM314V23/24 V2 Assault-Buster Gundam;Mobile Suit Victory Gundam;15.5;LM314V21 Victory 2 Gundam;https://static.wikia.nocookie.net/gundam/images/8/88/HG_Victory_Two_Assault-Buster_Gundam_Clear_Color_%26_Plated_Ver.jpg;¥3,240;2015 October
+424;MSN-001-2 Delta Gundam II;UC-MSV;19.6;MSN-001 Delta Gundam;https://static.wikia.nocookie.net/gundam/images/0/0b/HG_Delta_Gundam_II_Ver.GFT_Limited_Color.jpg;¥2,500;2015 November
+425;RX-78-2 Gundam;Mobile Suit Gundam;18.0;RX-78-1 Prototype Gundam;https://static.wikia.nocookie.net/gundam/images/8/89/HG_Gundam_Ver._Gunpla_Cake_Special_Mission.jpg;¥3,980;2015 December
+426;SCV-70 White Base;Mobile Suit Gundam;93.0;Hardy Gussie;https://static.wikia.nocookie.net/gundam/images/a/a1/HGUC_White_Base_Catapult_Deck.jpg;¥11,232;2016 January
+427;AMX-004 Qubeley Mk-II;Mobile Suit Gundam ZZ;18.9;AMX-004 Qubeley;https://static.wikia.nocookie.net/gundam/images/b/b0/HGUC_Ple_Two%27s_Qubeley_Mk-II.jpg;¥1,800;2016 March
+428;AMX-004 Qubeley;Mobile Suit Zeta Gundam;18.9;AMX-001 Prototype Qubeley;https://static.wikia.nocookie.net/gundam/images/d/dc/HGUC_Qubeley_Funnel_Effect_Set.jpg;¥1,000;2016 March
+429;AGX-04 Gerbera Tetra;Mobile Suit Gundam 0083: Stardust Memory Picture Drama - The Mayfly of Space 2;18.0;"RX-78GP04G Gundam ""Gerbera""";https://static.wikia.nocookie.net/gundam/images/8/8c/HGUC_Gerbera_Tetra_%28Roll-out_Ver.%29.jpg;¥2,000;2016 May
+430;MS-21D1 Dra-C Custom;Mobile Suit Gundam 0083: Stardust Memory Picture Drama - The Mayfly of Space 2;31.6;MS-21C Dra-C;https://static.wikia.nocookie.net/gundam/images/3/30/HGUC_Dra-C_Custom.jpg;¥2,200;2016 May
+431;XM-X2 Crossbone Gundam X-2;Mobile Suit Crossbone Gundam;15.9;N/A;https://static.wikia.nocookie.net/gundam/images/4/4b/HGUC_Crossbone_Gundam_X-2.jpg;¥2,000;2016 May
+432;RX-78-2 Gundam;Mobile Suit Gundam;18.0;RX-78-1 Prototype Gundam;https://static.wikia.nocookie.net/gundam/images/8/85/HGUC_Gundam_%2821st_Century_Real_Type_Ver.%29.jpg;¥1,200;2016 June
+433;RX-77-2 Guncannon;Mobile Suit Gundam;17.5;RX-75 Guntank;https://static.wikia.nocookie.net/gundam/images/c/c8/HGUC_Guncannon_%2821st_Century_Real_Type_Ver.%29.jpg;¥1,400;2016 June
+434;MS-07B Gouf;Mobile Suit Gundam;18.7;YMS-07A Prototype Gouf;https://static.wikia.nocookie.net/gundam/images/4/45/HGUC_Gouf_%2821st_Century_Real_Type_Ver.%29.jpg;¥1,700;2016 June
+435;MSN-001-2 Delta Gundam II;UC-MSV;19.6;MSN-001 Delta Gundam;https://static.wikia.nocookie.net/gundam/images/0/01/HG_Delta_Gundam_II_Ver.GFT_Limited_Clear_Color.JPG;¥2,500;2016 July
+436;RX-0 Unicorn Gundam 03 Phenex;Mobile Suit Gundam UC: One of Seventy Two;19.7;RX-0 Unicorn Gundam;https://static.wikia.nocookie.net/gundam/images/f/f2/HG_Unicorn_Gundam_03_Phenex_Destroy_Mode_Silver_Gold_Plating_Ver.GFT_Set.jpg;¥10,800;2016 July
+437;RX-78-2 Gundam;Mobile Suit Gundam;18.0;RX-78-1 Prototype Gundam;https://static.wikia.nocookie.net/gundam/images/5/57/HGUC_RX-78-2_Gundam_Clear_Color_Ver.jpg;¥1,000;2016 August
+438;ZGMF-X56S/Î³ Blast Impulse Gunda;Mobile Suit Gundam SEED Destiny;19.21;ZGMF-X56S Impulse Gundam;https://static.wikia.nocookie.net/gundam/images/7/71/HGCE_Blast_Impulse_Gundam.jpg;¥1,800;2016 August
+439;RX-0 Unicorn Gundam;Mobile Suit Gundam Unicorn;19.7;MSN-06S Sinanju Stein;https://static.wikia.nocookie.net/gundam/images/2/27/HG_Unicorn_Gundam_Destroy_Mode_%2B_Head_Display_Base_Final_Battle_Ver.jpeg;¥2,700;2016 August
+440;AMX-004 Qubeley Mk-II;Mobile Suit Gundam ZZ;18.9;AMX-004 Qubeley;https://static.wikia.nocookie.net/gundam/images/d/df/HGUC_Elpeo_Ple%27s_Qubeley_Mk-II.jpg;¥1,800;2016 September
+441;RGM-89S Prototype Stark Jegan;Mobile Suit Gundam Unicorn RE:0096;19.2;RGM-89 Jegan;https://static.wikia.nocookie.net/gundam/images/1/13/HGUC_Prototype_Stark_Jegan.jpg;¥2,500;2016 September
+442;N/A;Mobile Suit Zeta Gundam;0.0;N/A;https://static.wikia.nocookie.net/gundam/images/4/48/HGUC_Mega_Bazooka_Launcher.jpg;¥1,200;2016 September
+443;RGM-79SP GM Sniper II;Gundam Legacy;18.5;RGM-79G GM Command;https://static.wikia.nocookie.net/gundam/images/6/6a/HGUC_Lydo_Wolf%27s_GM_Sniper_II.jpg;¥1,500;2016 September
+444;"XM-X1 Crossbone Gundam X-1 Kai Kai ""Skull Heart""";Mobile Suit Crossbone Gundam: Skull Heart;15.9;XM-X1 Crossbone Gundam X-1 Kai;https://static.wikia.nocookie.net/gundam/images/0/00/HGUC_Crossbone_Gundam_X-1_Custom_II.jpg;¥2,200;2016 October
+445;MSZ-006C1 Zeta Plus C1;Gundam Sentinel;22.11;MSZ-006A1 Zeta Plus A1;https://static.wikia.nocookie.net/gundam/images/a/a9/HGUC_%CE%96eta_Plus_C1.jpg;¥2,400;2016 November
+446;MS-07B Gouf;Mobile Suit Gundam;18.7;YMS-07A Prototype Gouf;https://static.wikia.nocookie.net/gundam/images/0/00/HGUC_Gouf_%28Clear_Color_Ver.%29.jpg;¥1,500;2016 November
+447;RX-80PR Pale Rider;Mobile Suit Gundam Side Story: Missing Link;18.0;RX-80RR Red Rider;https://static.wikia.nocookie.net/gundam/images/f/f4/HGUC_PaleRider_GroundHeavyEquipmentType_HADESModeExtraFinish.jpg;¥3,500;2016 November
+448;RX-0 Unicorn Gundam 03 Phenex;Mobile Suit Gundam UC: One of Seventy Two;19.7;RX-0 Unicorn Gundam;https://static.wikia.nocookie.net/gundam/images/2/29/HGUC_UnicornGundam03_UnicornMode_GoldCoating.jpg;¥2,700;2016 November
+449;ZGMF-X10A Freedom Gundam;Mobile Suit Gundam SEED;18.03;YFX-600R GuAIZ Experimental Firearms Type;https://static.wikia.nocookie.net/gundam/images/d/d5/HGCE_Freedom_Gundam_%28Gold_Injection_Color%29.jpg;¥2,000;2016 November
+450;ZGMF-X56S/Î² Sword Impulse Gunda;Mobile Suit Gundam SEED Destiny;19.37;ZGMF-X56S Impulse Gundam;https://static.wikia.nocookie.net/gundam/images/e/e0/HGCE_Sword_Impulse_Gundam.jpg;¥2,700;2016 December
+451;RX-78-2 Gundam;Mobile Suit Gundam;18.0;RX-78-1 Prototype Gundam;https://static.wikia.nocookie.net/gundam/images/1/15/HGUC_Gundam_VerGFT_Revive_Editio.jpg;¥1,600;2016 December
+452;RX-0 Unicorn Gundam 03 Phenex;Gundam Reconguista in G: From the Past to the Future;19.7;RX-0 Unicorn Gundam;https://static.wikia.nocookie.net/gundam/images/6/66/HGUC_Unicorn_Gundam_03_Phenex_Type_RC_-Unicorn_Mode-_Silver_Coating_Ver.jpg;¥5,400;2017 January
+453;XM-X3 Crossbone Gundam X-3;Mobile Suit Crossbone Gundam;15.9;N/A;https://static.wikia.nocookie.net/gundam/images/4/4a/HGUC_Crossbone_Gundam_X-3.jpg;¥1,200;2017 February
+454;RGM-89De Jegan (ECOAS Type);Mobile Suit Gundam Unicorn;19.0;RGM-89D Jegan D Type;https://static.wikia.nocookie.net/gundam/images/d/d5/HGUC_Conroy%27s_Jegan_ECOAS_Type.jpg;¥1,800;2017 April
+455;MS-09F/trop Dom Tropen;Mobile Suit Gundam Unicorn;18.5;MS-09F Dom Funf;https://static.wikia.nocookie.net/gundam/images/1/11/HGUC_Dom_Tropen_-Unicorn_Ver.-.jpg;¥1,700;2017 April
+456;MS-14A Gelgoog;Mobile Suit Gundam Unicorn (Novel);19.2;MS-14S Gelgoog Commander Type;https://static.wikia.nocookie.net/gundam/images/f/f0/HGUC_Gelgoog_-Unicorn_Ver.-.jpg;¥1,700;2017 May
+457;MS-06FZ Zaku II Kai;Mobile Suit Gundam Unicorn (Novel);17.5;MS-06F Zaku II;https://static.wikia.nocookie.net/gundam/images/2/25/HGUC_Zaku_II_FZ_B_Type_-Unicorn_Ver.-.jpg;¥1,400;2017 May
+458;AMX-011S Zaku III Custom;Mobile Suit Gundam Twilight Axis;25.3;AMX-011 Zaku III;https://static.wikia.nocookie.net/gundam/images/4/4c/HGUC_Zaku_III_Custom_%28Twilight_Axis%29.jpg;¥1,900;2017 June
+459;RGM-79ï¼»Gï¼½ GM Sn;Mobile Suit Gundam: The 08th MS Team;18.0;RGM-79[G] GM Ground Type;https://static.wikia.nocookie.net/gundam/images/4/41/HGUC_GM_Sniper.jpg;¥1,500;2017 July
+460;RGM-89D Jegan D Type;Mobile Suit Gundam Unicorn;20.4;RGM-89 Jegan;https://static.wikia.nocookie.net/gundam/images/4/4b/HGUC_Jegan_D_Type_%28Camouflage_Ver.%29.jpg;¥1,800;2017 July
+461;RX-78-2 Gundam;Mobile Suit Gundam;18.0;RX-78-1 Prototype Gundam;https://static.wikia.nocookie.net/gundam/images/7/79/HG_Gundam_Revive_Metallic_Injection_Ver.jpg;¥1,200;2017 August
+462;RX-160G Byarlant Isolde;Mobile Suit Gundam Twilight Axis;0.0;RX-160 Byarlant;https://static.wikia.nocookie.net/gundam/images/7/7e/HGUC_Byarlant_Isolde.jpg;¥2,800;2017 August
+463;RX-80PR Pale Rider;Mobile Suit Gundam Side Story: Missing Link;18.0;RX-80RR Red Rider;https://static.wikia.nocookie.net/gundam/images/b/ba/HGUC_Pale_Rider_Space_Type.jpg;¥2,000;2017 August
+464;RX-0 Unicorn Gundam;Mobile Suit Gundam Unicorn;19.7;MSN-06S Sinanju Stein;https://static.wikia.nocookie.net/gundam/images/a/ab/HG_Unicorn_Gundam_Head_Display_Base_%28Metallic_Ver.%29.jpg;¥1,100;2017 August
+465;MS-08TXï¼»EXAMï¼½Efreet Cu;Mobile Suit Gundam Side Story: The Blue Destiny;17.2;MS-08TX Efreet;https://static.wikia.nocookie.net/gundam/images/5/5a/Gunpla_HGUC_EfreetCustom_box.jpg;¥1,800;2017 September
+466;RX-78-2 Gundam;Mobile Suit Gundam;18.0;RX-78-1 Prototype Gundam;https://static.wikia.nocookie.net/gundam/images/f/f0/HG_RX-78-2_CoCoICHI_Extra_Finish_Ver.jpg;¥N/A;2017 September
+467;RX-0 Unicorn Gundam;Mobile Suit Gundam Unicorn;19.7;MSN-06S Sinanju Stein;https://static.wikia.nocookie.net/gundam/images/6/6c/HGUC_Unicorn_Gundam_-Destroy_Mode-_%28Metallic_Gloss_Injection%29.jpg;¥2,000;2017 October
+468;RX-0 Unicorn Gundam;Mobile Suit Gundam Unicorn;19.7;MSN-06S Sinanju Stein;https://static.wikia.nocookie.net/gundam/images/4/49/HGUC_Unicorn_Gundam_-Unicorn_Mode-_%28Metallic_Gloss_Injection%29.jpg;¥1,700;2017 October
+469;MSZ-006 Zeta Gundam (Wave Shooter Equipment Type);Mobile Suit Zeta Gundam;19.85;MSZ-006 Zeta Gundam;https://static.wikia.nocookie.net/gundam/images/4/48/HG_Zeta_Gundam_%28Wave_Shooter%29.jpg;¥2,000;2017 October
+470;ZGMF-X20A Strike Freedom Gundam;Mobile Suit Gundam SEED Destiny;18.88;ZGMF-X10A Freedom Gundam;https://static.wikia.nocookie.net/gundam/images/3/37/HGCE_Strike_Freedom_Gundam_Wing_of_Light_DX_Edition.jpg;¥3,800;2017 October
+471;RX-78-2 Gundam;Mobile Suit Gundam;18.0;RX-78-1 Prototype Gundam;https://static.wikia.nocookie.net/gundam/images/9/91/HG_Gundam_Ver.TMDC.jpg;NT$580;2017 October
+472;RX-78-2 Gundam;Mobile Suit Gundam;18.0;RX-78-1 Prototype Gundam;https://static.wikia.nocookie.net/gundam/images/f/f2/HG_Gundam_%26_Zaku_II_docks_at_Taiwan.jpg;NT$1,180;2017 October
+473;RGM-89D Jegan D Type;Mobile Suit Gundam U.C. 0094: Across the Sky;20.4;RGM-89 Jegan;https://static.wikia.nocookie.net/gundam/images/5/53/HGUC_Pico_Altidore%27s_Jegan_Type_D.jpg;¥1,600;2017 November
+474;RGM-89 Jegan (Birnam Corps);Mobile Suit Gundam Twilight Axis;20.4;RGM-89 Jegan;https://static.wikia.nocookie.net/gundam/images/0/0c/HGUC_Jegan_%28BirnamType%29.jpg;¥1,800;2017 November
+475;ZGMF-X10A Freedom Gundam;Mobile Suit Gundam SEED;18.03;YFX-600R GuAIZ Experimental Firearms Type;https://static.wikia.nocookie.net/gundam/images/3/37/HGCC_Freedom_Gundam_%28Clear_Color%29.jpg;¥2,000;2017 November
+476;ZGMF-X20A Strike Freedom Gundam;Mobile Suit Gundam SEED Destiny;18.88;ZGMF-X10A Freedom Gundam;https://static.wikia.nocookie.net/gundam/images/0/05/HGUC_Strike_Freedom_Gundam_%28Revive_Clear_Color_Ver.%29.jpg;¥2,000;2017 November
+477;MSZ-006 Zeta Gundam;Mobile Suit Zeta Gundam;19.85;MSZ-006-X Prototype Î– Gunda;https://static.wikia.nocookie.net/gundam/images/4/48/HGUC_Zeta_Gundam_%28Evolution_Clear_Color_Ver.%29.jpg;¥1,800;2017 November
+478;RMS-154 Barzam;Mobile Suit Zeta Gundam;24.2;RX-178 Gundam Mk-II;https://static.wikia.nocookie.net/gundam/images/6/6b/HGUC_Barzam_%28Clear_Color_Ver.%29.jpg;¥1,500;2017 December
+479;RX-78-2 Gundam;Mobile Suit Gundam;18.0;RX-78-1 Prototype Gundam;https://static.wikia.nocookie.net/gundam/images/f/fd/HG_RX-78-2_Gold_Coating.jpg;¥N/A;2017
+480;MSZ-006-3A Zeta Gundam 3A Type;Gundam Neo Experience 0087: Green Divers;0.0;MSZ-006 Zeta Gundam;https://static.wikia.nocookie.net/gundam/images/6/6b/HGUC_Zeta_Gundam_III.jpg;¥2,200;2018 January
+481;MS-15Kg Gyan Krieger;Mobile Suit Gundam Gihren's Greed;0.0;YMS-15 Gyan;https://static.wikia.nocookie.net/gundam/images/0/04/HGUC-Gyan_Krieger.jpg;¥1,800;2018 January
+482;RGM-89DEW EWAC Jegan;Mobile Suit Gundam Unicorn;19.5;RGM-89D Jegan D Type;https://static.wikia.nocookie.net/gundam/images/4/4b/HGUC_EWAC_Jegan.jpg;¥3,000;2018 February
+483;RX-0 Unicorn Gundam;Mobile Suit Gundam Unicorn;19.7;MSN-06S Sinanju Stein;https://static.wikia.nocookie.net/gundam/images/2/2f/HGUC_Unicorn_Gundam_%28Luminous_Crystal_Body%29.jpg;¥3,000;2018 February
+484;XM-X0 Crossbone Gundam X-0;Mobile Suit Crossbone Gundam: Ghost;15.9;N/A;https://static.wikia.nocookie.net/gundam/images/2/21/HGUC_Crossbone_Gundam_X-0.jpg;¥2,300;2018 April
+485;MS-08TX/N Efreet Nacht;Mobile Suit Gundam: Battlefield Record U.C. 0081;17.2;MS-08TX Efreet;https://static.wikia.nocookie.net/gundam/images/1/1a/HGUC_EfreetNacht.jpg;¥2,300;2018 April
+486;MS-07H-8 Gouf Flight Type;Mobile Suit Gundam: The 08th MS Team;18.7;MS-07H-4 Gouf Flight Test Type;https://static.wikia.nocookie.net/gundam/images/1/11/HGUC_Gouf_Flight_Type.jpg;¥2,100;2018 May
+487;RX-0 Unicorn Gundam;Mobile Suit Gundam Unicorn;19.7;MSN-06S Sinanju Stein;https://static.wikia.nocookie.net/gundam/images/a/a6/HGUC_Unicorn_Gundam_%28Destroy_Mode%29_-Painting_Model-.jpg;¥2,300;2018 June
+488;RX-124 Gundam TR-6 ï¼»Woundwor;Advance of Zeta: The Flag of Titans;0.0;Gundam Groundsel;https://static.wikia.nocookie.net/gundam/images/2/29/HGUC_Gundam_TR-6_%28Woundwort%29.jpg;¥1,800;2018 June
+489;RX-78XX Gundam Pixy;Mobile Suit Gundam: Cross Dimension 0079;19.2;RX-78-2 Gundam;https://static.wikia.nocookie.net/gundam/images/f/f9/HGUC_Gundam_Pixy.jpg;¥2,000;2018 June
+490;MS-14J ReGelgu;Mobile Suit Gundam ZZ;21.1;MS-14A Gelgoog;https://static.wikia.nocookie.net/gundam/images/9/9c/HGUC_ReGelgu.jpg;¥2,000;2018 July
+491;MS-08TX Efreet;Mobile Suit Gundam: Cross Dimension 0079;18.1;MS-08TX/N Efreet Nacht;https://static.wikia.nocookie.net/gundam/images/7/70/HGUC_Efreet.jpg;¥2,000;2018 July
+492;RX-79ï¼»Gï¼½ Gundam Ground ;Mobile Suit Gundam: The 08th MS Team;18.2;RX-78-1 Prototype Gundam;https://static.wikia.nocookie.net/gundam/images/b/be/HGUC_Gundam_Ground_Type_%28Parachute_Pack%29.jpg;¥2,000;2018 August
+493;N/A;Mobile Suit Moon Gundam;0.0;N/A;https://static.wikia.nocookie.net/gundam/images/a/a6/HG_Long_Rifle.jpg;N/A;2018 September
+494;RX-93 Î½ Gunda;Mobile Suit Gundam: Char's Counterattack;23.0;YRA-90A Î¼ Gunda;https://static.wikia.nocookie.net/gundam/images/1/15/HGUC_%CE%BD_Gundam_vs_Sazabi_%28The_Fateful_Battle_Set%29_-Special_Coating-.jpg;¥10,000;2018 September
+495;MSZ-006 Zeta Gundam;Mobile Suit Zeta Gundam;19.85;MSZ-006-X Prototype Î– Gunda;https://static.wikia.nocookie.net/gundam/images/5/59/HGUC_Zeta_Gundam_-U.C.0088-.jpg;¥2,000;2018 September
+496;MS-14Jg Gelgoog JÃ¤ge;MSV-R;19.2;N/A;https://static.wikia.nocookie.net/gundam/images/c/c5/HGUC_Shin_Matsunaga%27s_Gelgoog_J%C3%A4ger.jpg;¥1,500;2018 September
+497;MS-14B Gelgoog High Mobility Type;Mobile Suit Variations;19.6;MS-14A Gelgoog;https://static.wikia.nocookie.net/gundam/images/9/98/HGUC_Johnny_Ridden%27s_Gelgoog.jpg;¥2,000;2018 September
+498;RX-0 Full Armor Unicorn Gundam Plan B;Mobile Suit Gundam UC Perfectibility;19.7;RX-0 Unicorn Gundam;https://static.wikia.nocookie.net/gundam/images/7/79/HGUC_Unicorn_Gundam_Perfectibility_%28Destroy_Mode%29.jpg;¥3,400;2018 September
+499;OZ-06MS Leo;Mobile Suit Gundam Wing;16.2;OZ-00MS Tallgeese;https://static.wikia.nocookie.net/gundam/images/2/2d/HGAC_Leo_%28Space_Type%29.jpg;¥1,400;2018 October
+500;RX-160 Byarlant;Mobile Suit Zeta Gundam;23.1;RX-121-1 Gundam TR-1 (Hazel Custom) w/Icarus Unit;https://static.wikia.nocookie.net/gundam/images/4/48/HGUC_Byarlant_-Clear_Color-.jpg;¥2,600;2018 October
+501;RX-0 Unicorn Gundam 03 Phenex;Mobile Suit Gundam Narrative;19.7;RX-0 Unicorn Gundam;https://static.wikia.nocookie.net/gundam/images/a/a5/HGUC_Unicorn_Gundam_03_Phenex_%28Destroy_Mode%29_%28Narrative_Ver.%29_-Clear_Color-.jpg;¥2,870;2018 November
+502;MSN-06S-2 Sinanju Stein;Mobile Suit Gundam Narrative;22.6;MSN-06S Sinanju Stein;https://static.wikia.nocookie.net/gundam/images/9/9f/HGUC_Sinanju_Stein_%28Narrative_Ver.%29_-Clear_Color-.jpg;¥2,685;2018 November
+503;RX-0 Unicorn Gundam 03 Phenex;Mobile Suit Gundam Narrative;19.7;RX-0 Unicorn Gundam;N/A;¥2,870;2018 November
+504;MSN-06S-2 Sinanju Stein;Mobile Suit Gundam Narrative;22.6;MSN-06S Sinanju Stein;N/A;¥2,685;2018 November
+505;MSN-00100 Hyaku Shiki;Mobile Suit Zeta Gundam;21.4;MSN-001 Delta Gundam;https://static.wikia.nocookie.net/gundam/images/0/05/HGUC_Hyaku_Shiki_-Gold_Coating-.jpg;¥4,000;2018 November
+506;RGM-96Xs Jesta (Shezarr Type);Mobile Suit Gundam Narrative;19.3;RGM-96X Jesta;https://static.wikia.nocookie.net/gundam/images/3/37/HGUC_Jesta_%28Shezarr_Type%2C_Team_A%29.jpg;¥2,800;2018 November
+507;RGM-96Xs Jesta (Shezarr Type);Mobile Suit Gundam Narrative;19.3;RGM-96X Jesta;https://static.wikia.nocookie.net/gundam/images/7/7b/HGUC_Jesta_%28Shezarr_Type%2C_Team_B%26C%29.jpg;¥2,300;2018 November
+508;RMS-117 Galbaldy Î;Mobile Suit Zeta Gundam;19.0;MS-17 Galbaldy Î;https://static.wikia.nocookie.net/gundam/images/c/c6/HGUC_Galbaldy_%CE%B2_-Clear_Color-.jpg;¥1,500;2018 December
+509;RX-79BD-1 Blue Destiny Unit 1;Mobile Suit Gundam Side Story: The Blue Destiny;18.5;RGM-79BD-0 Blue Destiny Unit 0;https://static.wikia.nocookie.net/gundam/images/0/0c/HGUC-BlueDestinyUnit1EXAM-MetallicGloss.jpg;¥1,600;2019 January
+510;RGM-89D-ESC Jegan Type D Escort Type;Mobile Suit Gundam Narrative;19.0;RGM-89D Jegan D Type;https://static.wikia.nocookie.net/gundam/images/5/54/HGUC_Jegan_Type_D_Escort_Type.jpg;¥1,800;2019 January
+511;OZ-06MS Leo;Mobile Suit Gundam Wing;16.2;OZ-00MS Tallgeese;https://static.wikia.nocookie.net/gundam/images/6/6b/HGAC_Leo_%28Flight_Unit_Type%29.jpg;¥1,700;2019 January
+512;AMX-117R Gaz-R;Mobile Suit Gundam ZZ;22.7;RMS-117 Galbaldy Î;https://static.wikia.nocookie.net/gundam/images/2/28/HGUC_Gazu_RL.jpg;¥3,600;2019 January
+513;NZ-999 II Neo Zeong;Mobile Suit Gundam Narrative;116.0;NZ-999 Neo Zeong;https://static.wikia.nocookie.net/gundam/images/d/d2/HGUC_II_Neo_Zeong_%28Narrative_Ver.%29.jpg;¥26,000;2019 February
+514;MS-08TXï¼»EXAMï¼½Efreet Cu;Mobile Suit Gundam Side Story: The Blue Destiny;17.2;MS-08TX Efreet;https://static.wikia.nocookie.net/gundam/images/d/d7/HGUC_Efreet_Custom_-Metallic_Gloss_Injection-.jpg;¥2,000;2019 February
+515;RX-79BD-2 Blue Destiny Unit 2;Mobile Suit Gundam Side Story: The Blue Destiny;18.0;RX-79[G] Gundam Ground Type;https://static.wikia.nocookie.net/gundam/images/5/5a/HGUC_Blue_Destiny_Unit_2_EXAM_-Metallic_Gloss_Injection-.jpg;¥1,600;2019 February
+516;RX-79BD-3 Blue Destiny Unit 3;Mobile Suit Gundam Side Story: The Blue Destiny;18.0;RX-79[G] Gundam Ground Type;https://static.wikia.nocookie.net/gundam/images/c/c9/HGUC_Blue_Destiny_Unit_3_EXAM_-Metallic_Gloss_Injection-.jpg;¥1,600;2019 February
+517;MS-14J ReGelgu;Mobile Suit Gundam Unicorn;21.1;MS-14A Gelgoog;https://static.wikia.nocookie.net/gundam/images/b/b7/HGUC_ReGelgu_%28Unicorn_Ver.%29.jpg;¥2,200;2019 March
+518;RX-124 Gundam TR-6 ï¼»Hazel I;Advance of Zeta: The Flag of Titans;0.0;RX-124 Gundam TR-6 [Woundwort];https://static.wikia.nocookie.net/gundam/images/c/cc/HGUC_Gundam_TR-6_-Hazel_II-.jpg;¥2,400;2019 March
+519;RX-78-2 Gundam;Mobile Suit Gundam;18.0;RX-78-1 Prototype Gundam;https://static.wikia.nocookie.net/gundam/images/0/0a/HGUC_Gundam_-UNIQLO_Color-.jpg;N/A;2019 March
+520;MS-06S Zaku II Commander Type;Mobile Suit Gundam;18.0;MS-06F Zaku II;https://static.wikia.nocookie.net/gundam/images/6/6a/HGUC_Zaku_II_-UNIQLO_Color-.jpg;N/A;2019 March
+521;MSN-06S-2 Sinanju Stein;Mobile Suit Gundam Narrative;22.6;MSN-06S Sinanju Stein;https://static.wikia.nocookie.net/gundam/images/d/d6/HGUC_Sinanju_Stein_%28Narrative_Ver.%29_-Extra_Finish-.jpg;¥4,800;2019 March
+522;RX-9/C Narrative Gundam C-Packs;Mobile Suit Gundam Narrative;21.0;RX-9 Narrative Gundam;https://static.wikia.nocookie.net/gundam/images/0/06/HGUC_Narrative_Gundam_C-Packs_-Clear_Color-.jpg;¥2,300;2019 April
+523;RX-0 Unicorn Gundam 03 Phenex;Mobile Suit Gundam Narrative;19.7;RX-0 Unicorn Gundam;https://static.wikia.nocookie.net/gundam/images/2/29/HGUC_Unicorn_Gundam_03_Phenex_%28Destroy_Mode%29_%28Narrative_Ver.%29_%28Final_Battle_Ver.%29.jpg;¥2,800;2019 April
+524;MSN-06S-2 Sinanju Stein;Mobile Suit Gundam Narrative;22.6;MSN-06S Sinanju Stein;https://static.wikia.nocookie.net/gundam/images/2/20/HGUC_Sinanju_Stein_%28Narrative_Ver.%29_-Clear_Color-_-Limited_Item-.jpg;¥2,600;2019 April
+525;RX-78-2 Gundam;Mobile Suit Gundam;18.0;RX-78-1 Prototype Gundam;https://static.wikia.nocookie.net/gundam/images/6/60/HGUC_Gundam_FIGHTERS_Ver..jpg;¥2,778;2019 April
+526;RX-78-2 Gundam;Mobile Suit Gundam;18.0;RX-78-1 Prototype Gundam;https://static.wikia.nocookie.net/gundam/images/9/9a/HGUC_Gundam_EAGLES_Ver.jpg;N/A;2019 April
+527;MS-06S Zaku II Commander Type;Mobile Suit Gundam;18.0;MS-06F Zaku II;https://static.wikia.nocookie.net/gundam/images/7/7f/HGUC_Zaku_II_EAGLES_Ver.jpg;¥2,778;2019 April
+528;RX-78-2 Gundam;Mobile Suit Gundam;18.0;RX-78-1 Prototype Gundam;https://static.wikia.nocookie.net/gundam/images/6/6a/HGUC_Gundam_Marines_Ver.jpg;¥2,778;2019 April
+529;MS-06S Zaku II Commander Type;Mobile Suit Gundam;18.0;MS-06F Zaku II;https://static.wikia.nocookie.net/gundam/images/7/7e/HGUC_Zaku_II_Marines_Ver.jpg;¥2,778;2019 April
+530;RX-78-2 Gundam;Mobile Suit Gundam;18.0;RX-78-1 Prototype Gundam;https://static.wikia.nocookie.net/gundam/images/4/46/HGUC_Gundam_Buffaloes_Ver.jpg;¥2,778;2019 April
+531;RX-78-2 Gundam;Mobile Suit Gundam;18.0;RX-78-1 Prototype Gundam;https://static.wikia.nocookie.net/gundam/images/f/fc/HGUC_Gundam_Lions_Ver.jpg;¥2,778;2019 April
+532;RX-78-2 Gundam;Mobile Suit Gundam;18.0;RX-78-1 Prototype Gundam;https://static.wikia.nocookie.net/gundam/images/9/94/HGUC_Gundam_Carp_Ver.jpg;¥2,778;2019 April
+533;RX-9/B Narrative Gundam B-Packs;Mobile Suit Gundam Narrative;21.0;RX-9 Narrative Gundam;https://static.wikia.nocookie.net/gundam/images/2/2d/HGUC_B-Packs_Expansion_Set.jpg;¥1,300;2019 April
+534;RX-78-2 Gundam;Mobile Suit Gundam;18.0;RX-78-1 Prototype Gundam;https://static.wikia.nocookie.net/gundam/images/f/f2/HGUC_Gundam_Ver.HotSix.jpg;©20,000;2019 May
+535;RX-78-2 Gundam;Mobile Suit Gundam;18.0;RX-78-1 Prototype Gundam;https://static.wikia.nocookie.net/gundam/images/c/c8/HGUC_Gundam_Dragons_Ver.jpg;N/A;2019 May
+536;MS-07B Gouf;Mobile Suit Gundam;18.7;YMS-07A Prototype Gouf;https://static.wikia.nocookie.net/gundam/images/6/63/HGUC_Gouf_Dragons_Ver.jpg;¥3,000;2019 May
+537;MSK-008 Dijeh;Mobile Suit Gundam Narrative;23.0;RMS-099 Rick Dias;https://static.wikia.nocookie.net/gundam/images/4/45/HGUC_Dijeh_%28Narrative_Ver.%29.jpg;¥2,000;2019 May
+538;RX-78-2 Gundam;Mobile Suit Gundam;18.0;RX-78-1 Prototype Gundam;https://static.wikia.nocookie.net/gundam/images/8/85/HGUC_Gundam_Tigers_Ver.jpg;N/A;2019 May
+539;RX-78-2 Gundam;Mobile Suit Gundam;18.0;RX-78-1 Prototype Gundam;https://static.wikia.nocookie.net/gundam/images/8/8d/HGUC_Gundam_GIANTS_Ver.jpg;N/A;2019 May
+540;MS-06S Zaku II Commander Type;Mobile Suit Gundam;18.0;MS-06F Zaku II;https://static.wikia.nocookie.net/gundam/images/1/13/HGUC_Zaku_II_Lions_Ver.jpg;N/A;2019 May
+541;RX-78-2 Gundam;Mobile Suit Gundam;18.0;RX-78-1 Prototype Gundam;https://static.wikia.nocookie.net/gundam/images/a/a0/HGUC_Gundam_HAWKS_Ver.jpg;N/A;2019 May
+542;RX-77-2 Guncannon;Mobile Suit Gundam;17.5;RX-75 Guntank;https://static.wikia.nocookie.net/gundam/images/1/11/HGUC_Guncannon_-Takuya_Kai_Model-.jpg;N/A;2019 May
+543;RX-78-2 Gundam;Mobile Suit Gundam;18.0;RX-78-1 Prototype Gundam;https://static.wikia.nocookie.net/gundam/images/8/8a/HGUC_Gundam_Swallows_Ver.jpg;¥2,778;2019 May
+544;MS-06S Zaku II Commander Type;Mobile Suit Gundam;18.0;MS-06F Zaku II;https://static.wikia.nocookie.net/gundam/images/8/89/HGUC_Zaku_II_Buffaloes_Ver.jpg;¥2,778;2019 May
+545;RX-78-2 Gundam;Mobile Suit Gundam;18.0;RX-78-1 Prototype Gundam;https://static.wikia.nocookie.net/gundam/images/d/d7/HGUC_Gundam_BAYSTARS_Ver.jpg;¥2,778;2019 May
+546;MS-06S Zaku II Commander Type;Mobile Suit Gundam;18.0;MS-06F Zaku II;https://static.wikia.nocookie.net/gundam/images/9/97/HGUC_Zaku_II_BAYSTARS_Ver.jpg;¥2,778;2019 May
+547;MS-06S Zaku II Commander Type;Mobile Suit Gundam;18.0;MS-06F Zaku II;https://static.wikia.nocookie.net/gundam/images/2/2c/HGUC_Zaku_II_Carp_Ver.jpg;¥2,778;2019 May
+548;RX-121-1 Gundam TR-1 ï¼»Hazel Custo;Advance of Zeta: The Flag of Titans;18.1;RX-121 Gundam TR-1 [Hazel];https://static.wikia.nocookie.net/gundam/images/3/3c/HGUC_Gundam_TR-1_-Hazel_Custom-_%26_Expansion_Parts_for_RX-124_Gundam_TR-6.jpg;¥1,500;2019 May
+549;FF-X29A G-Parts ï¼»Hrudud;Advance of Zeta: The Flag of Titans;0.0;Hrududu II;https://static.wikia.nocookie.net/gundam/images/a/a0/HGUC_G-Parts_-Hrududu-.jpg;¥1,100;2019 May
+550;MS-06S Zaku II Commander Type;Mobile Suit Gundam;18.0;MS-06F Zaku II;https://static.wikia.nocookie.net/gundam/images/b/bc/HGUC_Zaku_II_FIGHTERS_Ver.jpg;N/A;2019 June
+551;RX-121-2A Gundam TR-1 ï¼»Advanced Haze;Advance of Zeta: The Flag of Titans;18.1;RX-121-2 Gundam TR-1 ï¼»Hazel I;https://static.wikia.nocookie.net/gundam/images/3/37/HGUC_Gundam_TR-1_-Advanced_Hazel-_%26_Expansion_Parts_for_Gundam_TR-6.jpg;¥1,700;2019 June
+552;FF-X29A G-Parts ï¼»Hrudud;Advance of Zeta: The Flag of Titans;0.0;Hrududu II;https://static.wikia.nocookie.net/gundam/images/0/0b/HGUC_G-Parts_-Hrududu-_%28Combat_Deployment_Colors%29.jpg;¥1,100;2019 June
+553;ZGMF-X10A Freedom Gundam;Mobile Suit Gundam SEED Destiny;18.03;YFX-600R GuAIZ Experimental Firearms Type;https://static.wikia.nocookie.net/gundam/images/0/0e/HGCE_Freedom_Gundam_vs_Force_Impulse_Gundam_%28The_Fateful_Battle_Set%29_-Metallic-.jpg;¥4,500;2019 July
+554;ZGMF-X42S Destiny Gundam;Mobile Suit Gundam SEED Destiny;18.08;ZGMF-X56S Impulse Gundam;https://static.wikia.nocookie.net/gundam/images/8/8c/HGCE_Destiny_Gundam_-Clear_Color-.jpg;¥2,200;2019 July
+555;MS-06S Zaku II Commander Type;Mobile Suit Gundam;18.0;MS-06F Zaku II;https://static.wikia.nocookie.net/gundam/images/6/61/HGUC_Zaku_II_Tigers_Ver.jpg;¥2,778;2019 July
+556;RX-78-2 Gundam;Mobile Suit Gundam;18.0;RX-78-1 Prototype Gundam;https://static.wikia.nocookie.net/gundam/images/2/2d/HGUC_Gundam_%28Port_of_Shimizu_120th_Anniversary_Color%29.jpg;¥1,296;2019 July
+557;FD-03 Gustav Karl;Mobile Suit Gundam Gihren's Greed;22.0;FD-03-00 Gustav Karl Type-00;https://static.wikia.nocookie.net/gundam/images/9/90/HGUC_Gustav_Karl_%28Gihren%27s_Greed_Ver.%29.jpg;¥2,400;2019 July
+558;Emergency Escape Pod ï¼»Primros;Advance of Zeta: The Flag of Titans;0.0;Primrose II;https://static.wikia.nocookie.net/gundam/images/8/88/HGUC_Emergency_Escape_Pod_-Primrose-.jpg;¥1,300;2019 July
+559;WMS-03 Maganac;Mobile Suit Gundam Wing;16.4;N/A;https://static.wikia.nocookie.net/gundam/images/b/bc/HGAC_Maganac_%28Rashid_Abdul_Custom%29.jpg;¥1,600;2019 July
+560;WMS-03 Maganac;Mobile Suit Gundam Wing;16.4;N/A;https://static.wikia.nocookie.net/gundam/images/9/97/HGAC_Maganac_%28Auda_Ahmad_Custom%29.jpg;¥1,600;2019 July
+561;MSZ-006 Zeta Gundam;Mobile Suit Gundam;19.85;MSZ-006-X Prototype Î– Gunda;https://static.wikia.nocookie.net/gundam/images/8/86/HGUC_Zeta_Gundam_FIGHTERS_Ver.jpg;¥3,704;2019 July
+562;WMS-03 Maganac;Mobile Suit Gundam Wing;16.4;N/A;https://static.wikia.nocookie.net/gundam/images/d/d3/HGAC_Maganac_36_Piece_Set.jpg;¥45,000;2019 August
+563;Conroy Haagensen;Mobile Suit Gundam Unicorn;0.0;RGM-89De Jegan (ECOAS Type);https://static.wikia.nocookie.net/gundam/images/5/59/HGUC_Mega_Bazooka_Launcher_%28Conroy_Use%29.jpg;¥1,500;2019 August
+564;Dodai Kai;Mobile Suit Zeta Gundam;0.0;Neo Zeon;https://static.wikia.nocookie.net/gundam/images/5/52/HGUC_Dodai_Kai.jpg;¥1,200;2019 August
+565;MS-07H-8 Gouf Flight Type;Mobile Suit Gundam: The 08th MS Team;18.7;MS-07H-4 Gouf Flight Test Type;https://static.wikia.nocookie.net/gundam/images/f/fc/HGUC_Gouf_Flight_Type_%2821st_Century_Real_Type_Ver.%29.jpg;¥2,500;2019 August
+566;RX-80PR Pale Rider;Mobile Suit Gundam Side Story: Missing Link;18.0;RX-80RR Red Rider;https://static.wikia.nocookie.net/gundam/images/5/59/HGUC_Pale_Rider_%28Space_Type%29_-Clear_Color-.jpg;¥2,000;2019 September
+567;AMS-123X-X Moon Gundam;Mobile Suit Moon Gundam;21.7;AMS-123X Varguil;https://static.wikia.nocookie.net/gundam/images/a/af/HGUC_Moon_Gundam_-Clear_Color-.jpg;¥3,000;2019 October
+568;Second V;Mobile Suit Victory Gundam (Novel);0.0;LM312V04 Victory Gundam;https://static.wikia.nocookie.net/gundam/images/f/f8/HGUC_Second_V.jpg;¥2,000;2019 October
+569;SCV-70 White Base;Mobile Suit Gundam;93.0;Hardy Gussie;https://static.wikia.nocookie.net/gundam/images/5/55/White_Base_Catapult_Deck_-Renewal_Ver.-.jpg;¥13,000;2019 October
+570;RX-124 Gundam TR-6 ï¼»Haze'n-thley I;Advance of Zeta: The Flag of Titans;0.0;RX-124 Gundam TR-6 [Woundwort];https://static.wikia.nocookie.net/gundam/images/d/d2/HGUC_Gundam_TR-6_-Haze%27n-thley_II-.jpg;¥4,400;2019 October
+571;Hrududu II;Advance of Zeta: The Flag of Titans;0.0;FF-X29A G-Parts ï¼»Hrudud;https://static.wikia.nocookie.net/gundam/images/6/6b/HGUC_Hrududu_II_Expansion_Set.jpg;¥1,500;2019 October
+572;ZGMF-X20A Strike Freedom Gundam;Mobile Suit Gundam SEED Destiny;18.88;ZGMF-X10A Freedom Gundam;N/A;N/A;2019 October
+573;RX-9/C Narrative Gundam C-Packs;Mobile Suit Gundam Narrative;21.0;RX-9 Narrative Gundam;https://static.wikia.nocookie.net/gundam/images/1/12/HGUC_Narrative_Gundam_C-Packs_-Titanium_Finish-.jpg;¥5,600;2019 November
+574;RX-78-6 Mudrock Gundam;Mobile Suit Gundam: Zeonic Front;18.0;RX-78-2 Gundam;https://static.wikia.nocookie.net/gundam/images/7/74/HGUC_Gundam_G06_%28Mudrock%29.jpg;¥2,000;2019 November
+575;MSN-06S Sinanju Stein;Gundam Unicorn Mobile Suit Variations;22.6;MSN-04 Sazabi;https://static.wikia.nocookie.net/gundam/images/6/60/HGUC_Sinanju_Stein_%28Unicorn_Ver.%29.jpg;¥2,600;2019 December
+576;RX-9/B Narrative Gundam B-Packs;Mobile Suit Gundam Narrative;21.0;RX-9 Narrative Gundam;https://static.wikia.nocookie.net/gundam/images/0/08/HGUC_Narrative_Gundam_B-Packs.jpg;¥3,000;2019 December
+577;RX-78-2 Gundam;Mobile Suit Gundam;18.0;RX-78-1 Prototype Gundam;https://static.wikia.nocookie.net/gundam/images/0/00/HGUC_Gundam_Ver.Georgia.jpg;N/A;2019 December
+578;RX-78-2 Gundam;Mobile Suit Gundam;18.0;RX-78-1 Prototype Gundam;https://static.wikia.nocookie.net/gundam/images/0/06/HG_RX-78-2_E235_Gundam_JR-East_Ver.jpg;N/A;2020 January
+579;MSK-008 Dijeh;Mobile Suit Zeta Gundam;23.0;RMS-099 Rick Dias;https://static.wikia.nocookie.net/gundam/images/b/bd/HGUC_Dijeh_-Clear_Color-.jpeg;¥2,100;2020 January
+580;OZ-06MS Leo;Mobile Suit Gundam Wing;16.2;OZ-00MS Tallgeese;https://static.wikia.nocookie.net/gundam/images/0/06/HGAC_Leo_%28Full_Weapon_Set%29.jpg;¥2,100;2020 January
+581;RX-78-2 Gundam;Mobile Suit Gundam;18.0;RX-78-1 Prototype Gundam;https://static.wikia.nocookie.net/gundam/images/0/0e/HGUC_Gundam_J.League_Ver.jpg;¥1,819;2020 February
+582;RX-78XX Gundam Pixy;Mobile Suit Gundam Side Story: Missing Link;19.2;RX-78-2 Gundam;https://static.wikia.nocookie.net/gundam/images/2/2d/HGUC_Pixy_%28Fred_Reber_Custom%29.jpg;¥2,000;2020 February
+583;RX-79ï¼»Gï¼½SW Slave Wr;Mobile Suit Gundam Side Story: Missing Link;18.0;RX-79[G] Gundam Ground Type;https://static.wikia.nocookie.net/gundam/images/0/08/HGUC_Slave_Wraith_%28Parachute_Pack%29.jpg;¥2,200;2020 February
+584;RX-124 Gundam TR-6 ï¼»Haze'n-thley II-Ra;Advance of Zeta: The Flag of Titans;0.0;RX-124 Gundam TR-6 ï¼»Haze'n-thley I;https://static.wikia.nocookie.net/gundam/images/9/9b/HGUC_Gundam_TR-6_-Haze%27n-thley_II_Rah-.jpg;¥5,900;2020 February
+585;MS-08TX Efreet;Mobile Suit Gundam Side Story: Missing Link;18.1;MS-08TX/N Efreet Nacht;https://static.wikia.nocookie.net/gundam/images/4/4d/HGUC_Efreet_%28Doug_Schneid_Custom%29.jpg;¥2,400;2020 March
+586;RGM-79ï¼»Gï¼½ GM Ground ;Mobile Suit Gundam Side Story: Missing Link;18.0;RX-79[G] Gundam Ground Type;https://static.wikia.nocookie.net/gundam/images/0/02/HGUC_GM_Ground_Type_%28Slave_Wraith_Team_Custom%29_%28Parachute_Pack%29.jpg;¥2,200;2020 March
+587;RX-78-2 Gundam;Mobile Suit Gundam;18.0;RX-78-1 Prototype Gundam;https://static.wikia.nocookie.net/gundam/images/c/cd/HGUC_Gundam_-UNIQLO-.jpg;N/A;2020 April
+588;MS-06S Zaku II Commander Type;Mobile Suit Gundam;18.0;MS-06F Zaku II;https://static.wikia.nocookie.net/gundam/images/b/bd/HGUC_Zaku_II_-UNIQLO-.jpg;N/A;2020 April
+589;AMS-123X Varguil;Mobile Suit Moon Gundam;20.9;AMS-123X-X Moon Gundam;https://static.wikia.nocookie.net/gundam/images/b/b8/HGUC_Varguil.jpg;¥2,500;2020 April
+590;MSZ-006A1 Zeta Plus A1;Gundam Sentinel;22.11;MSZ-006 Zeta Gundam;https://static.wikia.nocookie.net/gundam/images/e/e4/HGUC_Zeta_plus_%28Test_Image_Color%29.jpg;¥2,500;2020 April
+591;GAT-X105 Strike Gundam;Mobile Suit Gundam SEED;17.72;Centaurea;https://static.wikia.nocookie.net/gundam/images/8/8e/HGCE_Strike_Gundam_KASHIMA_ANTLERS_Ver.jpg;¥2,728;2020 April
+592;GAT-X105 Strike Gundam;Mobile Suit Gundam SEED;17.72;Centaurea;https://static.wikia.nocookie.net/gundam/images/7/7d/HGCE_Strike_Gundam_F.C._TOKYO_Ver.jpg;¥2,728;2020 April
+593;ZGMF-X56S Impulse Gundam;Mobile Suit Gundam SEED Destiny;17.76;ZGMF-X101S ZAKU Splendor;https://static.wikia.nocookie.net/gundam/images/f/f9/HGCE_Impulse_Gundam_KAWASAKI_FRONTALE_Ver.jpg;¥2,728;2020 April
+594;GAT-X105 Strike Gundam;Mobile Suit Gundam SEED;17.72;Centaurea;https://static.wikia.nocookie.net/gundam/images/5/5c/HGCE_Strike_Gundam_SANFRECCE_HIROSHIMA_Ver.jpg;¥2,728;2020 April
+595;ZGMF-X56S Impulse Gundam;Mobile Suit Gundam SEED Destiny;17.76;ZGMF-X101S ZAKU Splendor;https://static.wikia.nocookie.net/gundam/images/c/cc/HGCE_Impulse_Gundam_SAGAN_TOSU_Ver.jpg;¥2,728;2020 April
+596;ZGMF-X56S Impulse Gundam;Mobile Suit Gundam SEED Destiny;17.76;ZGMF-X101S ZAKU Splendor;https://static.wikia.nocookie.net/gundam/images/9/99/HGCE_Impulse_Gundam_OITA_TRINITA_Ver.jpg;¥2,728;2020 April
+597;ZGMF-X56S Impulse Gundam;Mobile Suit Gundam SEED Destiny;17.76;ZGMF-X101S ZAKU Splendor;https://static.wikia.nocookie.net/gundam/images/9/97/HGCE_Impulse_Gundam_VEGALTA_SENDAI_Ver.jpg;¥2,728;2020 May
+598;GAT-X105 Strike Gundam;Mobile Suit Gundam SEED;17.72;Centaurea;https://static.wikia.nocookie.net/gundam/images/b/b4/HGUC_Strike_Gundam_YOKOHAMA_F-MARINOS_Ver.jpg;¥2,728;2020 May
+599;OZX-GU01A Gundam Geminass 01;New Mobile Report Gundam Wing Dual Story: G-Unit;17.3;OZX-GU01LOB Gundam L.O. Booster;https://static.wikia.nocookie.net/gundam/images/4/42/HGAC_Gundam_Geminass_01.jpg;¥2,000;2020 May
+600;"RX-78-4 Gundam Unit 4 ""G04""";Mobile Suit Gundam Side Story: Space, To the End of a Flash;18.0;RX-78-2 Gundam;https://static.wikia.nocookie.net/gundam/images/7/77/HGUC_Gundam_G04.jpg;¥2,250;2020 May
+601;Dodai Kai;Mobile Suit Zeta Gundam;0.0;Neo Zeon;https://static.wikia.nocookie.net/gundam/images/2/28/HGUC_Dodai_Kai_%2821st_Century_Real_Type_Ver.%29.jpg;¥1,500;2020 June
+602;RX-124 Gundam TR-6 ï¼»Kehaar I;Advance of Zeta: The Flag of Titans;0.0;RX-124 Gundam TR-6 [Woundwort];https://static.wikia.nocookie.net/gundam/images/2/22/HGUC_Gundam_TR-6_-Kehaar_II-.jpg;¥2,500;2020 June
+603;RX-121-3C Gundam TR-1 ï¼»Haze'n-thle;Advance of Zeta: The Flag of Titans;0.0;RX-121-2A Gundam TR-1 [Advanced Hazel];https://static.wikia.nocookie.net/gundam/images/f/f9/HGUC_Gundam_TR-1_-Haze%27n-thley-.jpg;¥3,500;2020 June
+604;RX-93 Î½ Gunda;Mobile Suit Gundam: Char's Counterattack;23.0;YRA-90A Î¼ Gunda;https://static.wikia.nocookie.net/gundam/images/5/5f/HGUC_%CE%BD_Gundam_%28First_Lot_Color_Ver.%29.jpg;N/A;2020 July
+605;ZGMF-X42S Destiny Gundam;Mobile Suit Gundam SEED Destiny;18.08;ZGMF-X56S Impulse Gundam;https://static.wikia.nocookie.net/gundam/images/7/7b/HGCE_Destiny_Gundam_-Special_Coating-.jpg;¥4,000;2020 July
+606;AMX-104 R-Jarja;Mobile Suit Gundam Twilight Axis;23.55;YMS-15 Gyan;https://static.wikia.nocookie.net/gundam/images/9/93/HGUC_R-Jarja_%28Twilight_AXIS_Ver.%29.jpg;¥1,900;2020 July
+607;Death Beast;Mobile Fighter G Gundam;0.0;JDG-009X Death Army;https://static.wikia.nocookie.net/gundam/images/d/d1/HGFC_Death_Beast.jpg;¥2,250;2020 July
+608;RX-78-2 Gundam;Mobile Suit Gundam;18.0;RX-78-1 Prototype Gundam;https://static.wikia.nocookie.net/gundam/images/a/a0/HG_Gundam_-BEYOND_GLOBAL-_-Clear_Color-.jpg;©26,400 / ¥2,000;2020 August (Korea) / 2020 September
+609;N/A;Mobile Suit Gundam;0.0;N/A;https://static.wikia.nocookie.net/gundam/images/7/78/GUNPLA_40th_Memorial_Set.jpg;©54,500 / ¥4,546;2020 August (Korea) / 2020 November
+610;RMS-099 Rick Dias;Mobile Suit Zeta Gundam;21.6;RX-098 Prototype Rick Dias;https://static.wikia.nocookie.net/gundam/images/4/43/HGUC_Rick_Dias_%28Quattro_Bajeena_Custom%29.jpg;¥1,900;2020 August
+611;XM-X1 Crossbone Gundam X-1 Full Cloth;Mobile Suit Crossbone Gundam: Steel 7;15.9;XM-X1C Crossbone Gundam X-1 Patchwork;https://static.wikia.nocookie.net/gundam/images/1/16/HGUC_Crossbone_Gundam_X-1_Full_Cloth.jpg;¥2,300;2020 August
+612;Dictus;Mobile Suit Crossbone Gundam: Steel 7;0.0;EMS-TC05 Galahad;https://static.wikia.nocookie.net/gundam/images/9/90/HGUC_Dictus_%28Callisto_of_Light_Custom%29.jpg;¥3,600;2020 August
+613;RX-80PR Pale Rider;Mobile Suit Gundam Side Story: Missing Link;18.0;RX-80RR Red Rider;https://static.wikia.nocookie.net/gundam/images/6/61/HGUC_Pale_Rider_%28Ground_Heavy_Equipment_Type%29_-Clear_Color-.jpg;¥2,000;2020 September
+614;XXXG-01SR Gundam Sandrock;Mobile Suit Gundam Wing;16.5;XXXG-00W0 Wing Gundam Zero;https://static.wikia.nocookie.net/gundam/images/c/c8/HGAC_Gundam_Sandrock_-Clear_Color-.jpg;¥1,500;2020 September
+615;Argama-class;Mobile Suit Zeta Gundam;76.5;Pegasus-class assault carrier;https://static.wikia.nocookie.net/gundam/images/3/3f/RM_Argama_Catapult_Deck.jpg;¥12,800;2020 September
+616;OZX-GU01A Gundam Geminass 01;New Mobile Report Gundam Wing Dual Story: G-Unit;17.3;OZX-GU01LOB Gundam L.O. Booster;https://static.wikia.nocookie.net/gundam/images/c/c0/HGAC_Assault_Booster_%26_High_Mobility_Unit_for_Gundam_Geminass_01.jpg;¥1,600;2020 September
+617;RX-124 Gundam TR-6 ï¼»Woundwor;Advance of Zeta: The Flag of Titans;0.0;Gundam Groundsel;https://static.wikia.nocookie.net/gundam/images/2/23/HGUC_Gundam_TR-6_-Woundwort-_-Clear_Color-.jpg;¥1,800;2020 October
+618;Second V;Mobile Suit Victory Gundam (Novel);0.0;LM312V04 Victory Gundam;https://static.wikia.nocookie.net/gundam/images/8/80/HGUC_Second_V_-Clear_Color-.jpg;¥2,200;2020 October
+619;GW-9800-B Gundam Airmaster Burst;After War Gundam X;17.3;GW-9800 Gundam Airmaster;https://static.wikia.nocookie.net/gundam/images/c/c4/HGAW_Gundam_Airmaster_Burst.jpg;¥2,200;2020 October
+620;DT-6800A Daughtress;After War Gundam X;16.3;DT-6800 Daughtress Tank;https://static.wikia.nocookie.net/gundam/images/c/c0/HGAW_Daughtress.jpg;¥1,200;2020 October
+621;Gundam G40 (Industrial Design Ver.);Mobile Suit Gundam G40;0.0;Kamaria Ray;https://static.wikia.nocookie.net/gundam/images/8/89/HG_Gundam_G40_%28Industrial_Design_Ver.%29_-Clear_Color-.jpg;¥3,200;2020 November
+622;RX-78-2 Gundam;Mobile Suit Gundam;18.0;RX-78-1 Prototype Gundam;https://static.wikia.nocookie.net/gundam/images/7/7a/HG_Gundam_-BEYOND_GLOBAL-_-Glow_in_Dark_Ver.-.jpg;N/A;2020 November
+623;RX-121-3C Gundam TR-1 ï¼»Haze'n-thley-Rah I;Advance of Zeta: The Flag of Titans;0.0;RX-121-3C Gundam TR-1 ï¼»Haze'n-thle;https://static.wikia.nocookie.net/gundam/images/7/7f/HGUC_Gundam_TR-1_-Haze%27n-thley-Rah_II-.jpg;¥5,400;2020 November
+624;ZGMF-X19A âˆž Justice Gund;Mobile Suit Gundam SEED Destiny;18.9;ZGMF-X09A Justice Gundam;https://static.wikia.nocookie.net/gundam/images/5/59/HGCE_%E2%88%9E_Justice_Gundam_-Clear_Color-.jpg;¥2,200;2020 December (The Gundam Base Tokyo) / 2021 January
+625;MS-06S Zaku II Commander Type;Mobile Suit Gundam;18.0;MS-06F Zaku II;https://static.wikia.nocookie.net/gundam/images/6/6d/HGUC_Zaku_II_EneKey_Ver.jpg;N/A;2020 December
+626;AMX-018ï¼»HADESï¼½ Todesri;Mobile Suit Gundam Side Story: Missing Link;22.8;RX-80PR Pale Rider;https://static.wikia.nocookie.net/gundam/images/7/74/HGUC_Todesritter.jpg;¥3,000;2020 December
+627;XXXG-01H Gundam Heavyarms;Mobile Suit Gundam Wing;16.7;XXXG-00W0 Wing Gundam Zero;https://static.wikia.nocookie.net/gundam/images/3/3b/HGAC_Gundam_Heavyarms_-Clear_Color-.jpg;¥1,500;2021 January
+628;MS-06 Zaku II;Mobile Suit Gundam;0.0;MS-05 Zaku I;https://static.wikia.nocookie.net/gundam/images/1/13/HGUC_Zaku_II_%2821st_Century_Real_Type_Ver.%29.jpg;¥2,000;2021 January
+629;"RX-78-3 Gundam ""G-3""";Mobile Suit Variations;18.5;RX-78-2 Gundam;https://static.wikia.nocookie.net/gundam/images/2/2a/HG_G-3_Gundam_-BEYOND_GLOBAL-.jpg;¥2,200;2021 January
+630;ARX-014S Silver Bullet Suppressor;Mobile Suit Gundam Narrative;23.4;ARX-014 Silver Bullet;https://static.wikia.nocookie.net/gundam/images/c/cb/HGUC_Silver_Bullet_Suppressor_-Clear_Color-.jpg;¥2,700;2021 January
+631;RX-124 Gundam TR-6 ï¼»Haze'n-thley II-Ra;Advance of Zeta: The Flag of Titans;0.0;RX-124 Gundam TR-6 ï¼»Haze'n-thley I;https://static.wikia.nocookie.net/gundam/images/c/ca/HGUC_Gundam_TR-6_-Haze%27n-thley_II-Rah-_-Clear_Color-.jpg;¥5,900;2021 January
+632;XXXG-01SR2 Gundam Sandrock Custom;Mobile Suit Gundam Wing;16.5;XXXG-01SR Gundam Sandrock;https://static.wikia.nocookie.net/gundam/images/d/d2/HGAC_Gundam_Sandrock_Custom.jpg;¥1,500;2021 January
+633;OZ-13MSX1 Vayeate;Mobile Suit Gundam Wing;16.3;OZ-02MD Virgo;https://static.wikia.nocookie.net/gundam/images/5/5d/HGAC_Vayeate_%26_Mercurius.jpg;¥3,800;2021 January
+634;OZX-GU02A Gundam Geminass 02;New Mobile Report Gundam Wing Dual Story: G-Unit;17.3;OZ-10VMSX Gundam Aesculapius;https://static.wikia.nocookie.net/gundam/images/d/d7/HGAC_Gundam_Geminass_02.jpg;¥2,000;2021 January
+635;MSN-02 Zeong;Mobile Suit Gundam;17.3;MSN-01 Psycommu Test High Mobility Type Zaku;https://static.wikia.nocookie.net/gundam/images/d/d5/HGUC_Zeong_Meiji_almond_chocolate_Ver.jpg;N/A;2021 February
+636;RX-121-2 Gundam TR-1 ï¼»Hazel Owsl;Advance of Zeta: The Flag of Titans;18.1;RX-121-2A Gundam TR-1 [Advanced Hazel];https://static.wikia.nocookie.net/gundam/images/c/c2/HGUC_Gundam_TR-1_-Hazel_Owsla-_Next-Generation_Mass_Production_Type_%28Combat_Deployment_Colors%29.jpg;¥3,000;2021 February
+637;N/A;Advance of Zeta: The Flag of Titans;0.0;N/A;https://static.wikia.nocookie.net/gundam/images/c/c7/HGUC_Booster_Expansion_Set_for_Cruiser_Mode.jpg;¥1,500;2021 February
+638;N/A;Advance of Zeta: The Flag of Titans;0.0;N/A;https://static.wikia.nocookie.net/gundam/images/b/b8/HGUC_Booster_Expansion_Set_for_Cruiser_Mode_%28Combat_Deployment_Colors%29.jpg;¥1,500;2021 February
+639;RX-78-2 Gundam;Mobile Suit Gundam;18.0;RX-78-1 Prototype Gundam;https://static.wikia.nocookie.net/gundam/images/3/30/HG_RX-78-2_Gundam_-BEYOND_GLOBAL-_-The_Gundam_Base_Color-.jpg;¥2,200;2021 March
+640;"RX-78-5 Gundam Unit 5 ""G05""";Mobile Suit Gundam Side Story: Space, To the End of a Flash;18.0;RX-78-2 Gundam;https://static.wikia.nocookie.net/gundam/images/f/f9/HGUC_Gundam_G05.jpg;¥2,250;2021 March
+641;Extreme Gundam Type Leos Eclipse Phase;Mobile Suit Gundam Extreme Vs. Maxi Boost ON;0.0;Extreme Gundam Type Leos;https://static.wikia.nocookie.net/gundam/images/1/1f/HG_Extreme_Gundam_%28type-Leos%29_Eclipse-Face.jpg;¥2,700;2021 March
+642;RX-80PR-2 Pale Rider Cavalry;Mobile Suit Gundam Side Story: Missing Link (Manga);0.0;RX-80PR Pale Rider;https://static.wikia.nocookie.net/gundam/images/d/d6/HGUC_Pale_Rider_Cavalry.jpg;¥2,200;2021 April
+643;MSF-007 Gundam Mk-III;Zeta Gundam Mobile Suit Variations;22.0;RX-178 Gundam Mk-II;https://static.wikia.nocookie.net/gundam/images/7/76/HGUC_Gundam_Mk-III.jpg;¥2,200;2021 April
+644;RX-0 Full Armor Unicorn Gundam Plan B;Mobile Suit Gundam UC Perfectibility;19.7;RX-0 Unicorn Gundam;https://static.wikia.nocookie.net/gundam/images/8/8e/HGUC_Unicorn_Gundam_Perfectibility_%28Destroy_Mode%29_%28Final_Battle_Ver.%29_Ver.GSF.jpg;¥3,400;2021 April
+645;OZX-GU02A Gundam Geminass 02;New Mobile Report Gundam Wing Dual Story: G-Unit;17.3;OZ-10VMSX Gundam Aesculapius;https://static.wikia.nocookie.net/gundam/images/c/c8/HGAC_Ground_Heavy_Equipment_Unit_Expansion_Parts_for_Gundam_Geminass_02.jpg;¥2,000;2021 May
+646;XM-X0 Crossbone Gundam X-0 Full Cloth;Mobile Suit Crossbone Gundam: Ghost;0.0;N/A;https://static.wikia.nocookie.net/gundam/images/d/d5/HGUC_Crossbone_Gundam_X-0_Full_Cloth.jpg;¥2,500;2021 May
+647;Dictus;Mobile Suit Crossbone Gundam: Steel 7;0.0;EMS-TC05 Galahad;https://static.wikia.nocookie.net/gundam/images/8/84/HGUC_Dictus_%28Callisto_of_Shadow_Custom%29.jpg;¥3,600;2021 May
+648;RX-104FF Penelope;Mobile Suit Gundam Hathaway;26.0;;https://static.wikia.nocookie.net/gundam/images/e/e5/HGUC_Penelope_-Clear_Color-_Limited_Package.jpg;¥6,819;2021 June
+649;MS-06S Zaku II Commander Type;Mobile Suit Gundam Hathaway;18.0;MS-06F Zaku II;https://static.wikia.nocookie.net/gundam/images/8/8a/EG_Conan_Edogawa_%28MS-06S_Zaku_II_color%29_%26_HG_MS-06S_Zaku_II_%28Shuichi_Akai_color%29.jpg;¥3,000;2020 June
+650;RX-178 Gundam Mk-II;Mobile Suit Zeta Gundam;19.6;RGM-79Q GM Quel;https://static.wikia.nocookie.net/gundam/images/0/01/HGUC_Gundam_Mk-II_%2821st_Century_Real_Type_Ver.%29.jpg;¥1,700;2021 June
+651;MS-14J/BR Gelgoog Vertex;MSV-R;19.2;MS-14BR Gelgoog High Mobility R Type;https://static.wikia.nocookie.net/gundam/images/b/b8/HGUC_Gelgoog_Vertex.jpg;¥2,500;2021 June
+652;RMS-099 Rick Dias;Mobile Suit Zeta Gundam;21.6;RX-098 Prototype Rick Dias;https://static.wikia.nocookie.net/gundam/images/7/78/HGUC_Rick_Dias.jpg;¥1,900;2021 June
+653;MS-06S Zaku II Commander Type;Mobile Suit Gundam;18.0;MS-06F Zaku II;https://static.wikia.nocookie.net/gundam/images/5/5d/HGUC_Zaku_II_-Metallic-.jpg;¥1,600;2021 July
+654;RX-0 Unicorn Gundam;Mobile Suit Gundam Unicorn;19.7;MSN-06S Sinanju Stein;https://static.wikia.nocookie.net/gundam/images/f/f8/HG_Unicorn_Gundam_Head_Display_Base_%28Psycho_Frame_Color_Variation_Ver.%29_%26_Unicorn_Gundam_02_Banshee_Head_Display_Base_Set.jpg;¥1,500;2021 July
+655;RMS-154 Barzam;Advance of Zeta Re-Boot: Gundam Inle;24.2;RX-178 Gundam Mk-II;https://static.wikia.nocookie.net/gundam/images/f/fa/HGUC_Barzam_%28A.O.Z_Re-Boot_Ver.%29.jpg;¥2,200;2021 July
+656;RMS-154 Barzam;Advance of Zeta Re-Boot: Gundam Inle;24.2;RX-178 Gundam Mk-II;https://static.wikia.nocookie.net/gundam/images/3/32/HGUC_Barzam_Re-Zeon_Captured_%28A.O.Z_Re-Boot_Ver.%29.jpg;¥2,200;2021 July
+657;RX-80PR-4 Pale Rider DII;Anaheim Laboratory Log;18.0;RX-80PR-3 Pale Rider Dullahan;https://static.wikia.nocookie.net/gundam/images/e/e6/HGUC_Pale_Rider_DII.jpg;¥2,200;2021 August
+658;GAT-04 Windam;Mobile Suit Gundam SEED Destiny;18.67;GAT-02L2 Dagger L;https://static.wikia.nocookie.net/gundam/images/6/63/HGCE_Windam_%28Neo_Roanoke_Custom%29.jpg;¥1,400;2021 August
+659;GAT-04 Windam;Mobile Suit Gundam SEED Destiny;18.67;GAT-02L2 Dagger L;https://static.wikia.nocookie.net/gundam/images/2/2f/HGCE_Expansion_Set_for_Windam_%26_Dagger_L.jpg;¥1,500;2021 August
+660;RX-78-2 Gundam;Mobile Suit Gundam;18.0;RX-78-1 Prototype Gundam;N/A;¥N/A;2021
+661;RX-78-2 Gundam;Mobile Suit Gundam;18.0;RX-78-1 Prototype Gundam;N/A;¥N/A;2021
+662;RX-78-2 Gundam;Mobile Suit Gundam;18.0;RX-78-1 Prototype Gundam;N/A;¥N/A;2021
+663;ZGMF-X42S Destiny Gundam;Mobile Suit Gundam SEED Destiny;18.08;ZGMF-X56S Impulse Gundam;https://static.wikia.nocookie.net/gundam/images/c/c3/HGCE_Destiny_Gundam_%28Heine_Westenfluss_Custom%29_-Clear_Color-.jpg;¥2,200;2021 September
+664;RX-93 Î½ Gunda;Mobile Suit Gundam: Char's Counterattack;23.0;YRA-90A Î¼ Gunda;N/A;N/A;2021 September
+665;OZ-06MS-SS1 Leo-S;New Mobile Report Gundam Wing Dual Story: G-Unit;0.0;OZ-06MS Leo;https://static.wikia.nocookie.net/gundam/images/6/65/HGAC_Leo-S.jpg;¥1,800;2021 September
+666;Me02R-F02c Messer Type-F02 (Commander Type);Mobile Suit Gundam Hathaway;23.0;Me02R-Fc Messer Type-F Naked (Commander Type);https://static.wikia.nocookie.net/gundam/images/8/82/HGUC_Messer_Type-F02_%28Commander_Type%29.jpg;¥3,000;2021 September
+667;Me02R-F02 Messer Type-F02;Mobile Suit Gundam Hathaway;23.0;Me02R-F01 Messer Type-F01;N/A;¥2,900;2021 September
+668;RX-0 Unicorn Gundam;Mobile Suit Gundam Unicorn;19.7;MSN-06S Sinanju Stein;https://static.wikia.nocookie.net/gundam/images/b/bf/HGUC_Unicorn_Gundam_%28Destroy_Mode%29_Ver.NIKE_SB.jpg;¥2,200;2021 October
+669;RX-0 Unicorn Gundam 02 Banshee;Mobile Suit Gundam Unicorn;19.7;MSN-06S Sinanju Stein;https://static.wikia.nocookie.net/gundam/images/0/0b/HGUC_Unicorn_Gundam_02_Banshee_%28Destroy_Mode%29_Ver.NIKE_SB.jpg;¥2,200;2021 October
+670;AMS-123X Varguil;Mobile Suit Moon Gundam;20.9;AMS-123X-X Moon Gundam;N/A;¥2,500;2021 October
+671;RX-78-2 Gundam;Mobile Suit Gundam;18.0;RX-78-1 Prototype Gundam;https://static.wikia.nocookie.net/gundam/images/6/60/HGUC_Gundam_-PR_ambassador_of_the_Japan_Pavilion%2C_Expo_2020_Dubai-.jpg;¥2,200;2021 October
+672;Archangel-class;Mobile Suit Gundam SEED;0.0;Izumo-class;N/A;¥19,800;2021 October
+673;NRX-055 Baund Doc;Mobile Suit Zeta Gundam;29.7;RX-107 TR-4 (Dandelion);N/A;¥5,000;2021 October
+674;N/A;Mobile Suit Gundam F91 Prequel;0.0;N/A;N/A;¥2,900;2021 October
+675;XXXG-01D Gundam Deathscythe;Mobile Suit Gundam Wing;16.3;XXXG-00W0 Wing Gundam Zero;N/A;¥1,500;2021 November
+676;"RX-78-4 Gundam Unit 4 ""G04""";Mobile Suit Gundam Side Story: Space, To the End of a Flash;18.0;RX-78-2 Gundam;N/A;¥2,250;2022 January
+677;"RX-78-5 Gundam Unit 5 ""G05""";Mobile Suit Gundam Side Story: Space, To the End of a Flash;18.0;RX-78-2 Gundam;N/A;¥2,250;2022 January
+678;OZ-10VMSX Gundam Aesculapius;New Mobile Report Gundam Wing Dual Story: G-Unit;18.2;OZX-GU02A Gundam Geminass 02;https://static.wikia.nocookie.net/gundam/images/6/60/HGAC_Gundam_Aesculapius.jpg;¥3,600;2022 January
+679;RX-80WR White Rider;Mobile Suit Gundam Battle Operation Code Fairy;0.0;Earth Federation Forces;N/A;¥2,200;2022 February
+680;RX-80BR Black Rider;Mobile Suit Gundam Battle Operation Code Fairy;0.0;Earth Federation Forces;N/A;¥2,200;2022 February
+681;MS-08TXï¼»NFï¼½ Efreet J;Mobile Suit Gundam Battle Operation Code Fairy;0.0;MS-08TX Efreet;N/A;¥2,400;2022 February
+682;Tragedy In Jaburo;Mobile Suit Gundam;0.0;N/A;N/A;¥5,800;2022 April
+683;Garma's Fate;Mobile Suit Gundam;0.0;N/A;N/A;¥6,500;2022 April
+684;Escape;Mobile Suit Gundam;0.0;N/A;N/A;¥6,800;2022 April
+685;MHF-01Î© Lord Astray ;Mobile Suit Gundam SEED ASTRAY Princess of the Sky;0.0;N/A;N/A;¥2,400;2022 April
+686;RX-121-2P Gundam TR-1 ï¼»Hazel Owslaï¼½ Gigantic Arm ;Advance of Zeta: The Flag of Titans;18.1;RX-121-2 Gundam TR-1 [Hazel Owsla];N/A;¥6,200;2022 May
+687;RX-93 Î½ Gunda;Mobile Suit Gundam: Char's Counterattack;23.0;YRA-90A Î¼ Gunda;https://static.wikia.nocookie.net/gundam/images/7/7e/HGUC_Booster_Bed.jpg;¥1,200;2022 May
+688;XXXG-01H2 Gundam Heavyarms Custom;Mobile Suit Gundam Wing;16.7;XXXG-01H Gundam Heavyarms;N/A;¥1,500;2022 June
+689;EMS-TC02 Phantom Gundam;Mobile Suit Crossbone Gundam: Ghost;0.0;Amakusa;N/A;¥2,500;2022 June
+690;RX-78-02 Gundam;Mobile Suit Gundam: Cucuruz Doan's Island;18.0;N/A;N/A;¥2,300;2022 July
+691;MS-06F Zaku II;Mobile Suit Gundam: Cucuruz Doan's Island;17.5;MS-06C Zaku II Early Production Type;N/A;¥2,000;2022 July
+692;RGM-89 Jegan;Mobile Suit Gundam: Char's Counterattack;20.4;RGM-86R GM III;https://static.wikia.nocookie.net/gundam/images/d/d8/HGUC_Jegan_%28Axis_Shock_Image_Color%29.jpg;¥1,500;2022 July
+693;XXXG-01W Wing Gundam;Mobile Suit Gundam Wing;16.3;XXXG-00W0 Wing Gundam Zero;N/A;¥1,500;2022 September
+694;RX-80RR Red Rider;Mobile Suit Gundam Aggressor;18.0;RX-80PR Pale Rider;N/A;¥2,350;2022 October
+695;OZX-GU01LOB Gundam L.O. Booster;New Mobile Report Gundam Wing Dual Story: G-Unit;22.3;OZX-GU01A Gundam Geminass 01;https://static.wikia.nocookie.net/gundam/images/6/63/HGAC_Gundam_L.O._Booster.jpeg;¥3,800;2022 October
+696;MS-06S Zaku II Commander Type;Mobile Suit Gundam;18.0;MS-06F Zaku II;https://static.wikia.nocookie.net/gundam/images/2/2c/HGUC_MS-06S_Zaku_II_%2821st_Century_Real_Type_Ver.%29.jpg;¥2,200;2022 November
+697;RGM-79 GM/Origin;Mobile Suit Gundam: Cucuruz Doan's Island;0.0;RX-78-02 Gundam;N/A;¥1,900;2022 November
+698;RGM-79S GM Spartan;Fukuchi Mobile Suit Station;18.0;RGM-79G GM Command;N/A;¥2,200;2022 December
+699;GAT-01 Strike Dagger;Mobile Suit Gundam SEED;18.02;GAT-X105 Strike Gundam;N/A;¥1,500;2022 December
+700;MSN-03-2 Psycho Doga;Mobile Suit Gundam: Char's Counterattack - Beltorchika's Children;0.0;AMS-119 Geara Doga;N/A;¥3,800;2022 December
+701;N/A;Mobile Suit Gundam U.C. ENGAGE;0.0;N/A;N/A;¥2,500;2023 January
+702;ARZ-124 Gundam TR-6 ï¼»Wondwartï¼½ Psycho Blade Cu;Advance of Zeta Re-Boot: Gundam Inle;0.0;ARZ-124WD Gundam TR-6 ï¼»Wondwar;N/A;¥2,400;2023 January
+703;AMS-119 Geara Doga;Mobile Suit Gundam Side Story: Missing Link;20.0;AMX-011C Zaku III Late Type;N/A;¥2,200;2023 January
+704;GF13-009NF Gundam Rose;Mobile Fighter G Gundam;16.2;;N/A;¥2,650;2023 February
+705;OZ-13MSX1B-S Vayeate Suivant;New Mobile Report Gundam Wing Dual Story: G-Unit;18.2;OZ-13MSX1 Vayeate;N/A;¥4,600;2023 April
+706;MS-06GD Zaku High Mobility (Surface Type);Mobile Suit Gundam: Cucuruz Doan's Island;0.0;MS-06R-1A Zaku II High Mobility Type;N/A;TBA;TBA
