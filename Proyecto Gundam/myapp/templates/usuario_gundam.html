@@ -1,0 +1,40 @@
+{% extends 'base.html' %} {% block content %}
+<h1>Listado de Usuarios y sus Gundams</h1>
+
+
+
+
+<!-- <ul>
+  {% for gundam in gundams %}
+  <li>
+    {{ gundam.name }}
+    <a href="/update/{{ gundam.uid }}">Update</a>
+    <a href="/delete/{{ gundam.uid }}">Delete</a>
+  </li>
+  {% endfor %}
+</ul> -->
+<div>
+  <table id="tablaPrincipal">
+    <tr class="tableHeaderRow">
+        <th class="tableHeader" id="cabeceraImagen"><p class="headerText">Imagen</p></th>
+        <th class="tableHeader"><p class="headerText">Nombre Gundam</p></th>
+        <th class="tableHeader"><p class="headerText">Serie</p></th>
+        <th class="tableHeader"><p class="headerText">Precio</p></th>
+        <th class="tableHeader"><p class="headerText">Nombre Usuario</p></th>
+        <th class="tableHeader"><p class="headerText">Fecha</p></th>
+
+    </tr>
+    {% for usuario_gundam_list_all1 in usuario_gundam_list_all1 %}
+    <tr>
+        <td id="columnaImagen"><a class="enlace" href="{{usuario_gundam_list_all1.Gundams.imageUrl}}" target=”_blank”><img src="{{usuario_gundam_list_all1.Gundams.imageUrl}}" alt="" class="imagenes"></a></td>
+        <td><p>{{usuario_gundam_list_all1.Gundams.name}}</p></td>
+        <td><p>{{usuario_gundam_list_all1.Gundams.series}}</p></td>
+        <td><p>{{usuario_gundam_list_all1.Gundams.price}}</p></td> 
+        <td><p>{{usuario_gundam_list_all1.Usuarios.nombre}}</p></td>
+        <td><p>{{usuario_gundam_list_all1.fecha}}</p></td> 
+    </tr>
+    {% endfor %}
+  </table>
+</div>
+
+{% endblock %}

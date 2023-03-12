@@ -10,7 +10,7 @@ def init_views(app, db_access: dict[str, Callable]):
     @app.route("/index.html", methods=["GET", "POST"])
     def index():
         return render_template("index.html")
-    @app.route("/gundams.html", methods=["GET", "POST"])
+    @app.route("/gundams", methods=["GET", "POST"])
     def gundams():
     	# invoca a la clase contact que está implementada en models.py con el método "list"
     	# y luego lanza la vista "index.html"
@@ -70,7 +70,7 @@ def init_views(app, db_access: dict[str, Callable]):
                 nombre=request.form["nombre"],
                 apellidos=request.form["apellidos"],
             )
-            return redirect("/usuarios.html")
+            return redirect("/usuarios")
         
     @app.route("/update_gundam/<int:uid>", methods=["GET", "POST"])
     def update_gundam(uid: int):
@@ -91,11 +91,11 @@ def init_views(app, db_access: dict[str, Callable]):
                 price=request.form["price"],
                 release=request.form["release"],
             )
-            return redirect("/gundams.html")
+            return redirect("/gundams")
 
 
         
-    @app.route("/usuarios.html", methods=["GET", "POST"])
+    @app.route("/usuarios", methods=["GET", "POST"])
     def Usuarios():
     	# invoca a la clase contact que está implementada en models.py con el método "list"
     	# y luego lanza la vista "index.html"
@@ -116,7 +116,7 @@ def init_views(app, db_access: dict[str, Callable]):
                 nombre=request.form["nombre"],
                 apellidos=request.form["apellidos"],
             )
-            return redirect("/usuarios.html")
+            return redirect("/usuarios")
     @app.route("/create_gundam", methods=["GET", "POST"])
     def create_gundam():
         if request.method == "GET":
@@ -133,7 +133,7 @@ def init_views(app, db_access: dict[str, Callable]):
                 price=request.form["price"],
                 release=request.form["release"],
             )
-            return redirect("/gundams.html")
+            return redirect("/gundams")
 
 
     @app.route("/delete/<int:uid>", methods=["GET", "POST"])
@@ -148,7 +148,7 @@ def init_views(app, db_access: dict[str, Callable]):
             delete_usuario(
                 uid=uid,
             )
-            return redirect("/usuarios.html")
+            return redirect("/usuarios")
 
     @app.route("/delete_gundam/<int:uid>", methods=["GET", "POST"])
     def delete_gundam(uid: int):
@@ -162,4 +162,31 @@ def init_views(app, db_access: dict[str, Callable]):
             delete_gundam(
                 uid=uid,
             )
-            return redirect("/gundams.html")
+            return redirect("/gundams")
+
+    @app.route("/usuario_gundam", methods=["GET"])
+    def usuario_gundam(): 
+        # proys_trabjs_page = int(request.args.get("pagina", 1))  
+        # -------------------------------------------------
+        
+        # -------------------------------------------------
+        # leer los valores de la BD (la función está implementada en models.py)      
+        usuario_gundam_list_all = db_access[
+            "usuario_gundam_list_all"
+        ]  
+        usuario_gundam_list_all1=usuario_gundam_list_all()
+        # proys_trabjs = usuario_gundam_list(page = proys_trabjs_page)
+        # -------------------------------------------------
+        
+        # -------------------------------------------------
+        # calcular el número total de páginas y crear listado
+        # items_by_page = int(3)      
+        # total_pages = ceil(proys_trabjs.total / items_by_page)
+        # proys_trabjs_page_list = [i + 1 for i in range(total_pages)]          
+        # -------------------------------------------------
+        
+           
+        return render_template("usuario_gundam.html",
+                               usuario_gundam_list_all1 = usuario_gundam_list_all1
+                            #    proys_trabjs_page_list = proys_trabjs_page_list
+                               )

@@ -11,6 +11,14 @@ def init_db(app) -> dict[str, Callable]:
     #     series1 = Series1.query.all()
     #     return [serie for serie in series1]
 
+    class UsuarioGundam(db.Model):
+        __tablename__ = "usuario_gundam"
+              
+        uid = db.Column("id", db.Integer, primary_key=True,autoincrement=True)
+        fecha = db.Column(db.String(255))
+        id_usuario = db.Column(db.Integer, db.ForeignKey("Usuarios.id"))
+        id_gundam = db.Column(db.Integer, db.ForeignKey("gunpla.id"))  
+
     class Gundams(db.Model):
         __tablename__ = "gunpla"
 
@@ -22,6 +30,8 @@ def init_db(app) -> dict[str, Callable]:
         imageUrl = db.Column(db.String(255)) #pendiente o comprado
         price = db.Column(db.String(128))
         release = db.Column(db.String(128))
+        usuario_gundam = db.relationship("UsuarioGundam", backref="Gundams", lazy=True)
+
 
         def __str__(self): 
             return f"[{self.uid}] {self.names} {self.series}"
@@ -75,10 +85,12 @@ def init_db(app) -> dict[str, Callable]:
     class Usuarios(db.Model):
         __tablename__ = "Usuarios"
 
-        uid = db.Column("id",db.Integer, primary_key=True)
+        uid = db.Column("id",db.Integer, primary_key=True,autoincrement=True)
         nick = db.Column(db.String(255))
         nombre = db.Column(db.String(255))
         apellidos = db.Column(db.String(255))
+        usuario_gundam = db.relationship("UsuarioGundam", backref="Usuarios", lazy=True)
+
 
         def __str__(self): 
             return f"[{self.uid}] {self.nick} {self.nombre}"
@@ -118,6 +130,10 @@ def init_db(app) -> dict[str, Callable]:
         usuarios = Usuarios.query.all()
         return [usuario for usuario in usuarios]
 
+    def usuario_gundam_list_all() -> list[UsuarioGundam]:
+        usuario_gundam_list = UsuarioGundam.query.filter_by(id_usuario = Usuarios.uid).filter_by(id_gundam = Gundams.uid)
+        # print(f"lista proyectos:{proys_list=}")  # esto es para debug, no va
+        return usuario_gundam_list 
 
     # create_all es un método de Flask-alchemy que crea la tabla con sus campos
     db.create_all()
@@ -137,6 +153,7 @@ def init_db(app) -> dict[str, Callable]:
         "create_gundam":create_gundam,
         "delete_gundam":delete_gundam,
         "update_gundam":update_gundam,
+        "usuario_gundam_list_all":usuario_gundam_list_all
 
     }
 
