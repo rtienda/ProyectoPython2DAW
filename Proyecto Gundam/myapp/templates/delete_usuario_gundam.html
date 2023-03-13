@@ -1,0 +1,10 @@
+{% extends 'base.html' %} {% block content %}
+<h1>Borrar Compra - {{ usuario_gundam.Gundams.name }} - {{usuario_gundam.Usuarios.nombre}} - {{usuario_gundam.fecha}}</h1>
+<!-- <a class="enlace" href="{{usuario_gundam.Gundams.imageUrl}}" target=”_blank”><img src="{{usuario_gundam.Gundams.imageUrl}}" alt="" class="imagenes"></a> -->
+<a href="/usuario_gundam">Back</a><br /><br />
+
+<p>Estas seguro?</p>
+<form action="/delete_usuario_gundam/{{ usuario_gundam.uid }}" method="post">
+  <input type="submit" value="Delete_usuario_gundam" />
+</form>
+{% endblock %}

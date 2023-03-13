@@ -134,6 +134,33 @@ def init_db(app) -> dict[str, Callable]:
         usuario_gundam_list = UsuarioGundam.query.filter_by(id_usuario = Usuarios.uid).filter_by(id_gundam = Gundams.uid)
         # print(f"lista proyectos:{proys_list=}")  # esto es para debug, no va
         return usuario_gundam_list 
+    
+    def delete_usuario_gundam(uid: int):
+        usuario_gundam = UsuarioGundam.query.get(uid)
+        db.session.delete(usuario_gundam)
+        db.session.commit()
+
+    def create_usuario_gundam( fecha: str, id_usuario: int, id_gundam: int):
+        usuario_gundam = UsuarioGundam()
+        usuario = Usuarios()
+        gundam = Gundams()
+        usuario_gundam.fecha = fecha
+        usuario_gundam.id_usuario = id_usuario
+        usuario_gundam.id_gundam = id_gundam
+        db.session.add(usuario_gundam)
+        db.session.commit()
+
+    def read_usuario_gundam(uid: int) -> UsuarioGundam:
+        return UsuarioGundam.query.get(uid)
+    
+    def update_usuario_gundam(
+        uid: int, fecha: str, id_usuario: int, id_gundam: int
+    ):
+        usuario_gundam = UsuarioGundam.query.get(uid)
+        usuario_gundam.fecha = fecha
+        usuario_gundam.id_usuario = 1 #id_usuario
+        usuario_gundam.id_gundam = 1 #id_gundam
+        db.session.commit()
 
     # create_all es un método de Flask-alchemy que crea la tabla con sus campos
     db.create_all()
@@ -153,7 +180,11 @@ def init_db(app) -> dict[str, Callable]:
         "create_gundam":create_gundam,
         "delete_gundam":delete_gundam,
         "update_gundam":update_gundam,
-        "usuario_gundam_list_all":usuario_gundam_list_all
+        "usuario_gundam_list_all":usuario_gundam_list_all,
+        "delete_usuario_gundam":delete_usuario_gundam,
+        "create_usuario_gundam":create_usuario_gundam,
+        "read_usuario_gundam":read_usuario_gundam,
+        "update_usuario_gundam":update_usuario_gundam,
 
     }
 

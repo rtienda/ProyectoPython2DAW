@@ -163,6 +163,20 @@ def init_views(app, db_access: dict[str, Callable]):
                 uid=uid,
             )
             return redirect("/gundams")
+        
+    @app.route("/delete_usuario_gundam/<int:uid>", methods=["GET", "POST"])
+    def delete_usuario_gundam(uid: int):
+        if request.method == "GET":
+            read_usuario_gundam = db_access["read_usuario_gundam"]
+            usuario_gundam = read_usuario_gundam(uid)
+            return render_template("delete_usuario_gundam.html", usuario_gundam=usuario_gundam)
+
+        if request.method == "POST":
+            delete_usuario_gundam = db_access["delete_usuario_gundam"]
+            delete_usuario_gundam(
+                uid=uid,
+            )
+            return redirect("/usuario_gundam")
 
     @app.route("/usuario_gundam", methods=["GET"])
     def usuario_gundam(): 
@@ -190,3 +204,32 @@ def init_views(app, db_access: dict[str, Callable]):
                                usuario_gundam_list_all1 = usuario_gundam_list_all1
                             #    proys_trabjs_page_list = proys_trabjs_page_list
                                )
+    
+    @app.route("/create_usuario_gundam", methods=["GET", "POST"])
+    def create_usuario_gundam():   
+        
+        list_gundams = db_access["list_gundams"] 
+        gundams = list_gundams()
+        
+        list_usuarios = db_access[ "list_usuarios"] 
+        usuarios = list_usuarios()  
+        
+        usuario_gundam_list_all = db_access["usuario_gundam_list_all"]
+        usuario_gundam = usuario_gundam_list_all()  
+         
+        return render_template("create_usuario_gundam.html",
+                            usuarios = usuarios, 
+                            gundams = gundams,  
+                            usuario_gundam = usuario_gundam, 
+                            )
+        
+    @app.route("/create_usuario_gundam_fecha", methods=["GET", "POST"])
+    def create_usuario_gundam_fecha():
+        if request.method == "POST":
+            create_usuario_gundam = db_access["create_usuario_gundam"]
+            create_usuario_gundam(
+                fecha=request.form["usuario_gundam_fecha"],
+                id_usuario=int(request.form["usuario_id"]),
+                id_gundam=int(request.form["gundam_id"])               
+            )
+            return redirect("/create_usuario_gundam")

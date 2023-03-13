@@ -1,6 +1,6 @@
 {% extends 'base.html' %} {% block content %}
 <h1>Delete Gundam - {{ usuario.fullname }}</h1>
-<a href="/usuarios.html">Back</a><br /><br />
+<a href="/usuarios">Back</a><br /><br />
 
 <p>Are you sure?</p>
 <form action="/delete/{{ usuario.uid }}" method="post">

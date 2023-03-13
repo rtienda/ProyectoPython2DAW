@@ -1,0 +1,57 @@
+{% extends 'base.html' %} {% block content %}
+<h1>Crea una compra</h1>
+<a href="/usuario_gundam">Atras</a><br /><br />
+
+
+  
+    <table width="100%">
+        <tbody>
+          <tr>
+            <td class="align-top" width="50%">
+              <form id="createForm" action="/create_usuario_gundam_fecha" method="post">
+                <label for="usuario_gundam_input">Fecha de Compra</label>
+                <input type="text" name="usuario_gundam_fecha" id="usuario_gundam_input" /><br />
+                <br/>
+      
+                <label for="usuario_select">Usuario</label>
+                <select id="usuario_select" name="usuario_id">
+                  {% for usuario in usuarios %}
+                  <option value="{{ usuario.uid }}">
+                    {{ usuario.uid }} - {{ usuario.nombre }} {{ usuario.apellidos }}
+                  </option>
+                  {% endfor %}
+                </select>
+                <br/>
+      
+                <label for="gundam_select">Gundam</label>
+                <select id="gundam_select" name="gundam_id">
+                  {% for gundam in gundams %}
+                  <option value="{{ gundam.uid }}">
+                    {{ gundam.uid }} - {{ gundam.name }} - {{ gundam.series }}
+                  </option>
+                  {% endfor %}
+                </select>
+                <br/>
+      
+              
+                <input type="submit" value="Añadir" />
+                <!--  si está dentro de un formulario este es el botón input type="submit"  Actualizar es la etiqueta que aparece en la página web-->
+              </form>
+      
+            </td>
+          </tr>
+        </tbody>
+      </table>
+
+
+
+<!-- Botón fuera del formulario -->
+
+<!-- <button id="clearButton">Clear</button> -->
+<!-- <button id="hideButton">Hide</button> -->
+<!-- <button id="showButton">Show</button> -->
+{% endblock %}
+
+{% block js %}
+<script src="{{ url_for('static', filename='validation.js') }}"></script>
+{% endblock %}

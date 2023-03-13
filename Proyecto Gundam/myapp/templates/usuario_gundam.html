@@ -2,7 +2,7 @@
 <h1>Listado de Usuarios y sus Gundams</h1>
 
 
-
+<a href="/create_usuario_gundam">Nueva Compra</a>
 
 <!-- <ul>
   {% for gundam in gundams %}
@@ -22,6 +22,8 @@
         <th class="tableHeader"><p class="headerText">Precio</p></th>
         <th class="tableHeader"><p class="headerText">Nombre Usuario</p></th>
         <th class="tableHeader"><p class="headerText">Fecha</p></th>
+        <th class="tableHeader"><p class="headerText">Actualizar</p></th>
+        <th class="tableHeader"><p class="headerText">Borrar</p></th>
 
     </tr>
     {% for usuario_gundam_list_all1 in usuario_gundam_list_all1 %}
@@ -32,6 +34,8 @@
         <td><p>{{usuario_gundam_list_all1.Gundams.price}}</p></td> 
         <td><p>{{usuario_gundam_list_all1.Usuarios.nombre}}</p></td>
         <td><p>{{usuario_gundam_list_all1.fecha}}</p></td> 
+        <td><a href="/update_usuario_gundam/{{ usuario_gundam_list_all1.uid }}">Actualizar Compra</a></td>
+        <td><a href="/delete_usuario_gundam/{{ usuario_gundam_list_all1.uid }}">Borrar Compra</a></td>
     </tr>
     {% endfor %}
   </table>
