@@ -1,6 +1,6 @@
 {% extends 'base.html' %} {% block content %}
 <h1>Actualiza el Gundam - {{ gundam.fullname }}</h1>
-<a href="/gundams.html">Atras</a><br /><br />
+<a href="/gundams">Atras</a><br /><br />
 
 <form action="/update_gundam/{{ gundam.uid }}" method="post">
   <label for="name_input">Nombre</label>
@@ -17,13 +17,13 @@
     id="series_input"
     value="{{ gundam.series }}"
   /><br />
-  <label for="height_input">Altura</label>
+  <!-- <label for="height_input">Altura</label>
   <input
     type="number"
     name="height"
     id="height_input"
     value="{{ gundam.height }}"
-  /><br />
+  /><br /> -->
   <label for="manufacturer_input">Manufacturador</label>
   <input
     type="text"

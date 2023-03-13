@@ -25,7 +25,7 @@ def init_db(app) -> dict[str, Callable]:
         uid = db.Column("id",db.Integer, primary_key=True, autoincrement=True)
         name = db.Column(db.String(255))
         series = db.Column(db.String(255))
-        height = db.Column(db.Integer())
+        # height = db.Column(db.Float())
         manufacturer = db.Column(db.String(255))
         imageUrl = db.Column(db.String(255)) #pendiente o comprado
         price = db.Column(db.String(128))
@@ -43,9 +43,9 @@ def init_db(app) -> dict[str, Callable]:
             return f"{self.name} {self.series}"
 
     # ------------- métodos que operan sobre el contenido la tabla -----------
-    def create_gundam(name: str, series: str, height: int, manufacturer: str,imageUrl: str, price: str,release: str):
+    def create_gundam(name: str, series: str,  manufacturer: str,imageUrl: str, price: str,release: str):
         gundam = Gundams(
-            name=name, series=series, height=height, manufacturer=manufacturer, imageUrl=imageUrl, price=price,release=release
+            name=name, series=series,  manufacturer=manufacturer, imageUrl=imageUrl, price=price,release=release
         )
         db.session.add(gundam)
         db.session.commit()
@@ -54,12 +54,12 @@ def init_db(app) -> dict[str, Callable]:
         return Gundams.query.get(uid)
 
     def update_gundam(
-        uid: int, name: str, series: str, height: int, manufacturer: str,imageUrl: str, price: str,release: str
+        uid: int, name: str, series: str, manufacturer: str,imageUrl: str, price: str,release: str
     ):
         gundam = Gundams.query.get(uid)
         gundam.name = name
         gundam.series = series
-        gundam.height = height
+        # gundam.height = height
         gundam.manufacturer = manufacturer
         gundam.imageUrl = imageUrl
         gundam.price = price

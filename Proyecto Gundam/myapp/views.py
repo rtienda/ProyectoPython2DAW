@@ -85,7 +85,7 @@ def init_views(app, db_access: dict[str, Callable]):
                 uid=uid,
                 name=request.form["name"],
                 series=request.form["series"],
-                height=int(request.form["height"]),
+                # height=float(request.form["height"]),
                 manufacturer=request.form["manufacturer"],
                 imageUrl=request.form["imageUrl"],
                 price=request.form["price"],
@@ -127,7 +127,7 @@ def init_views(app, db_access: dict[str, Callable]):
             create_gundam(
                 name=request.form["name"],
                 series=request.form["series"],
-                height=int(request.form["height"]),
+                # height=float(request.form["height"]),
                 manufacturer=request.form["manufacturer"],
                 imageUrl=request.form["imageUrl"],
                 price=request.form["price"],
