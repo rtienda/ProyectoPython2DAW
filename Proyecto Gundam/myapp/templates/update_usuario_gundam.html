@@ -1,0 +1,18 @@
+{% extends 'base.html' %} {% block content %}
+<h1>Actualiza la compra - {{ usuario_gundam.Gundams.fullname }} - {{usuario_gundam.Usuarios.fullname}} - fecha: {{usuario_gundam.fecha}}</h1>
+<a href="/usuario_gundam">Atras</a><br /><br />
+
+<form action="/update_usuario_gundam/{{ usuario_gundam.uid }}" method="post">
+  <label for="fecha_input">fecha</label>
+  <input
+    type="text"
+    name="fecha"
+    id="fecha_input"
+    value="{{ usuario_gundam.fecha }}"
+  /><br />
+
+
+ 
+  <button id="submitButton1">Actualizar</button>
+</form>
+{% endblock %}

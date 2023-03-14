@@ -233,3 +233,19 @@ def init_views(app, db_access: dict[str, Callable]):
                 id_gundam=int(request.form["gundam_id"])               
             )
             return redirect("/create_usuario_gundam")
+        
+    @app.route("/update_usuario_gundam/<int:uid>", methods=["GET", "POST"])
+    def update_usuario_gundam(uid: int):
+        if request.method == "GET":
+            read_usuario_gundam = db_access["read_usuario_gundam"]
+            usuario_gundam = read_usuario_gundam(uid)
+            return render_template("update_usuario_gundam.html", usuario_gundam=usuario_gundam)
+
+        if request.method == "POST":
+            update_usuario_gundam = db_access["update_usuario_gundam"]
+            update_usuario_gundam(
+                uid=uid,
+                fecha=request.form["fecha"],
+  
+            )
+            return redirect("/usuario_gundam")

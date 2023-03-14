@@ -154,12 +154,11 @@ def init_db(app) -> dict[str, Callable]:
         return UsuarioGundam.query.get(uid)
     
     def update_usuario_gundam(
-        uid: int, fecha: str, id_usuario: int, id_gundam: int
+        uid: int, fecha: str
     ):
         usuario_gundam = UsuarioGundam.query.get(uid)
         usuario_gundam.fecha = fecha
-        usuario_gundam.id_usuario = 1 #id_usuario
-        usuario_gundam.id_gundam = 1 #id_gundam
+
         db.session.commit()
 
     # create_all es un método de Flask-alchemy que crea la tabla con sus campos
