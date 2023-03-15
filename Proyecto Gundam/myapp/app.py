@@ -1,5 +1,5 @@
 from flask import Flask
-
+import re
 def create_app():
     app = Flask(__name__)
     app.config["SQLALCHEMY_DATABASE_URI"] = "sqlite:///gunplaDataNuevasImagenes copy.sqlite3"

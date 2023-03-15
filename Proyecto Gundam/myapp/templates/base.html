@@ -11,7 +11,8 @@
       href="{{ url_for('static', filename='mystyle.css') }}"
     /> -->
   </head>
-  <body>
+  <body onload="reproducirMusica()">
+    <audio id="miAudio"src="../static/musica.mp3"></audio>
     <div id="header">
       <a href="index.html">
           <img id="logo" src="../static/images/gundam_logo.png" alt="">
@@ -40,7 +41,7 @@
     <main>{% block content %} {% endblock %}</main>
 
     {% block js %}
-    <!-- <script src="index.js"></script> -->
+    <script src="../static//index.js"></script>
     {% endblock %}
   </body>
 </html>

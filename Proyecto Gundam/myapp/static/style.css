@@ -4,6 +4,8 @@
     padding: 0;
     box-sizing: border-box;
     font-family: "Trebuchet", sans-serif;
+    text-decoration: none;
+
 }
 
 @font-face {
@@ -201,4 +203,23 @@ td{
 }
 .enlace{
 
+}
+#textoPrincipal{
+    visibility: hidden;
+    width: 86vw;
+}
+#BotonPrincipal{
+    display: flex;
+    text-align: center;
+    width: 200px;
+    margin: 40px;
+}
+#indexMain{
+    display: flex;
+    flex-direction: column  ;
+    justify-content: center;
+    align-items: center;
+}
+#texto{
+    padding: 6px;
 }

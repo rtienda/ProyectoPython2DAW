@@ -37,6 +37,7 @@ def init_views(app, db_access: dict[str, Callable]):
             list_gundams_filtro = db_access["list_gundams_filtro"]
             series1= list_gundams_filtro()            
         return render_template("gundams.html", gundams=gundams,series1=series1)
+    
     @app.route("/gundams/<series2>", methods=["GET", "POST"])
     def gundamsBusqueda(series2: str):
     	# invoca a la clase contact que está implementada en models.py con el método "list"
@@ -110,11 +111,21 @@ def init_views(app, db_access: dict[str, Callable]):
             return render_template("create_usuario.html")
 
         if request.method == "POST":
+            
+            nick = request.form["nick"]
+            nombre = request.form["nombre"]
+            apellidos = request.form["apellidos"]
+
+            # Procesamiento para convertir a minúscula excepto la primera letra
+            nick = nick.lower().capitalize()
+            nombre = nombre.lower().capitalize()
+            apellidos = apellidos.lower().capitalize()
+
             create_usuario = db_access["create_usuario"]
             create_usuario(
-                nick=request.form["nick"],
-                nombre=request.form["nombre"],
-                apellidos=request.form["apellidos"],
+                nick=nick,
+                nombre=nombre,
+                apellidos=apellidos,
             )
             return redirect("/usuarios")
     @app.route("/create_gundam", methods=["GET", "POST"])
